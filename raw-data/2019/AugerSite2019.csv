@@ -1,0 +1,6 @@
+ID,Patch Number,Auger Number,Patch Name,Landscape Position,Close to Hydrologic Feature,Additional Notes,Longitude,Latitude,Depth of O (mm) (if present),Depth of A (mm)
+,,,HERUN 2,EDGE OF PATCH,NO,,,,,170
+,,,HOLBIRD 2,EDGE OF PATCH,YES,,,,,350
+,,,HOLBRD1,EDGE OF PATCH,NO,,,,,280
+,,28,SHORTL,Flood plain,,Next to cemetary. On floodplain,39.27642477,-76.68174923,,15
+,,21,FENDALL,INTERIOR OF PATCH,NO,Close to golf course,39.32536123,-76.70728649,.,13

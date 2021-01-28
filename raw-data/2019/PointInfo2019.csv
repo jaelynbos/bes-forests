@@ -1,0 +1,296 @@
+ID,Patch Number,Point Code,Soil Taken,Bulk Density Taken,Depth of O Layer (Punch)(mm),%Ground Cover,% Bare Ground,Depth of A Layer (Punch) (mm),Additional Notes,% Impervious Surface,Date Sampled,Field Techs
+,,BARPRK 1,YES,YES,,30,70,120,"Near egde (backyards), near manhole",,,
+,,BARPRK 12,YES,YES,,15,85,70,"NEAR EDGE, BY HOUSES; GAPS IN CANOPY",,7/29/2019,Lauren Kurtz
+,,BARPRK 13,YES,YES,,40,60,40,"Near edge (road), gaps in canopy",,,
+,,BARPRK 14,YES,YES,,10,90,50,NEAR EDGE/YARD,,7/29/2019,Lauren Kurtz
+,,BARPRK 16,YES,YES,,15,85,150,BETWEEN STORMDRAIN AND TWO MANHOLES; BACKYEARDS ON BOTH SIDES,,7/29/2019,Lauren Kurtz
+,,BARPRK 17,YES,YES,,15,85,70,NEAR EDGE/BACKYARDS,,7/29/2019,Lauren Kurtz
+,,BARPRK 18,YES,YES,,20,80,50,ON EDGE NEXT TO FIELD/BASKETBALL COURT,,7/29/2019,Lauren Kurtz
+,,BARPRK 2,YES,YES,,35,65,205,near a small gully/ ephemeral stream,,,
+,,BARPRK 3,YES,YES,,15,85,70,"Near edge (backyards), wood pile, in ephemeral stream",,,
+,,BARPRK 4,YES,YES,,50,50,60,NEAR EDGE/BACKYARDS,,7/29/2019,Lauren Kurtz
+,,BARPRK 5,YES,YES,,20,80,70,Bottom of small slope,,,
+,,BARPRK 6,YES,YES,,50,50,45,Sunny Patch. Lots of dead trees. Near marshy area,,,
+,,BARPRK 7,YES,YES,,60,40,45,"on edge (Backyard), slight slope",,,
+,,BARPRK 8,YES,YES,,60,40,60,"near sunny patch, bottom of steep slope, rusty shopping cart",,,
+,,BARPRK 9,YES,YES,,80,20,30,"Next to edge (road + backyard), on slope, some dumping",,,
+,,CAROLL 1,YES,YES,,25,75,80,"garbage on edge, soil is very compacted",0,7/22/2019,Jennifer Strakna
+,,CAROLL 10,YES,YES,,80,20,50,"on edge, free swivel chair",0,7/22/2019,Jennifer Strakna
+,,CAROLL 11,YES,YES,,100,0,,sunny patch,,7/22/2019,Carol Frimpong
+,,CAROLL 12,YES,YES,,50,50,60,top of hill near gap in camopy. Forest center,,7/22/2019,Laura Wortman
+,,CAROLL 13,YES,YES,,15,85,60,"top of hill near road, evidence of active trash dumping activities",0,7/22/2019,Jennifer Strakna
+,,CAROLL 15,YES,YES,,30,70,90,ON EDGE LOTS OF YOUNG TREES,,7/22/2019,Charise Pelan-Maclean
+,,CAROLL 16,YES,YES,,15,85,90,"giant poison ivy tree, lots of fallen trees",0,7/22/2019,Jennifer Strakna
+,,CAROLL 17,YES,YES,,80,20,60,n/a,0,7/22/2019,Jennifer Strakna
+,,CAROLL 18,YES,YES,,40,60,,lots of grasses,,7/22/2019,Carol Frimpong
+,,CAROLL 19,YES,YES,,40,60,40,,,7/22/2019,Laura Wortman
+,,CAROLL 22,YES,YES,,10,90,100,INTERMEDIATE FOREST; UNHAPPY TREES; SMALL RIDGE RUNNING THROUGH,,7/24/2019,Lauren Kurtz
+,,CAROLL 23,YES,YES,,40,60,90,LOTS OF FALLEN TREES,,7/22/2019,Charise Pelan-Maclean
+,,CAROLL 24,YES,YES,,75,25,170,POSION IVY TREES ,,7/22/2019,Charise Pelan-Maclean
+,,CAROLL 25,YES,YES,,50,50,120,hole in fence,0,7/22/2019,Jennifer Strakna
+,,CAROLL 29,YES,YES,,95,5,90,"open canopy, lots of fallen trees, new tree growth",0,7/24/2019,Jennifer Strakna
+,,CAROLL 30,YES,YES,,90,10,75,"no trees, lots of grasses and mile a minute",0,7/24/2019,Jennifer Strakna
+,,CAROLL 36,YES,YES,,95,5,675,STILTGRASS AND MILE-A-MINUTE PROMINENT,,7/24/2019,Lauren Kurtz
+,,CAROLL 4,YES,YES,,40,60,,edge with field,,7/22/2019,Carol Frimpong
+,,CAROLL 42,YES,YES,,100,0,130,ON EDGE; FULL SUN,,7/24/2019,Lauren Kurtz
+,,CAROLL 43,YES,YES,,15,85,100,ON TOP OF STEEP HILL BESIDES FENCE,,24-Jul,Charise Pelan-Maclean
+,,CAROLL 49,YES,YES,,45,55,80,TOP OF HILL NEAR FENCE,,7/24/2019,Lauren Kurtz
+,,CAROLL 5,YES,YES,,6,94,80,lots of plastic Garbage! Dumping. Center of patch,,7/22/2019,Laura Wortman
+,,CAROLL 2,YES,YES,,30,70,,On a slpoe near the edge,,7/22/2019,Caitlin Beckjord
+,,CAROLL 20,YES,YES,,40,60,,,,7/22/2019,Caitlin Beckjord
+,,CAROLL 6,YES,YES,,30,70,,On the top of a hill near a road,,7/22/2019,Caitlin Beckjord
+,,CLIFTON  1 ,YES,YES,,50,50,190,"on the edge next to golf course, lots of tree debris, abandoned Clifton Park Gardener's Cottage",0,7/15/2019,Jennifer Strakna
+,,CLIFTON 10,YES,YES,,15,85,110,"near the edge, very swampy, tons of poison ivy in trees",0,7/15/2019,Jennifer Strakna
+,,CLIFTON 11,YES,YES,,5,95,120,"near site edge, lots of human activity(perforation), next to fence of abandoned Clifton Park Gardener's Cottage",0,7/15/2019,Jennifer Strakna
+,,CLIFTON 18,YES,YES,,50,50,150,"near the edge, very swampy",0,7/15/2019,Jennifer Strakna
+,,CLIFTON 19,YES,YES,,95,5,140,"on the edge, open canopy, almost full sun",0,7/15/2019,Jennifer Strakna
+,,CLIFTON 20,YES,YES,,15,85,210,near edge,,7/15/2019,Laura Wortman
+,,CLIFTON 3,YES,YES,,40,60,120,near the edge and the abandoned Clifton Park Gardener's Cottage,0,7/15/2019,Jennifer Strakna
+,,CLIFTON 4,YES,YES,,100,0,70,near the edge in a large patch of Virginia Knotweed,0,7/15/2019,Jennifer Strakna
+,,CLIFTON 12,YES,YES,,100,0,,On the edge in full sun. Lots of mile a min. Loat od cabbage skippers. Next to community garden.,,7/15/2019,Caitlin Beckjord
+,,CLIFTON 14,YES,YES,,40,60,,On edge of golf course ,,7/15/2019,Caitlin Beckjord
+,,CLIFTON 17,YES,YES,,95,5,,Yellow buckeye tree here. On edge and next to a community garden. ,,7/15/2019,Caitlin Beckjord
+,,CLIFTON 22,NO,NO,,75,25,,On the edge next to a side street and buildings/ storage containers.,,7/15/2019,Caitlin Beckjord
+,,CLIFTON 23,YES,YES,,0,100,,"Near the edge, lots of dead grass. Evidence of dumping",,7/15/2019,Caitlin Beckjord
+,,CLIFTON 6,YES,YES,,40,60,,Between the edge and the interior ,,7/15/2019,Caitlin Beckjord
+,,CLIFTON 9,YES,YES,,100,0,,Interior of the patch. Old patio area and picnic tables. Open forest floor.,,7/15/2019,Caitlin Beckjord
+,,FEBDAL 18,YES,YES,,10,90,,,,6/28/2019,Caitlin Beckjord
+,,FENDAL 10,YES,YES,,10,90,,Middle/intermediate forest,,6/28/2019,Carol Frimpong
+,,FENDAL 102,YES,YES,,3,97,70,IN EDGE/BY NEIGHBORHOOD,,7/10/2019,Lauren Kurtz
+,,FENDAL 103,YES,YES,,2,98,120,"intermediate forest, close to edge next to neighborhood",0,7/10/2019,Jennifer Strakna
+,,FENDAL 104,YES,YES,,,,,,,,Charise Pelan-Maclean
+,,FENDAL 105,YES,YES,,20,80,95,Transition between edge & intermediate forest,,7/10/2019,Laura Wortman
+,,FENDAL 109,YES,YES,,5,95,100,"near golf course, on forest edge",0,7/10/2019,Jennifer Strakna
+,,FENDAL 110,YES,YES,,3,97,60,ON MOUND WITH CONCRETE CHUNKS AND BOULDERS,,7/10/2019,Lauren Kurtz
+,,FENDAL 111,YES,YES,,50,50,,Near edge,,7/10/2019,Carol Frimpong
+,,FENDAL 112,YES,YES,,80,20,,,,7/10/2019,Carol Frimpong
+,,FENDAL 116,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,FENDAL 14,YES,YES,,10,90,,Edge of forest near golf course. Right on edge of forest. Old fire pit. Large pile of placed boulders. Golf course on edge,,6/28/2019,Laura Wortman
+,,FENDAL 16,YES,YES,,2,98,,Flags placed here by some one else.,,6/28/2019,Laura Wortman
+,,FENDAL 21,YES,YES,,5,95,,Random witch hazel around. Golf Balls on forest floor. Interior of forest patch,,6/28/2019,Laura Wortman
+,,FENDAL 33,YES,YES,,25,75,,"Fallen logs, greenbrier",,7/1/2019,Carol Frimpong
+,,FENDAL 38,YES,YES,,5,95,,Between small stream and golf course. Lots of skunk cabbage.,,7/1/2019,Carol Frimpong
+,,FENDAL 39,YES,YES,,5,95,,"Near stream, dead trees leave canopy openings",,7/1/2019,Carol Frimpong
+,,FENDAL 40,YES,YES,,5,95,,Big dead trees leave gaps in canopy. Muddy,,7/1/2019,Carol Frimpong
+,,FENDAL 45,YES,YES,,5,95,,On edge of forest with denser canopy,,7/1/2019,Carol Frimpong
+,,FENDAL 46,YES,YES,,6,94,,Overturned tree and greenbrier in semi-open canopy,,7/1/2019,Carol Frimpong
+,,FENDAL 47,YES,YES,,5,95,,"Next to dried up stream bed. Dead trees, sparse canopy.",,7/1/2019,Carol Frimpong
+,,FENDAL 48,YES,YES,,15,85,,Near stream and swamp cabbage on edge,,7/1/2019,Carol Frimpong
+,,FENDAL 49,YES,YES,,5,95,,On edge of golf course. lots of skunk cabbage,,7/1/2019,Carol Frimpong
+,,FENDAL 5,YES,YES,,10,90,,Next to edge,,6/28/2019,Laura Wortman
+,,FENDAL 55,YES,YES,,4,96,,"Lots of fallen branches, small gully. Interior of patch",,7/1/2019,Carol Frimpong
+,,FENDAL 56,YES,YES,,10,90,,Near edge. Close to houses. Downhill slope from road,,7/1/2019,Carol Frimpong
+,,FENDAL 59,YES,YES,,2,98,110,"Site is near edge, has open canopy",0,7/9/2019,Jennifer Strakna
+,,FENDAL 60,YES,YES,,5,95,,Near stream. severe erosion near left bank. drainage pipe,,7/9/2019,Carol Frimpong
+,,FENDAL 62,YES,YES,,10,90,70,near fallen tree and puddle with tadpoles,0,7/9/2019,Jennifer Strakna
+,,FENDAL 63,YES,YES,,60,40,120,Near Fallen Northern Red Oak. lots of younger tree growth. female box turtle,,7/9/2019,Laura Wortman
+,,FENDAL 67,YES,YES,,10,90,,"Near swamp, lots of trash, also near golf course.",,7/9/2019,Carol Frimpong
+,,FENDAL 68,YES,YES,10,8,92,70,NEAR STREAM,,7/9/2019,Lauren Kurtz
+,,FENDAL 69,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,FENDAL 7,YES,YES,,1,99,,Right on edge/yard. Borders someones back yard.,,6/28/2019,Laura Wortman
+,,FENDAL 70,YES,YES,,5,95,,Near edge and houses,,7/9/2019,Carol Frimpong
+,,FENDAL 74,YES,YES,,8,92,100,NEAR EDGE/PAWPAW PRESENT,,7/9/2019,Lauren Kurtz
+,,FENDAL 75,YES,YES,,3,97,230,"open canopy, near edge of forest",0,7/9/2019,Jennifer Strakna
+,,FENDAL 76,YES,YES,,2,98,160,interior of patch ,0,7/9/2019,Jennifer Strakna
+,,FENDAL 78,YES,YES,,5,95,80,on edge of forest right next to a golf course,0,7/9/2019,Jennifer Strakna
+,,FENDAL 8,YES,YES,,2,98,,Right on Eedge/street. Site next to road. Easily accessible - doesn't look like its used much - but  some evidence of dumping,,6/28/2019,Laura Wortman
+,,FENDAL 81,YES,YES,,5,95,140,Near edge of forest.,,7/9/2019,Laura Wortman
+,,FENDAL 82,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,FENDAL 83,YES,YES,,40,60,60,on interior of patch,0,7/9/2019,Jennifer Strakna
+,,FENDAL 84,YES,YES,,1,99,90,NEXT TO EDGE,,7/9/2019,Lauren Kurtz
+,,FENDAL 89,YES,YES,,8,92,130,Interior of patch.,,7/9/2019,Laura Wortman
+,,FENDAL 9,YES,YES,,5,95,,on slight slope,,6/28/2019,Laura Wortman
+,,FENDAL 90,YES,YES,,5,95,70,Interior of forest. Open canopy,,7/9/2019,Laura Wortman
+,,FENDAL 91,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,FENDAL 96,YES,YES,,15,85,95,Intermediate/40m to edge of golf course.,,7/10/2019,Laura Wortman
+,,FENDAL 97,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,FENDAL 98,YES,YES,,10,90,140,"intermediate forest, all trees within prism were ""0"" on Schumaker scale",0,7/10/2019,Jennifer Strakna
+,,FENDAL 99,YES,YES,,2,98,80,NEAR EDGE/NEXT TO ROAD,,07/10/29109,Lauren Kurtz
+,,FENDAL106,YES,YES,,5,95,,On edge next to gold course.,,7/10/2019,Caitlin Beckjord
+,,FENDAL 17,YES,YES,,10,90,,,,6/28/2019,Caitlin Beckjord
+,,FENDAL 2,YES,YES,,5,95,,Right on the edge of the patch ,,6/28/2019,Caitlin Beckjord
+,,FENDAL 20,YES,YES,,5,95,,Near forest edge,,6/28/2019,Caitlin Beckjord
+,,FENDAL 27,YES,YES,,5,95,,"Open canopy, several generations of trees,very close to edge of patch, golf course is the matrix",,6/28/2019,Caitlin Beckjord
+,,FENDAL 28,YES,YES,,5,95,,"Canopy is broken, point in the interior of the patch ",,6/28/2019,Caitlin Beckjord
+,,FENDAL 41,YES,YES,,90,10,,Grassy pathch with an open canopy due to a dead tree,,7/1/2019,Caitlin Beckjord
+,,FENDAL 42,YES,YES,,25,75,,"Site is directly on the edge, lots of dead branches.",,7/1/2019,Caitlin Beckjord
+,,FENDAL 53,YES,YES,,5,95,,Lots of fallen trees and smaller yonger trees. Interior of patch.,,7/1/2019,Caitlin Beckjord
+,,FENDAL 54,YES,YES,,3,97,,"Flags from another organization present, electrial box near site",,7/1/2019,Caitlin Beckjord
+,,FENDAL 56,YES,YES,,10,90,,Near egde and close to houses. Downhill slope from road.,,7/1/2019,Caitlin Beckjord
+,,FENDAL 6,YES,YES,,15,85,,At the edge of forest and near a house,,6/28/2019,Caitlin Beckjord
+,,FENDAL 61,YES,YES,,7,93,,"Imterior of forest near a fallen tree, Wavy leaf basket grass present",,7/9/2019,Caitlin Beckjord
+,,FENDAL 77,YES,YES,,5,95,,Near the edge of the patch ,,7/9/2019,Caitlin Beckjord
+,,FENDAL 85,YES,YES,,5,95,,on the edge next to a side street and houses ,,7/9/3019,Caitlin Beckjord
+,,FENDAL 88,YES,YES,,10,90,,Near the edge of the patch ,,7/9/2019,Caitlin Beckjord
+,,FENDAL 95,YES,YES,,20,80,,On edge of golf course. Lots of young trees with vines. ,,7/10/2019,Caitlin Beckjord
+,,HERUN 29,YES,YES,,10,90,80,ON SLOPE NEXT TO PATH,,7/18/2019,Lauren Kurtz
+,,HERUN 21,YES,YES,,50,50,70,UP SLOPE FROM PATH,,7/18/2019,Lauren Kurtz
+,,HERUN2 10,YES,YES,,90,10,200,,,7/19/2019,Laura Wortman
+,,HERUN2 11,YES,YES,,2,98,70,,,7/19/2019,Laura Wortman
+,,HERUN2 14,YES,YES,,4,96,,,,7/16/2019,Carol Frimpong
+,,HERUN2 15,YES,YES,,3,97,,Bottom of slope,,7/16/2019,Carol Frimpong
+,,HERUN2 16,YES,YES,,10,90,,On slope near paved path,,7/18/2019,Carol Frimpong
+,,HERUN2 17,YES,YES,,25,75,80,clear path,,7/16/2019,Laura Wortman
+,,HERUN2 18,YES,YES,,30,70,,,,7/16/2019,Carol Frimpong
+,,HERUN2 19,YES,YES,,50,50,20, brambly and next to a little hill,0,7/18/2019,Jennifer Strakna
+,,HERUN2 2,YES,YES,,5,95,150,ON LSIGHT HILL,,7/19/2019,Lauren Kurtz
+,,HERUN2 20,YES,YES,,40,60,,Just off dirt path. Near edge,,7/18/2019,Carol Frimpong
+,,HERUN2 21,YES,YES,,60,40,,Next to a big hole in the canopy,,7/18/2019,Carol Frimpong
+,,HERUN2 22,YES,YES,,30,70,70,,,7/16/2019,Charise Pelan-Maclean
+,,HERUN2 23,YES,YES,,50,50,,"Intermediate forest, there is a path, by a sharp incline",,7/16/2019,Carol Frimpong
+,,HERUN2 24,YES,YES,,20,80,60,NEAR EDGE OF HILL,,7/18/2019,Lauren Kurtz
+,,HERUN2 25,YES,YES,,70,30,60,STORMWATER/SEWAGE STRUCTURE,,7/18/2019,Lauren Kurtz
+,,HERUN2 26,YES,YES,,10,90,100,NEAR EDGE; HEAVY RAINFALL NIGHT BEFORE,,7/18/2019,Lauren Kurtz
+,,HERUN2 27,YES,YES,,80,20,70,NEAR FOREST EDGE,,7/16/2019,Charise Pelan-Maclean
+,,HERUN2 28,YES,YES,,5,95,100,"STEEP SLOPE, ABOVE HIKING PATH",,7/17/2019,Lauren Kurtz
+,,HERUN2 29,YES,YES,,2,98,100,CLEAR FLOOR/NEAR BIG BRAMBLE PATCH; YOUNG DEAD TREES/MINIMAL VINES,,7/17/2019,Lauren Kurtz
+,,HERUN2 3,YES,YES,,2,98,200,,,7/19/2019,Laura Wortman
+,,HERUN2 30,YES,YES,,6,94,125,ON EDGE/NEAR FIELD,,7/17/2019,Lauren Kurtz
+,,HERUN2 32,YES,YES,,100,0,150,on edge,,7/16/2019,Laura Wortman
+,,HERUN2 33,YES,YES,,30,70,20,lots of mica in the soil.,,7/16/2019,Laura Wortman
+,,HERUN2 34,YES,YES,,5,95,100,"SLIGHT SLOPE, NEAR STEEP SLOPE",,7/17/2019,Lauren Kurtz
+,,HERUN2 35,YES,YES,,50,50,50,ON EDGE/NEAR FIELD; SLIGHT SLOPE,,7/17/2019,Lauren Kurtz
+,,HERUN2 36,YES,YES,,20,80,167.5,ON EDGE/NEAR FIELD; LESS CANOPY; NEAR HIKING PATH,,7/17/2019,Lauren Kurtz
+,,HERUN2 37,YES,YES,,2,98,100,ON SLOPE/NEAR PATH; DRAINS INTO SMALL POOL,,7/17/2019,Lauren Kurtz
+,,HERUN2 38,YES,YES,,25,75,90,on floodplain,,7/16/2019,Laura Wortman
+,,HERUN2 39,YES,YES,,95,5,110,on edge of patch. Lots of poison ivy on trees and ground,,7/16/2019,Laura Wortman
+,,HERUN2 4,YES,YES,,5,95,40,,,7/16/2019,Charise Pelan-Maclean
+,,HERUN2 40,YES,YES,,100,0,85,on edge. Lots of younger new tree growth,,7/16/2019,Laura Wortman
+,,HERUN2 41,YES,YES,,10,90,90,EDGE OF FOREST,,7/16/2019,Charise Pelan-Maclean
+,,HERUN2 42,YES,YES,,8,92,110,skunk cabbage. Lots of deer tracks. Lots of mica in the soil,,7/16/2019,Laura Wortman
+,,HERUN2 43,YES,YES,,2,98,,Near steep slope,,7/17/2019,Carol Frimpong
+,,HERUN2 44,YES,YES,,20,80,170,,,7/17/2019,Lauren Kurtz
+,,HERUN2 45,YES,YES,,100,0,140,EDGE OF FOREST,,7/16/2019,Charise Pelan-Maclean
+,,HERUN2 46,YES,YES,,15,85,70,VERY BOGGY ,,7/16/2019,Charise Pelan-Maclean
+,,HERUN2 48,YES,YES,,0.5,99.5,,Ornamental Mahonia next to flag,,7/17/2019,Carol Frimpong
+,,HERUN2 5,YES,YES,,70,30,170,,,7/19/2019,Lauren Kurtz
+,,HERUN2 52,YES,YES,,1,99,100,n/a,0,7/19/2019,Jennifer Strakna
+,,HERUN2 53,YES,YES,,5,95,180,"next to stream, very sandy, friendly caterpillar at site",0,7/18/2019,Jennifer Strakna
+,,HERUN2 54,YES,YES,,90,10,,one big tulip popular. on a slope,,7/18/2019,Carol Frimpong
+,,HERUN2 55,YES,YES,,40,60,,sassafras grove,,7/18/2019,Carol Frimpong
+,,HERUN2 57,YES,YES,,20,80,50,on edge,0,7/18/2019,Jennifer Strakna
+,,HERUN2 58,YES,YES,,80,20,,right on edge,,7/18/2019,Carol Frimpong
+,,HERUN2 59,YES,YES,,90,10,80,"slight slope, lots of mosquitos, near edge of patch",0,7/18/2019,Jennifer Strakna
+,,HERUN2 6,YES,YES,,1,99,130,SANDY FLOOD PLANE,,7/18/2019,Lauren Kurtz
+,,HERUN2 60,YES,YES,,7,93,70,"between paved trail and river, very shady",0,7/18/2019,Jennifer Strakna
+,,HERUN2 65,YES,YES,,15,85,,Near edge with fence (chainlink),,7/18/2019,Carol Frimpong
+,,HERUN2 66,YES,YES,,90,10,210,,,7/19/2019,Laura Wortman
+,,HERUN2 67,YES,YES,,50,50,,On slope,,7/18/2019,Carol Frimpong
+,,HERUN2 68,YES,YES,,80,20,50,other side of stream (that looks very clear but sign says there is sewage),,7/16/2019,Laura Wortman
+,,HERUN2 69,YES,YES,,100,0,120,no trees present. All grasses,,7/16/2019,Laura Wortman
+,,HERUN2 7,YES,YES,,25,75,170,,,7/19/2019,Lauren Kurtz
+,,HERUN2 8,YES,YES,,5,95,180,,,7/19/2019,Laura Wortman
+,,HERUN3 35,YES,YES,,90,10,70,NEAR SHOT UP CAR,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 36,YES,YES,,5,95,80,MIGHT FLOOD WHEN IT RAINS,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 44,YES,YES,,30,70,97.5,NEAR DIRT ROAD,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 45,YES,YES,,10,90,20,OPEN CANOPY ,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 45,YES,YES,,5,95,90,DRAGON FLIES + FROGS NEAR DIRT ROAD,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 46,YES,YES,,50,50,95,BROKEN GLASS,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 55,YES,YES,,40,60,110,NEXT TO DIRT ROAD,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 66,YES,YES,,20,80,90,ABANDONED CAMP SITE,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 68,YES,YES,,10,90,110,ON SLOPE,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 72,YES,YES,,20,80,,AGGRESSIVE GROUND BEES,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 73,YES,YES,,40,60,10,IN EPLINE STREAM,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 74,YES,YES,,60,40,70,BETWEEN HILL,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 77,YES,YES,,80,20,160,small canopy opening ,,30-Jul,Charise Pelan-Maclean
+,,HERUN3 97,YES,YES,,80,20,70,NEXT TO DIRT ROAD,,30-Jul,Charise Pelan-Maclean
+,,HOLBRD1 1 ,YES,YES,,3,97,85,"lots of leaf litter, pine trees predominate patch",0,7/26/2019,Jennifer Strakna
+,,HOLBRD1 10,YES,YES,,25,75,70,"lots of shrubs, dead groundcover",0,7/26/2019,Jennifer Strakna
+,,HOLBRD1 11,YES,YES,,40,60,60,near edge,0,7/26/2019,Jennifer Strakna
+,,HOLBRD1 2,YES,YES,,35,65,100,next to concrete path,0,7/26/2019,Jennifer Strakna
+,,HOLBRD1 3,YES,YES,,25,75,105,near concrete bridge,0,7/26/2019,Jennifer Strakna
+,,HOLBRD1 4,YES,YES,,65,35,130,a lot of very large poison ivy patches,0,7/26/2019,Jennifer Strakna
+,,HOLBRD1 7,YES,YES,,15,85,120,on edge,0,7/26/2019,Jennifer Strakna
+,,HOLBRD2 12,YES,YES,,45,55,250,"overlooking foul smelling stream, near edge of patch",0,7/26/2019,Jennifer Strakna
+,,HOLBRD2 13,YES,YES,,40,60,125,"near foul smelling creek, totally overgrown with vines , tall grasses, small trees",0,7/26/2019,Jennifer Strakna
+,,HOLBRD2 17,YES,YES,,60,40,95,right on steep edge of creek,0,7/26/2019,Jennifer Strakna
+,,MORPAR 13,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,MORPAR 14,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,MORPAR 16,YES,YES,,100,0,80,border site on edge of forest/field,0,6/24/2019,Jennifer Strakna
+,,MORPAR 23,YES,YES,,10,90,95,near forest edge ,0,6/26/2019,Jennifer Strakna
+,,MORPAR 24,YES,YES,,100,0,27.5,"big field behind, at forest edge",0,6/26/2019,Jennifer Strakna
+,,MORPAR 27,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,MORPAR 28,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,MORPAR 29,YES,YES,,100,0,100,none,0,6/25/2019,Jennifer Strakna
+,,MORPAR 30,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,MORPAR 31,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,MORPAR 32,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,MORPAR 35,YES,YES,,25,75,225,near forest edge but in a clearing,0,6/26/2019,Jennifer Strakna
+,,MORPAR 36,YES,YES,,15,85,130,"lots of skunk cabbage, sink hole is present, is muddy area",0,6/26/2019,Jennifer Strakna
+,,MORPAR 37,YES,YES,,40,60,125,near forest edge in swamplike clearing,0,6/26/2019,Jennifer Strakna
+,,MORPAR 38,YES,YES,,20,80,130,"another mud pit, field on other side, close to forest edge",0,6/26/2019,Jennifer Strakna
+,,MORPAR 49,YES,YES,,75,25,25,"by stream, some vines and stinging nettle present",0,6/26/2019,Jennifer Strakna
+,,MORPAR 50,YES,YES,,80,20,90,"plenty of vines, by stream",0,6/26/2019,Jennifer Strakna
+,,MORPAR 52,YES,YES,,75,25,200,"lots of full grown dead trees overtaken by vines, next to stream and railroad tracks",0,6/26/2019,Jennifer Strakna
+,,MORPAR 67,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,MORPAR 68,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,MORPAR 69,NO,NO,,,,,,,,Charise Pelan-Maclean
+,,PATTER 1,YES,YES,,60,40,,,,7/19/2019,Caitlin Beckjord
+,,PATTER 2,YES,YES,,10,90,,,,7/19/2019,Caitlin Beckjord
+,,PATTER 3,YES,YES,,60,40,,,,7/19/2019,Caitlin Beckjord
+,,PATTER 4,YES,YES,,0,100,,On a slope near a walking path and next to a pond,,7/19/2019,Caitlin Beckjord
+,,PATTER 5,YES,YES,,5,95,,On a slope near the pond,,7/19/2019,Caitlin Beckjord
+,,SHORTL 12,YES,YES,,5,95,95,NEAR CREEK; VINES PROMINENT,,7/24/2019,Lauren Kurtz
+,,SHORTL 13,YES,YES,,90,10,,In sun,,7/24/2019,Carol Frimpong
+,,SHORTL 14,YES,YES,,3,97,85,NEAR EDGE,,7/24/2019,Lauren Kurtz
+,,SHORTL 17,YES,YES,,30,70,,On slope from ridge down to stream,,7/25/2019,Carol Frimpong
+,,SHORTL 18,YES,YES,,25,75,,Near wet area downhill,,7/25/2019,Carol Frimpong
+,,SHORTL 19,YES,YES,,10,90,,,,7/25/2019,Carol Frimpong
+,,SHORTL 2,YES,YES,,50,50,80,,,7/24/2019,Lauren Kurtz
+,,SHORTL 23,YES,YES,,25,75,,Heavy vine cover. At the top of a ridge above the stream,,7/25/2019,Carol Frimpong
+,,SHORTL 24,YES,YES,,6,94,,Someone came and got water sample. Still right next to stream.,,7/25/2019,Carol Frimpong
+,,SHORTL 25,YES,YES,,20,80,,Next to stream. Trash washed to shore.,,7/25/2019,Carol Frimpong
+,,SHORTL 26,YES,YES,,40,60,,"Many dead branches on the ground, otherwise fairly open forest floor",,7/25/2019,Carol Frimpong
+,,SHORTL 27,YES,YES,,2,98,,"Near edge, several dead but very large beech. vines take over whole canopy",,7/25/2019,Carol Frimpong
+,,SHORTL 28,YES,YES,,95,5,,On edge. Next to graveyard with mausoleum ,,7/25/2019,Carol Frimpong
+,,SHORTL 33,YES,YES,,20,80,,Next to stream. Behind houses. Near bench/fire pit. Has signs for sewer pipeline,,7/25/2019,Carol Frimpong
+,,SHORTL 6,YES,YES,,30,70,90,ON FOREST EDGE/NEXT TO CEMETARY ROAD,,7/24/2019,Lauren Kurtz
+,,SHORTL 7,YES,YES,,2,98,65,NEAR EDGE,,7/24/2019,Lauren Kurtz
+,,SWAPRK 10,NO,NO,,< 1,< 100,70,"near marshy water lake + path, large amount of almost dead trees",,7/31/2019,Laura Wortman
+,,SWAPRK 12,YES,YES,,100,0,100,9 ft grass,,7/31/2019,Laura Wortman
+,,SWAPRK 13,NO,NO,,30,70,60,"old, rusty cooler/ ice box. Older, larger dead trees",,7/31/2019,Laura Wortman
+,,SWAPRK 14,NO,NO,,0,100,90,,,7/31/2019,Laura Wortman
+,,SWAPRK 15,YES,YES,,0,100,200,many dead trees,,7/31/2019,Laura Wortman
+,,SWAPRK 16,NO,NO,,0,100,130,Near path. Many white snail shells/ all empty,,7/31/2019,Laura Wortman
+,,SWAPRK 17,NO,NO,,10,90,90,near tall grass. Lots of dead trees,,7/31/2019,Laura Wortman
+,,SWAPRK 18,YES,YES,,5,95,200,on water's edge,,7/31/2019,Laura Wortman
+,,SWAPRK 21,NO,NO,,0,100,60,yellow jackets! Bricks and bits of cement,,7/31/2019,Laura Wortman
+,,SWAPRK 22,NO,NO,,2,98,70,near tall grass. Lots of dead trees,,7/31/2019,Laura Wortman
+,,SWAPRK 23,NO,NO,,5,95,70,more dead trees and grass,,7/31/2019,Laura Wortman
+,,SWAPRK 24,NO,NO,,2,98,70,,,7/31/2019,Laura Wortman
+,,SWAPRK 25,NO,NO,,0.5,100,120,lots of dead trees,,7/31/2019,Laura Wortman
+,,SWAPRK 26,YES,YES,,25,75,100,"near tall grass, marshy",,7/31/2019,Laura Wortman
+,,SWAPRK 28,NO,NO,,25,75,70,EDGE ,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 29,NO,NO,,2,98,90,MID FOREST,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 30,NO,NO,,30,70,60,near grassy edge,0,8/2/2019,Jennifer Strakna
+,,SWAPRK 31,NO,NO,,2,98,80,by grassy patch/edge,0,8/2/2019,Jennifer Strakna
+,,SWAPRK 32,NO,NO,,0.25,99.75,50,close to edge,0,8/2/2019,Jennifer Strakna
+,,SWAPRK 33,NO,NO,,0,100,130,near gravel path,,7/31/2019,Laura Wortman
+,,SWAPRK 34,YES,YES,,0,100,160,"tall grass, dead trees",,7/31/2019,Laura Wortman
+,,SWAPRK 37,NO,NO,,10,90,60,,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 38,NO,NO,,60,40,60,ON EDGE,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 39,NO,NO,,100,,100,,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 40,NO,NO,,10,90,75,,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 41,NO,NO,,20,80,90,,,7/31/2019,Laura Wortman
+,,SWAPRK 42,NO,NO,,2,98,90,,,7/31/2019,Laura Wortman
+,,SWAPRK 46,NO,NO,,2,98,110,CLOSE TO GRASSY EDGE,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 48,NO,NO,,100,,60,,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 49,NO,NO,,100,,30,ON EDGE,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 50,NO,NO,,0,100,120,,,7/31/2019,Laura Wortman
+,,SWAPRK 51,YES,YES,,100,0,190,,,7/31/2019,Laura Wortman
+,,SWAPRK 55,NO,NO,,20,80,115,,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 56,NO,NO,,15,85,60,ON EDGE,,2-Aug,Charise Pelan-Maclean
+,,SWAPRK 58,NO,NO,,100,0,85,clearing of grass,0,8/1/2019,Jennifer Strakna
+,,SWAPRK 60,NO,NO,,8,92,70,in small tree patch,0,8/1/2019,Jennifer Strakna
+,,SWAPRK 67,NO,NO,,95,5,N/A,"tall grass, no trees",0,8/1/2019,Jennifer Strakna
+,,SWAPRK 7,NO,NO,,20,80,110,"near tall grass, beside deer trail",,7/31/2019,Laura Wortman
+,,SWAPRK 75,NO,NO,,100,0,N/A,"reeds over ten feet, no trees",0,8/1/2019,Jennifer Strakna
+,,SWAPRK 76,NO,NO,,100,0,95,tall reeds/grass,0,8/1/2019,Jennifer Strakna
+,,SWAPRK 77,NO,NO,,0,100,185,near a patch of reeds on the top of step,0,8/1/2019,Jennifer Strakna
+,,SWAPRK 78,NO,NO,,30,70,102.5,on edge next to water,0,8/1/2019,Jennifer Strakna
+,,SWAPRK 8,NO,NO,,10,90,110,snares have been set to catch wildlife.,,7/31/2019,Laura Wortman
+,,SWAPRK 83,NO,NO,,100,0,60,on edge full sun. along a dirt road,,8/1/2019,Laura Wortman
+,,SWAPRK 84,NO,NO,,100,0,50,,,8/1/2019,Laura Wortman
+,,SWAPRK 85,NO,NO,,15,85,97.5,near edge,0,8/1/2019,Jennifer Strakna
+,,SWAPRK 86,NO,NO,,20,80,N/A,"on edge near lake, no trees",0,8/1/2019,Jennifer Strakna
+,,SWAPRK 9,NO,NO,,0,100,90,land on former battery dump site,,7/31/2019,Laura Wortman

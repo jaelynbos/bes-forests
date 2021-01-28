@@ -1,0 +1,12 @@
+ID,Auger Number,Layer Number,Hue,Texture,Additional Notes/Anomalies,Start Depth (mm),End Depth (mm),Value,Chroma
+,HERUN2,1,10YR,Sandy Clay Loam,,0,170,4,4
+,HERUN2,2,10YR,Sandy Clay Loam,,170,230,4,6
+,HOLBRD2,1,7.5YR,Sandy Clay Loam,,0,350,4,4
+,HOLBRD2,2,7.5YR,Sandy Clay ,,350,650,5,6
+,HOLBRD1 ,1,10YR,Sandy Clay,,0,280,3,2
+,SHORTL,2,10YR,Sandy Clay,,280,440,5,3
+,SHORTL,1,10 YR,clay,,0,150,4,3
+,SHORTL,2,10 YR,clay loam,,0,130,8,5
+,FENDAL,1,10YR,loamy sand,,,13,2,2
+,FENDAL,2,10YR,sandy clay,,13.5,28,4,2
+,FENDAL,3,10YR,clay,,29,61,4,6

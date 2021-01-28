@@ -1,0 +1,483 @@
+ID,Point Code,Layer Number,Starting Depth (mm),Ending Depth (mm),Hue,Texture,Value,Chroma
+1,SGDW 2,1,9999999,9999999,7.5 YR,Clay Loam,3,2
+2,SGDW 2,2,9999999,9999999,7.5 YR,Clay Loam,3,1
+3,SGDW 2,3,9999999,9999999,7.5 YR,Silty Clay Loam,4,1
+4,SGDW 1,1,9999999,9999999,7.5 YR,Silty Clay,3,2
+5,SGDW 1,2,9999999,9999999,7.5 YR,Silty Clay,4,2
+6,SGDW 1,3,9999999,9999999,5 YR,Sandy Clay,4,4
+7,SGDW 5,1,2,43,7.5 YR,Silty Clay Loam,3,1
+8,SGDW 5,2,43,85,10 YR,Silty Clay Loam,3,2
+9,SGDW 5,3,85,200,7.5 YR,Silty Clay,4,4
+10,SGDW 7,1,2,124,10 YR,Silty Clay Loam,3,3
+11,SGDW 7,2,124,200,5 YR,Silty Clay Loam,4,6
+12,SGDW 6,1,6,75,7.5 YR,Silty Clay Loam,3,2
+13,SGDW 6,2,75,124,7.5 YR,Silty Clay Loam,4,3
+14,SGDW 6,3,124,200,7.5 YR,Silty Clay,6,6
+15,SGDW 4,1,0,73,10 YR,Silty Clay Loam,3,2
+16,SGDW 4,2,73,160,10 YR,Silty Clay,5,4
+17,SGDW 3,1,0,40,10 YR,Silty Clay Loam,3,2
+18,SGDW 3,2,40,200,10 YR,Silty Clay,5,6
+19,SGDW 8,1,26,103,10 YR,Silty Clay Loam,4,3
+20,SGDW 8,2,103,200,10 YR,Silty Clay,5,4
+21,SGDW 12,1,0,110,10 YR,Silty Clay,3,2
+22,SGDW 9,1,0,85,10 YR,Silty Clay,3,2
+23,SGDW 9,2,85,145,10 YR,Clay Loam,4,4
+24,SGDW 9,3,145,200,7.5 YR,Sandy Clay,5,8
+25,SGDW 10,1,0,105,10 YR,Silty Clay Loam,3,2
+26,SGDW 10,2,105,210,10 YR,Silty Clay,4,6
+27,SGDW 11,1,0,195,10 YR,Silty Clay,4,2
+28,JH 4,1,0,190,10 YR,Silty Clay,4,3
+29,JH 1,1,0,110,10 YR,Silty Clay Loam,3,2
+30,JH 1,2,110,190,10 YR,Clay,5,8
+31,JH 3,1,0,200,10 YR,Silty Clay Loam,4,3
+32,JH 5,1,0,95,10 YR,Silty Clay,3,2
+33,JH 5,2,95,200,10 YR,Silty Clay,4,4
+34,JH 6,1,0,85,10 YR,Silty Clay,3,2
+35,JH 6,2,85,200,10 YR,Silty Clay,5,4
+36,JH 7,1,0,130,10 YR,Silty Clay,3,2
+37,JH 7,2,130,200,5 YR,Clay,5,6
+38,JH 8,1,0,185,10 YR,Silty Clay Loam,3,2
+39,JH 9,1,0,130,10 YR,Silty Clay,3,2
+40,JH 9,2,130,185,10 YR,Sandy Clay,4,4
+41,JH 10,1,0,85,10 YR,Sandy Clay Loam,3,2
+42,JH 10,2,85,170,10 YR,Sandy Clay,4,6
+43,JH 11,1,0,200,10 YR,Sandy Loam,2,1
+44,JH 12,1,0,95,10 YR,Silty Clay Loam,3,2
+45,JH 13,1,0,150,10 YR,Loam,2,1
+46,JH 14,1,0,85,10 YR,Silty Clay,3,2
+47,JH 14,2,0,150,10 YR,Sandy Clay,3,8
+48,JH 15,1,0,200,10 YR,Sandy Clay,3,2
+49,HEPP 1,1,25,80,10 YR,Loam,3,2
+50,HEPP 1,2,80,160,10 YR,Not enough soil,6,8
+51,HEPP 2,1,15,90,10 YR,Silty Loam,2,2
+52,HEPP 2,2,90,200,10 YR,Clay Loam,6,4
+53,HEPP 4,1,5,55,10 YR,Silty Loam,2,2
+54,HEPP 4,2,55,130,10 YR,Clay Loam,6,6
+55,HEPP 5,1,5,60,10 YR,Loam,3,2
+56,HEPP 5,2,60,200,10 YR,Silty Clay,6,6
+57,HEPP 6,1,0,40,10 YR,Silty Loam,3,2
+58,HEPP 6,2,40,200,10 YR,Clay,5,6
+59,HEPP 7,1,35,70,10 YR,Silty Clay Loam,3,2
+60,HEPP 7,2,70,200,10 YR,Clay,5,6
+61,HEPP 8,1,10,55,10 YR,Silty Loam,3,2
+62,HEPP 8,2,55,200,10 YR,Clay,5,6
+63,HEPP 9,1,0,55,10 YR,Silty Loam,3,1
+64,HEPP 9,2,55,200,10 YR,Clay Loam,7,6
+65,HEPP 10,1,0,65,10 YR,Loam,3,3
+66,HEPP 10,2,65,200,10 YR,Silty Clay Loam,4,4
+67,HEPP 11,1,10,65,10 YR,Silty Loam,3,2
+68,HEPP 11,2,65,200,10 YR,Clay Loam,6,6
+69,HEPP 13,1,30,70,10 YR,Silty Clay Loam,4,2
+70,HEPP 13,2,70,195,10 YR,Clay Loam,5,6
+71,NMN 1,1,0,140,10 YR,Sandy Loam,3,2
+72,NMN 2,1,0,110,7.5 YR,Sandy Clay Loam,4,3
+73,NMN 2,2,110,180,7.5 YR,Not enough soil,5,4
+74,NMN 3,1,0,105,10 YR,Sandy Clay Loam,3,3
+75,SW 5,1,0,200,10 YR,Silty Clay Loam,2,1
+76,SW 8,1,40,80,10 YR,Loam,3,2
+77,SW 8,2,80,200,10 YR,Silty Loam,5,4
+78,SW 6,1,0,95,10 YR,Silty Clay,5,4
+79,SW 9,1,65,120,10 YR,Sandy Loam,3,3
+80,SW 10,1,7,175,10 YR,Silty Loam,4,6
+81,SW 10,2,175,200,10 YR,Clay Loam,6,6
+82,SW 12,1,5,45,10 YR,Silty Loam,2,2
+83,SW 12,2,45,180,10 YR,Sandy Clay Loam,4,4
+84,SW 13,1,2,170,10 YR,Silty Clay Loam,3,2
+85,SW 14,1,0,200,10 YR,Sandy Loam,2,1
+86,FF 1,1,0,95,10 YR,Silty Clay,3,2
+87,FF 1,2,95,200,10 YR,Silty Clay,5,3
+88,FF 2,1,20,70,5 YR,Loam,2.5,2
+89,FF 2,2,70,200,5 YR,Clay,4,6
+90,FF 3,1,0,200,5 YR,Clay,5,8
+91,FF 4,1,0,200,5 YR,Clay,5,8
+92,FF 5,1,0,95,10 YR,Glass in soil,3,2
+93,FF 5,2,95,140,7.5 YR,Glass in soil,5,6
+94,FF 6,1,0,135,10 YR,Silty Clay,3,2
+95,FF 6,2,135,200,10 YR,Clay,5,8
+96,FF 9,1,0,90,5 YR,Silty Clay,4,4
+97,FF 9,2,90,180,5 YR,Clay,5,8
+98,FF 11,1,0,105,10 YR,Silty Clay Loam,4,3
+99,FF 11,2,105,200,10 YR,Silty Clay,6,6
+100,FF 12,1,0,90,10 YR,Silty Clay Loam,3,3
+101,FF 12,2,90,200,10 YR,Silty Clay,5,6
+102,FF 13,1,0,200,7.5 YR,Silty Clay Loam,3,2
+103,FF 14,1,5,75,5 YR,Silty Clay,3,4
+104,FF 14,2,75,200,5 YR,Clay,5,8
+105,BEL 1,1,0,165,10 YR,Silty Clay,5,4
+106,BEL 2,1,0,75,10 YR,Sandy Clay,3,2
+107,BEL 2,2,75,200,10 YR,Silty Clay,4,3
+108,WG 2,1,0,200,10 YR,Silty Clay Loam,2,2
+109,WG 3,1,15,100,10 YR,Loamy Sand,4,1
+110,WG 4,1,0,200,10 YR,Sandy Loam,2,2
+111,AH 1,1,9999999,9999999,7.5 YR,Silty Clay,2.5,2
+112,AH 4,1,9999999,9999999,10 YR,Silty Clay,4,2
+113,AH 7,1,9999999,9999999,10 YR,Silty Clay,3,1
+114,AH 8,1,9999999,9999999,10 YR,Silty Clay,3,2
+115,AH 12,1,9999999,9999999,10 YR,Silty Clay,2,2
+116,AH 14,1,9999999,9999999,10 YR,Silty Clay,3,4
+117,HR 1,1,9999999,9999999,10 YR,Silty Clay,2,2
+118,HR 2,1,9999999,9999999,10 YR,Silty Clay Loam,3,6
+119,HR 3,1,9999999,9999999,10 YR,Silty Clay Loam,3,6
+120,HR 4,1,9999999,9999999,10 YR,Silty Clay Loam,3,3
+121,HR 5,1,9999999,9999999,10 YR,Silty Clay,2,3
+122,HR 6,1,9999999,9999999,10 YR,Silty Clay,2,3
+123,HR 7,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+124,HR 8,1,9999999,9999999,10 YR,Silty Clay Loam,3,3
+125,HR 9,1,9999999,9999999,10 YR,Silty Clay,2,3
+126,HR 10,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+127,HR 11,1,9999999,9999999,10 YR,Silty Clay Loam,2,2
+128,HR 12,1,9999999,9999999,10 YR,Silty Loam,3,3
+129,HR 14,1,9999999,9999999,10 YR,Silty Loam,3,3
+130,HR 16,1,9999999,9999999,10 YR,Silty Clay Loam,2,2
+131,HR 17,1,9999999,9999999,10 YR,Clay Loam,3,3
+132,HR 18,1,9999999,9999999,10 YR,Silty Loam,3,3
+133,HR 19,1,9999999,9999999,7.5 YR,Silty Clay Loam,3,4
+134,HR 20,1,9999999,9999999,7.5 YR,Sandy Clay,3,3
+135,ND 1,1,9999999,9999999,10 YR,Sandy Clay Loam,3,3
+136,ND 4,1,9999999,9999999,10 YR,Sand,2,1
+138,ND 7,1,9999999,9999999,10 YR,Sandy Clay Loam,3,1
+139,ND 9,1,9999999,9999999,7.5 YR,Silty Clay Loam,2.5,1
+140,ND 12,1,9999999,9999999,10 YR,Loam,3,2
+141,ND 13,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+142,ND 14,1,9999999,9999999,10 YR,Silty Loam,3,1
+143,ND 18,1,9999999,9999999,10 YR,Silty Clay Loam,4,2
+145,ND 22,1,9999999,9999999,10 YR,Loam,2,2
+146,ND 23,1,9999999,9999999,7.5 YR,Silty Loam,2.5,1
+147,ND 24,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+149,ND 28,1,9999999,9999999,10 YR,Sandy Clay Loam,3,2
+150,ND 30,1,9999999,9999999,10 YR,Sandy Clay Loam,3,2
+151,ND 34,1,9999999,9999999,10 YR,Sandy Loam,3,2
+152,ND 37,1,9999999,9999999,10 YR,Sandy Clay Loam,3,2
+153,ND 38,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+154,FRIENDS 5,1,9999999,9999999,10 YR,Sandy Loam,4,1
+155,FRIENDS 10,1,9999999,9999999,10 YR,9999999,3,1
+156,FRIENDS 11,1,9999999,9999999,10 YR,Silty Loam,3,2
+157,FRIENDS 12,1,9999999,9999999,10 YR,Clay Loam,4,2
+158,FRIENDS 13,1,9999999,9999999,10 YR,Clay Loam,3,3
+159,FRIENDS 14,1,9999999,9999999,10 YR,Sandy Clay Loam,3,4
+160,FRIENDS 15,1,9999999,9999999,10 YR,Clay Loam,3,2
+161,FRIENDS 16,1,9999999,9999999,10 YR,Silty Loam,3,5
+162,FRIENDS 17,1,9999999,9999999,10 YR,Silty Loam,3.5,3
+163,JHU 6,1,9999999,9999999,10 YR,Clay Loam,3,3
+164,JHU 9,1,9999999,9999999,10 YR,Sand,4,4
+165,JHU 11,1,9999999,9999999,10 YR,Silty Clay Loam,2,2
+166,JHU 12,1,9999999,9999999,10 YR,Sandy Clay,2,2
+167,JHU 13,1,9999999,9999999,10 YR,Sandy Loam,2,2
+168,JHU 19,1,9999999,9999999,7.5 YR,Clay Loam,2.5,2
+169,JHU 23,1,9999999,9999999,2.5 YR,Silty Loam,2.5,1
+170,JHU 24,1,9999999,9999999,7.5 YR,Silty Clay,2.5,2
+171,JHU 29,1,9999999,9999999,10 YR,Loam,3,1
+172,JHU 32,1,9999999,9999999,7.5 YR,Silty Clay Loam,3,3
+173,JHU 38,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+174,JHU 41,1,9999999,9999999,10 YR,Silty Clay Loam,3,3
+175,JHU 45,1,9999999,9999999,10 YR,Silty Clay Loam,3,1
+176,JHU 46,1,9999999,9999999,10 YR,Clay Loam,3,2
+177,JHU 50,1,9999999,9999999,10 YR,Silty Clay Loam,4,3
+178,JHU 53,1,9999999,9999999,10 YR,Sandy Loam,3,2
+179,JHU 56,1,9999999,9999999,10 YR,Sandy Clay Loam,3,2
+180,JHU 60,1,9999999,9999999,10 YR,Sandy Clay Loam,3,2
+181,JHU 62,1,9999999,9999999,10 YR,Silt Loam,3,2
+182,JHU 26,1,9999999,9999999,7.5 YR,Silty Clay Loam,2.5,2
+183,RPCS 1,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+184,RPCS 6,1,9999999,9999999,10 YR,Silty Loam,3,2
+185,RPCS 9,1,9999999,9999999,10 YR,Silty Loam,2,1
+186,RPCS 13,1,9999999,9999999,10 YR,Silty Loam,3,2
+187,RPCS 17,1,9999999,9999999,10 YR,Silty Clay,2,2
+188,RPCS 20,1,9999999,9999999,10 YR,Silty Loam,2,2
+189,RPCS 23,1,9999999,9999999,10 YR,Sandy Loam,3,2
+190,GILMAN 1,1,9999999,9999999,7.5 YR,Silty Clay Loam,2.5,1
+191,GILMAN 2,1,9999999,9999999,10 YR,Sandy Loam,2,1
+192,GILMAN 3,1,9999999,9999999,10 YR,Sandy Loam,3,1
+193,GILMAN 4,1,9999999,9999999,10 YR,Silty Loam,2,1
+194,GILMAN 5,1,9999999,9999999,10 YR,9999999,1,1
+195,GILMAN 6,1,9999999,9999999,9999999,9999999,9999999,9999999
+196,GILMAN 7,1,9999999,9999999,10 YR,Silty Loam,3,1
+197,GILMAN 8,1,9999999,9999999,10 YR,Loam,2,1
+198,GILMAN 9,1,9999999,9999999,10 YR,Sandy Loam,3,2
+199,GILMAN 10,1,9999999,9999999,7.5 YR,Sandy Loam,2.5,3
+200,GILMAN 13,1,9999999,9999999,9999999,9999999,9999999,9999999
+201,GILMAN 15,1,9999999,9999999,9999999,9999999,9999999,9999999
+202,GILMAN 18,1,9999999,9999999,10 YR,Clay Loam,3,2
+203,GILMAN 19,1,9999999,9999999,10 YR,Silty Clay Loam,3,1
+204,GILMAN 21,1,9999999,9999999,10 YR,Clay Loam,3,2
+205,GILMAN 22,1,9999999,9999999,5 YR,Sandy Loam,2.5,1
+206,GILMAN 23,1,9999999,9999999,7.5 YR,Sandy Loam,2.5,1
+207,LOYOLA 4,1,9999999,9999999,10 YR,Silty Clay Loam,3,3
+208,LOYOLA 8,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+209,LOYOLA 10,1,9999999,9999999,10 YR,Loam,2,2
+210,LOYOLA 12,1,9999999,9999999,7.5 YR,Silty Clay Loam,3,3
+211,LOYOLA 16,1,9999999,9999999,10 YR,Sandy Loam,3,2
+212,LOYOLA 18,1,9999999,9999999,10 YR,Clay Loam,4,2
+213,LOYOLA 22,1,9999999,9999999,10 YR,Sandy Loam,3,2
+214,LOYOLA 24,1,9999999,9999999,10 YR,Clay Loam,3,2
+215,LOYOLA 26,1,9999999,9999999,10 YR,Clay Loam,3,2
+216,LOYOLA 34,1,9999999,9999999,10 YR,Sand,2,1
+217,LOYOLA 36,1,9999999,9999999,7.5 YR,Silty Clay Loam,2.5,3
+218,LOYOLA 52,1,9999999,9999999,10 YR,Silty Loam,3,3
+219,LOYOLA 56,1,9999999,9999999,7.5 YR,Silty Clay Loam,3,2
+220,LOYOLA 58,1,9999999,9999999,10 YR,Silty Loam,2,1
+221,LOYOLA 60,1,9999999,9999999,10 YR,Silty Clay,3,2
+222,LOYOLA 64,1,9999999,9999999,9999999,9999999,9999999,9999999
+223,SETON 2,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+224,SETON 6,1,9999999,9999999,10 YR,Silty Clay,3,2
+225,SETON 9,1,9999999,9999999,10 YR,Silty Clay Loam,3,3
+226,SETON 13,1,9999999,9999999,10 YR,Silty Loam,3,3
+227,SETON 15,1,9999999,9999999,10 YR,Silty Clay,3,2
+228,SETON 17,1,9999999,9999999,10 YR,Silty Loam,3,3
+229,SETON 20,1,9999999,9999999,10 YR,Sandy Clay Loam,3,3
+230,SETON 23,1,9999999,9999999,10 YR,Sandy Clay Loam,3,3
+231,SETON 26,1,9999999,9999999,10 YR,Sandy Clay Loam,3,4
+232,SETON 29,1,9999999,9999999,10 YR,Sandy Loam,2,2
+233,GS 2,1,9999999,9999999,10 YR,Sandy Loam,3,3
+234,GS 5,1,9999999,9999999,10 YR,Silty Clay Loam,4,3
+235,GS 8,1,9999999,9999999,10 YR,Sandy Loam,3,2
+236,GS 10,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+237,GS 14,1,9999999,9999999,10 YR,Silty Clay,4,2
+238,GS 18,1,9999999,9999999,10 YR,Sandy Loam,4,2
+239,GS 21,1,9999999,9999999,7.5 YR,Sandy Loam,2.5,3
+240,GS 26,1,9999999,9999999,10 YR,Silty Loam,3,2
+241,GS 28,1,9999999,9999999,10 YR,Sandy Clay Loam,4,2
+242,GS 31,1,9999999,9999999,9999999,9999999,9999999,9999999
+243,SINAI 4,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+244,SINAI 7,1,9999999,9999999,10 YR,Silty Loam,3,1
+245,SINAI 9,1,9999999,9999999,10 YR,Silty Loam,4,1
+246,SINAI 13,1,9999999,9999999,10 YR,Clay Loam,3,2
+247,SINAI 16,1,9999999,9999999,7.5 YR,Silty Clay,2.5,1
+248,SINAI 19,1,9999999,9999999,10 YR,Silty Clay Loam,3,2
+249,SINAI 23,1,9999999,9999999,10 YR,Silty Loam,3,2
+250,SINAI 26,1,9999999,9999999,10 YR,Sandy Clay Loam,3,3
+251,SINAI 27,1,9999999,9999999,10 YR,Silty Loam,2,1
+252,SINAI 31,1,9999999,9999999,10 YR,Silty Loam,2,2
+253,SINAI 34,1,9999999,9999999,10 YR,Silty Loam,2,2
+254,MDSB 2,1,9999999,9999999,10 YR,Silty Clay,3,3
+255,MDSB 3,1,9999999,9999999,10 YR,Loam,2,2
+256,MDSB 4,1,9999999,9999999,10 YR,Silty Loam,3,3
+257,MDSB 5,1,9999999,9999999,10 YR,Loam,3,4
+258,MDSB 6,1,9999999,9999999,10 YR,Clay Loam,3,3
+259,MDSB 7,1,9999999,9999999,10 YR,Silty Loam,2,1
+260,MDSB 9,1,9999999,9999999,10 YR,Silty Clay,2,2
+261,MDSB 10,1,9999999,9999999,10 YR,Silty Clay,2,1
+262,MDSB 11,1,9999999,9999999,10 YR,Sandy Clay Loam,2,1
+263,MDSB 12,1,9999999,9999999,10 YR,Sandy Loam,2,1
+264,MDSB 13,1,9999999,9999999,7.5 YR,Sandy Loam,3,2
+265,MDSB 16,1,9999999,9999999,10 YR,Sandy Loam,2,1
+266,MDSB 19,1,9999999,9999999,10 YR,Sandy Loam,2,1
+267,MDSB 22,1,9999999,9999999,10 YR,Silty Loam,2,1
+268,MDSB 25,1,9999999,9999999,10 YR,Clay Loam,3,2
+269,MDSB 28,1,9999999,9999999,10 YR,Sandy Loam,2,2
+270,MDSB 31,1,9999999,9999999,10 YR,Silty Loam,3,1
+271,MDSB 34,1,9999999,9999999,10 YR,Sitly Clay,3,3
+272,MDSB 37,1,9999999,9999999,10 YR,Silty Loam,3,4
+273,MDSB 40,1,9999999,9999999,10 YR,Sandy Loam,3,2
+274,MDSB 43,1,9999999,9999999,10 YR,Silty Loam,4,2
+275,MDSB 45,1,9999999,9999999,10 YR,Sandy Clay Loam,3,2
+276,MDSB 48,1,9999999,9999999,7.5 YR,Silty Loam,2.5,1
+277,HEPP 12,1,0,20,9999999,O Layer,9999999,9999999
+278,HEPP 12,2,20,200,9999999,9999999,9999999,9999999
+279,HEPP 3,1,0,35,9999999,O Layer,9999999,9999999
+280,HEPP 3,2,9999999,9999999,9999999,Gravel,9999999,9999999
+281,SW 4,1,0,200,9999999,O Layer,9999999,9999999
+282,FRIENDS 1,1,9999999,9999999,9999999,9999999,9999999,9999999
+283,FRIENDS 7,1,9999999,9999999,9999999,9999999,9999999,9999999
+284,ND 5,1,9999999,9999999,9999999,9999999,9999999,9999999
+285,HR 15,1,9999999,9999999,9999999,9999999,9999999,9999999
+,Knoll,1,,,10YR ,Sandy clay loam,5,2
+,Knoll,2,,,10YR,Silty clay loam ,4,4
+,Knoll,3,,,10YR, Sandy clay loam ,3,4
+,Knoll,2,,,10YR,Sandy clay,3,4
+,Knoll,3,,,10YR,Sandy clay loam,3,2
+,Knoll,2,,,10YR,Clay loam,4,4
+,Knoll,3,,,10YR,Clay loam,4,3
+,Knoll,3,,,10YR,Silty clay,3,2
+,Knoll,2,,,10YR,Sandy clay loam,3,1
+,Knoll,3,,,10YR,Sandy clay,4,2
+,Knoll,1,,,10YR,Clay,4,2
+,Knoll,2,,,10YR,Silty clay,4,2
+,Knoll,3,,,10YR,Clay loam,3,3
+,Knoll,1,,,10YR,Sandy clay loam,3,2
+,Knoll,2,,,10YR,Sandy loam,2,2
+,Knoll,1,,,10YR,Sandy clay loam,4,2
+,Knoll,1,,,10YR,Silty clay,5,4
+,Knoll,2,,,10YR,Silty clay,3,2
+,Knoll,1,,,10YR,Silty clay,3,2
+,Knoll,2,,,10YR,Sandy loam,3,3
+,Knoll,1,,,10YR,Sandy clay laom,3,2
+,Knoll,1,,,10YR,Silty clay,4,2
+,Knoll,1,,,10YR,clay,4,2
+,Knoll,3,,,10YR,Silty clay,4,2
+,Knoll,3,,,10YR,Silty clay,2,2
+,Knoll,1,,,10YR,Silty clay,3,2
+,Knoll,1,,,10YR,Sandy clay,3,2
+,Knoll,1,,,10YR,Silt loam,3,2
+,Knoll,1,,,10YR,Sandy clay,4,3
+,Knoll,3,,,10YR,Sandy clay loam,3,3
+,Knoll,1,,,10YR,Clay loam,3,2
+,Knoll,1,,,10YR,Sandy clay loam,5,4
+,Knoll,2,,,10YR,Sandy clay loam,3,3
+,Knoll,1,,,10YR,Sandy clay,3,2
+,Knoll,2,,,10YR,Sandy clay,4,3
+,Knoll,1,,,10YR,Clay,4,2
+,Knoll,2,,,10YR,Silty clay,6,2
+,Knoll,1,,,10YR,Silty clay,2,1
+,Knoll,1,,,10YR,Sandy clay loam,3,1
+,Knoll,1,,,10YR,Sandy clay loam,2,1
+,Knoll,1,,,10YR,Silty clay,4,2
+,Knoll,1,,,10YR,Silty clay,5,2
+,Knoll,1,,,10YR,Sandy clay,4,6
+,Knoll,2,,,10YR,Sandy clay,4,4
+,Knoll,2,,,10YR,Sandy loam,3,3
+,TyroneSt,2,,,10YR,Sandy clay loam,5,4
+,TyroneSt,1,,,10YR,Sandy loam,4,2
+,TyroneSt,2,,,10YR,Sandy loam,4,2
+,TyroneSt,1,,,10YR,Loamy sand,5,2
+,TyroneSt,1,,,10YR,Sandy clay loam,2,2
+,TyroneSt,1,,,10YR,Sand,2,2
+,TyroneSt,1,,,10YR,Sandy loam,2,1
+,Primson,2,,,10YR,Silty clay,5,2
+,Primson,0,,,10YR,Clay,0,0
+,Primson,1,,,10YR,Silty clay,4,2
+,Primson,1,,,10YR,Silty clay,3,2
+,Primson,1,,,10YR,Silty clay,3,4
+,LeidigRec,1,,,10YR,Silty clay loam ,3,2
+,LeidigRec,1,,,10YR,Silty clay loam ,2,2
+,LeidigRec,2,,,10YR,Silty clay,3,2
+,LeidigRec,1,,,10YR,Silty clay,2,2
+,LeidigRec,1,,,10YR,Silty clay,2,2
+,LeidigRec,1,,,10YR,Clay,4,2
+,LeidigRec,2,,,10YR,Silty clay,3,2
+,LeidigRec,2,,,10YR,Silty clay,3,4
+,Loyola,1,,,10YR,Silty clay,3,2
+,Loyola,2,,,10YR,Loamy sand,2,2
+,Loyola,1,,,10YR,Silty clay,3,2
+,KenOak,2,,,5YR,Silty clay,4,2
+,KenOak,2,,,7.5YR,Sandy clay loam,2,2
+,KenOak,2,,,5YR,Silty clay,2,2
+,KenOak,1,,,10YR,Silty clay,4,3
+,Hockley,2,,,10YR,Silty clay,2,2
+,Hockley,2,,,10YR,Silty clay,4,3
+,Hockley,2,,,10YR,Silty clay,3,2
+,Hockley,2,,,10YR,Silty clay,2,1
+,Hockley,3,,,10YR,Silty clay,4,2
+,Hockley,3,,,10YR,Silty clay,4,2
+,Hockley,2,,,10YR,Silty clay,2,2
+,Hockley,1,,,10YR,Sandy clay loam,3,2
+,Hockley,2,,,10YR,Sandy clay,3,2
+,Hockley,2,,,10YR,Clay,3,2
+,Hockley,2,,,10YR,Silty clay,3,2
+,Hockley,2,,,10YR,Silty clay,3,1
+,Stillmeadow,1,,,10YR,Silty clay,3,3
+,Stillmeadow,2,,,10YR,Silty clay ,3,3
+,Stillmeadow,2,,,10YR,Silty clay ,2,2
+,Stillmeadow,2,,,10YR, Silty clay,3,2
+,Stillmeadow,1,,,10YR,Silty clay,3,2
+,Stillmeadow,2,,,10YR,Silty clay,3,3
+,Stillmeadow,2,,,10YR,Silty clay,2,1
+,Stillmeadow,2,,,10YR,Silty clay,4,4
+,Stillmeadow,2,,,10YR,Silty clay,3,2
+,Stillmeadow,2,,,10YR,Silty clay,4,3
+,Stillmeadow,2,,,10YR,Silty clay,3,1
+,Stillmeadow,1,,,7.5YR,Silty clay,2.5,2
+,Stillmeadow,2,,,10YR,Silty clay,3,2
+,Stillmeadow,2,,,7.5YR,Silty clay,4,4
+,Stillmeadow,2,,,10YR,Clay,3,3
+,Stillmeadow,2,,,7.5YR,Silty clay,3,3
+,Stillmeadow,2,,,7.5YR,Sandy clay,3,2
+,Stillmeadow,2,,,7.5YR,Sandy clay loam,3,3
+,Stillmeadow,2,,,5YR,Sandy clay,2,2
+,Stillmeadow,2,,,7.5YR,Sandy clay loam,3,3
+,Stillmeadow,2,,,7.5YR,Silty clay,3,2
+,Stillmeadow,3,,,7.5YR,Sandy clay,3,2
+,Stillmeadow,2,,,10YR,Silty clay,3,6
+,Stillmeadow,2,,,7.5YR,Silty clay loam ,3,2
+,Stillmeadow,1,,,7.5 YR,Silty clay loam,3,4
+,ForestGlen,2,,,7.5YR,Silty clay loam,3,3
+,ForestGlen,1,,,10YR,Silty clay,3,1
+,ForestGlen,1,,,10YR,Sandy clay,3,2
+,ForestGlen,1,,,10YR,Silty clay,3,2
+,ForestGlen,1,,,7.5YR,Silty clay,3,6
+,ForestGlen,2,,,10YR,Silty clay,4,4
+,ForestGlen,1,,,10YR,Silty clay loam,2,1
+,ForestGlen,1,,,10YR,Silty clay,2,2
+,ForestGlen,1,,,10YR,Silty clay,3,1
+,ForestGlen,2,,,10YR,Silty clay,3,2
+,ForestGlen,1,,,10YR,Clay loam,2,2
+,ForestGlen,2,,,10YR,Silty clay loam,3,1
+,ForestGlen,2,,,10YR,Sandy clay loam,2,2
+,ForestGlen,2,,,2.5Y,Sandy clay,3,2
+,ForestGlen,2,,,2.5Y,Silty clay loam,3,3
+,ForestGlen,1,,,10YR,Sandy loam,3,3
+,ForestGlen,1,,,10YR,Silty clay,3,4
+,ForestGlen,2,,,10YR,Sandy loam,3,1
+,ForestGlen,1,,,10YR,Loam,2,1
+,ForestGlen,1,,,10YR,Silty clay loam,2,2
+,ForestGlen,1,,,10YR,Silty clay,2,1
+,ForestGlen,1,,,10YR,Silty clay loam,3,1
+,ForestGlen,1,,,10YR,Silty clay,2,1
+,ForestGlen,1,,,10YR,Sandy clay loam,4,2
+,ForestGlen,1,,,10YR,Silt clay loam,2,1
+,ForestGlen,1,,,2.5Y,Silty clay,3,2
+,ForestGlen,2,,,10YR,Silty clay,2,1
+,ForestGlen,1,,,10YR,Silty clay ,2,2
+,ForestGlen,2,,,10YR,Silt loam,3,1
+,ForestGlen,1,,,10YR,Silt loam,2,1
+,ForestGlen,1,,,10YR,Silt loam,2,1
+,ForestGlen,1,,,10YR,Silty clay ,3,2
+,ForestGlen,1,,,10YR,Silty clay ,3,2
+,ForestGlen,1,,,2.5Y,Sandy clay,4,2
+,ForestGlen,2,,,10YR,Silty clay,3,2
+,ForestGlen,1,,,5YR,Silty clay ,3,2
+,ForestGlen,1,,,10YR,Silty clay loam,4,2
+,ForestGlen,3,,,10YR,Silty clay,3,3
+,ForestGlen,2,,,10YR,Silty clay,3,3
+,ForestGlen,2,,,10YR,Silty clay,3,1
+,ForestGlen,2,,,10YR,Clay,3,2
+,ForestGlen,2,,,10YR,Silty clay,3,2
+,ForestGlen,2,,,2.5Y,Sandy clay,3,2
+,ForestGlen,2,,,10YR,Sandy loam,4,2
+,ForestGlen,3,,,10YR,Silty clay,3,3
+,VillageSq,1,,,10YR,Sandy loam,3,3
+,VillageSq,1,,,10YR,Silty clay,3,2
+,VillageSq,2,,,10YR,Silty clay loam,3,2
+,VillageSq,1,,,10YR,Loam,3,3
+,VillageSq,2,,,10YR,Silty clay loam,3,1
+,VillageSq,2,,,5Y,Silty clay loam,4,4
+,VillageSq,1,,,10YR,Loam,3,6
+,VillageSq,2,,,10YR,Loamy sand,3,2
+,VillageSq,1,,,5Y,Loamy sand,3,6
+,VillageSq,1,,,10YR,Silty clay,3,2
+,VillageSq,1,,,10YR,Silty clay loam,3,2
+,VillageSq,1,,,5YR,Clay loam,3,2
+,VillageSq,2,,,7.5YR,Loamy sand,3,2
+,VillageSq,2,,,2.5 Y,Loamy sand,3,2
+,VillageSq,1,,,10YR,Loam,3,2
+,VillageSq,1,,,10YR,Loamy sand,3,2
+,VillageSq,1,,,5Y,Loamy sand,3,1
+,VillageSq,1,,,10YR,Clay loam,3,2
+,VillageSq,1,,,10YR,Sandy clay,3,1
+,VillageSq,1,,,5Y,Sandy loam,3,3
+,VillageSq,1,,,7.5YR,Silty clay loam,3,1
+,VillageSq,1,,,5Y,Sandy loam,3,2
+,VillageSq,1,,,7.5YR,Silt loam,3,2
+,VillageSq,1,,,10YR,Silty clay,4,2
+,VillageSq,2,,,7.5YR,Silty clay loam,3,3
+,VillageSq,1,,,2.5Y,Silty clay loam,4,2
+,VillageSq,2,,,2.5Y,Silty clay,4,2
+,VillageSq,1,,,2.5Y,Silt loam,3,3
+,VillageSq,1,,,2.5Y,Clay,4,4
+,VillageSq,1,,,5Y,Silty clay loam,4,2
+,VillageSq,1,,,10YR,Silty clay,3,1
+,VillageSq,1,,,5Y,Silty clay loam,3,2
+,VillageSq,2,,,2.5Y,Sandy clay loam,3,1
+,VillageSq,1,,,2.5Y,Silty clay,3,2
+,VillageSq,1,,,5Y,Sandy clay,3,1
+,VillageSq,2,,,2.5Y,Sandy clay loam,4,3
+,VillageSq,1,,,10YR,Sandy clay loam,3,3
+,ToddAve,1,,,10YR,Silty clay,3,2
+,ToddAve,1,,,10YR,Silty clay,3,2
+,ToddAve,1,,,10YR,Sandy loam,3,2
+,ToddAve,1,,,10YR,Sandy loam,3,2
+,ToddAve,2,,,10YR,Sandy loam,3,2
+,ToddAve,2,,,10YR,Sandy clay,3,2
+,ToddAve,1,,,10YR,Sandy loam,2,2
+,ToddAve,1,,,10YR,Silty clay loam,2,2
+,ToddAve,3,,,10YR,Clay,4,3

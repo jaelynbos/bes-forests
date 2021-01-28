@@ -1,0 +1,896 @@
+FID,Parcel_cla,site,pointnum,Latitude,Longitude,mspa,landform,formcode,patchid,groveid,ROCKAGE,ROCKTYPE1,ROCKTYPE2,DistEdge,Aspect,MUSYM,SoilArea,DEM10,CanopyHt,Schumaker_Avg,Penetrometer
+1,Institution,Knoll,1,39.251796,-76.711096,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,95.590271, ,0,49.357315,,0,0
+2,Institution,Knoll,2,39.251802,-76.710844,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,139.814377, ,0,47.75338,,0,0
+3,Institution,Knoll,3,39.25179,-76.710625,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,5.656854,328.210541, ,0,47.128899,,0,0
+4,Institution,Knoll,4,39.251959,-76.711098,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,4,112.092552, ,0,49.268707,,0,0
+5,Institution,Knoll,5,39.251963,-76.710866,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,42.755116,174.093063, ,0,48.375885,,1,120
+6,Institution,Knoll,6,39.251965,-76.710622,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,30.594116,160.798981, ,0,49.158092,,1.368421053,223
+7,Institution,Knoll,7,39.251963,-76.710377,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,174.61171, ,0,48.156876,,0.625,185
+8,Institution,Knoll,8,39.251984,-76.710127,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,10,144.11972, ,0,48.409538,,0.6,166
+9,Institution,Knoll,9,39.252143,-76.710129,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,4.472136,147.498825, ,0,50.394695,,0.818181818,219
+10,Institution,Knoll,10,39.252146,-76.710373,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,41.036568,148.691818, ,0,50.931004,,0.769230769,180
+11,Institution,Knoll,11,39.252146,-76.710621,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,76.367531,160.411484, ,0,52.17778,,0.8125,193
+12,Institution,Knoll,12,39.252144,-76.71086,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,68.117546,167.233887, ,0,51.249725,,0.941176471,225
+13,Institution,Knoll,13,39.252146,-76.711091,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,56.320511,174.165207, ,0,51.558548,,0,0
+14,Institution,Knoll,14,39.252141,-76.711339,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2,149.171066, ,0,51.728104,,0,0
+15,Institution,Knoll,15,39.252311,-76.711336,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,41.036568,194.515396, ,0,53.587345,,0.428571429,183
+16,Institution,Knoll,16,39.252316,-76.711105,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,92.800865,173.586487, ,0,55.540421,,0.777777778,120
+17,Institution,Knoll,17,39.252318,-76.710865,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,124.064499,167.388626, ,0,55.197865,,1.375,105
+18,Institution,Knoll,18,39.252316,-76.710621,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,125.538841,154.554688, ,0,55.412247,,1.461538462,254
+19,Institution,Knoll,19,39.25232,-76.710386,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,70.710678,106.986176, ,0,53.089432,,1,260
+20,Institution,Knoll,20,39.252321,-76.710133,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,18.110771,90.287888, ,0,50.434528,,0.916666667,245
+21,Institution,Knoll,21,39.25232,-76.709889,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,68.013504, ,0,48.98114,,0.571428571,194
+22,Institution,Knoll,22,39.252494,-76.709665,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,45.180283, ,0,47.205845,,1.666666667,254
+23,Institution,Knoll,23,39.252496,-76.709892,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,10,55.419067, ,0,47.897354,,1.777777778,348
+24,Institution,Knoll,24,39.252482,-76.710131,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,58.137768,65.672478, ,0,50.198853,,1,240
+25,Institution,Knoll,25,39.252491,-76.710372,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,107.200745,68.479736, ,0,52.324406,,0.933333333,215
+26,Institution,Knoll,26,39.252488,-76.71062,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,159.862442,92.336357, ,0,56.635864,,0.75,95
+27,Institution,Knoll,27,39.252489,-76.710856,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,183.847763,135.983902, ,0,57.383625,,0.181818182,290
+28,Institution,Knoll,28,39.25249,-76.711096,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,134.417267,155.506454, ,0,57.930153,,0.3,254
+29,Institution,Knoll,29,39.25249,-76.711336,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,91.607857,197.795975, ,0,56.084438,,0.583333333,200
+30,Institution,Knoll,30,39.252494,-76.711578,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,62,206.314987, ,0,53.662872,,0,0
+31,Institution,Knoll,31,39.252488,-76.711808,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,106.255821, ,0,54.253513,0,0,0
+32,Institution,Knoll,32,39.252652,-76.711799,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,185.97966, ,0,54.933372,0,0,0
+33,Institution,Knoll,33,39.252657,-76.711572,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,48.414875,242.885056, ,0,56.259914,,0.333333333,166
+34,Institution,Knoll,34,39.252659,-76.711339,0,summit,2,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,96.041656,204.805756, ,0,58.723381,,0,160
+35,Institution,Knoll,35,39.252659,-76.711088,0,summit,2,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,158.151825,139.505417, ,0,58.72303,,0,0
+36,Institution,Knoll,36,39.252665,-76.710855,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,199.809906,86.148132, ,0,57.928596,,0,0
+37,Institution,Knoll,37,39.252661,-76.710621,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,200.529297,61.094917, ,0,55.074078,,2,38
+38,Institution,Knoll,38,39.252665,-76.710382,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,151.327454,50.908978, ,0,52.096478,,1.888888889,210
+39,Institution,Knoll,39,39.252647,-76.710121,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,89.196411,55.090488, ,0,49.908539,,0,0
+40,Institution,Knoll,40,39.252659,-76.709892,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,48.662102,51.674187, ,0,47.377918,,0,0
+41,Institution,Knoll,41,39.252656,-76.709647,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,60.876431, ,0,46.356056,,0,0
+42,Institution,Knoll,42,39.252819,-76.709645,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,28.84441,124.382889, ,0,44.614479,,1.363636364,225
+43,Institution,Knoll,43,39.252814,-76.709884,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,63.780876,90.742821, ,0,46.708935,,0.666666667,214
+44,Institution,Knoll,44,39.252827,-76.710133,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,85.906929,50.59753, ,0,48.479733,,0.5,210
+45,Institution,Knoll,45,39.252838,-76.710382,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,114.560028,47.446308, ,0,50.293804,,0.5,120
+46,Institution,Knoll,46,39.252836,-76.71062,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,168.439896,48.149475, ,0,53.799412,,0.090909091,200
+47,Institution,Knoll,47,39.252821,-76.710856,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,167.260269,55.304192, ,0,57.109371,,0.25,220
+48,Institution,Knoll,48,39.25282,-76.710303,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,105.394501,47.446308, ,0,50.293804,,0.25,170
+49,Institution,Knoll,49,39.25284,-76.7111,0,summit,2,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,104.995239,56.037991, ,0,59.474888,,0,0
+50,Institution,Knoll,50,39.252829,-76.711346,0,summit,2,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,68.818604,289.299774, ,0,59.734425,,0,0
+51,Institution,Knoll,51,39.252828,-76.711574,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,17.088007,317.20813, ,0,55.28524,,1.166666667,90
+52,Institution,Knoll,52,39.252997,-76.711345,0,summit,2,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,14.142136,302.962372, ,0,55.028824,,0.636363636,226
+53,Institution,Knoll,53,39.253,-76.711097,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,75.604233,28.380939, ,0,59.052792,,0.5,220
+54,Institution,Knoll,54,39.252991,-76.710857,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,130.91983,44.529861, ,0,55.296101,,0.846153846,250
+55,Institution,Knoll,55,39.253002,-76.71062,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,124.402573,43.44051, ,0,52.172123,,1.333333333,90
+56,Institution,Knoll,56,39.253015,-76.710378,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,80.523285,50.936577, ,0,49.553982,,1.625,44
+57,Institution,Knoll,57,39.253002,-76.710126,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,23.409399,79.637039, ,0,48.022411,,0,0
+58,Institution,Knoll,58,39.253007,-76.709892,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,31.622776,195.966873, ,0,48.936428,,3,60
+59,Institution,Knoll,59,39.253002,-76.709647,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,23.323807,168.574463, ,0,50.60144,,1.272727273,270
+60,Institution,Knoll,60,39.253178,-76.710132,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,194.788559, ,0,50.114277,,1,214
+61,Institution,Knoll,61,39.253177,-76.710381,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,36.496574,184.068588, ,0,49.230465,,1.545454545,194
+62,Institution,Knoll,62,39.253176,-76.710618,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,82.29216,59.215614, ,0,50.560635,,0,0
+63,Institution,Knoll,63,39.2532,-76.710858,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,77.201035,52.964867, ,0,52.562744,,0,0
+64,Institution,Knoll,64,39.253178,-76.711096,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,38.418747,54.826447, ,0,55.595547,,0,0
+65,Institution,Knoll,65,39.253332,-76.711089,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2,116.912392, ,0,54.714905,,1.454545455,280
+66,Institution,Knoll,66,39.253352,-76.710869,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,41.036568,103.849045, ,0,53.690716,,0,0
+67,City,TyroneSt,1,39.280992,-76.660208,3,slope,6,2002,,Precambrian,granitic gneiss,amphibolite,24,271.453918,19UB,32924.1241,15.505752,7.52529,0,0
+68,City,TyroneSt,2,39.280991,-76.660012,3,slope,6,2002,,Precambrian,granitic gneiss,amphibolite,45.343136,274.917114,19UB,32924.1241,17.989096,10.857008,0,180
+69,City,TyroneSt,3,39.281183,-76.660201,3,valley,9,2002,,Precambrian,granitic gneiss,amphibolite,33.286633,266.968933,42E,263500.7611,15.561166,13.225,4.2,290
+70,City,TyroneSt,4,39.281175,-76.66,17,slope,6,2002,,Precambrian,granitic gneiss,amphibolite,68.029404,263.32782,19UB,32924.1241,16.636944,11.343897,3.857142857,55
+71,Private,TyroneSt,5,39.281357,-76.660192,3,valley,9,2002,,Precambrian,granitic gneiss,amphibolite,26,257.649353,42E,263500.7611,14.920774,13.125,4,115
+72,City,TyroneSt,6,39.281354,-76.659995,17,slope,6,2002,,Precambrian,granitic gneiss,amphibolite,80.498444,252.034637,19UB,32924.1241,17.110439,13.83433,0,0
+73,Private,TyroneSt,7,39.281531,-76.660191,3,valley,9,2002,,Precambrian,granitic gneiss,amphibolite,18.867962,253.513962,42E,263500.7611,15.245735,10.26,4,60
+74,City,TyroneSt,8,39.281523,-76.659988,17,slope,6,2002,,Precambrian,granitic gneiss,amphibolite,74.96666,244.063812,19UB,32924.1241,18.334017,17.495001,4.875,110
+75,Private,TyroneSt,9,39.281707,-76.660178,3,hollow,7,2002,,Precambrian,granitic gneiss,amphibolite,19.79899,250.189514,42E,263500.7611,16.091993,15.83,5.166666667,90
+76,City,TyroneSt,10,39.28171,-76.659988,17,slope,6,2002,,Precambrian,granitic gneiss,amphibolite,67.675697,244.014404,19UB,32924.1241,18.298891,8.848267,0,0
+77,Private,TyroneSt,11,39.281883,-76.660172,3,slope,6,2002,,Precambrian,granitic gneiss,amphibolite,16.124516,252.865448,42E,263500.7611,15.604909,15.32,0,0
+78,Private,Primson,1,39.27409,-76.675439,3,valley,9,,2107,Precambrian,granitic gneiss,amphibolite,27.202942,281.429413,34UC,308560.5223,36.02515,21.243336,3.857142857,240
+79,Private,Primson,2,39.274253,-76.675353,17,valley,9,,2107,Precambrian,granitic gneiss,amphibolite,57.584721,307.975189,34UC,308560.5223,36.042686,8.443249,0,0
+80,City,Primson,3,39.274418,-76.675267,17,valley,9,,2107,Precambrian,granitic gneiss,amphibolite,50,314.61026,34UC,308560.5223,35.645443,5.996666,1.4,85
+81,City,Primson,4,39.274573,-76.675176,35,valley,9,,2107,Precambrian,granitic gneiss,amphibolite,35.777088,316.394684,34UC,308560.5223,35.372959,12.842104,4,6
+82,City,Primson,5,39.274352,-76.675047,3,valley,9,,2107,Precambrian,granitic gneiss,amphibolite,5.656854,309.945435,34UC,308560.5223,36.310329,12.476002,6,225
+83,City,Primson,6,39.274191,-76.675146,3,valley,9,,2107,Precambrian,granitic gneiss,amphibolite,2.828427,297.340088,34UC,308560.5223,36.399712,10.962502,3.666666667,226
+84,City,Primson,7,39.274017,-76.675235,0,valley,9,,,Precambrian,granitic gneiss,amphibolite,0,275.739868,34UC,308560.5223,36.614723,9.996666,0,0
+85,City,Primson,8,39.280935,-76.692305,35,hollow,7,,2010,Late Precambrian (?) - Early Paleozoic,gabbro,norite,19.79899,204.119843,18UC,207709.0935,53.972065,12.72131,0,0
+86,City,Primson,9,39.28062,-76.692314,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,184.633881,18UC,207709.0935,53.245296,10.627499,0,0
+87,City,LeidigRec,1,39.280935,-76.692305,35,hollow,7,,2010,Late Precambrian (?) - Early Paleozoic,gabbro,norite,19.79899,204.119843,18UC,207709.0935,53.972065,12.72131,2.5,220
+88,City,LeidigRec,2,39.28062,-76.692314,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,184.633881,18UC,207709.0935,53.245296,10.627499,4.285714286,210
+89,City,LeidigRec,3,39.280325,-76.692347,33,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,6,177.390854,18UC,207709.0935,52.591007,9.825535,3.5,150
+90,Private,LeidigRec,4,39.280909,-76.691964,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,201.673874,18UC,207709.0935,54.971039,14.00375,0,0
+91,Private,LeidigRec,5,39.280596,-76.691958,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,209.480347,18UC,207709.0935,53.530151,11.338394,0,0
+92,Private,LeidigRec,6,39.280306,-76.691975,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,194.836395,18UC,207709.0935,52.704681,8.633293,3,340
+93,Private,LeidigRec,7,39.280285,-76.691614,35,slope,6,2012,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,32.55764,194.81073,18UC,207709.0935,53.308224,14.817501,3.2,204
+94,Private,LeidigRec,8,39.280591,-76.691583,35,slope,6,2012,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,18,193.737442,18UC,207709.0935,54.288967,12.622501,3.5,270
+95,Private,LeidigRec,9,39.280576,-76.691208,35,slope,6,2012,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,24,192.986572,18UC,207709.0935,54.55896,11.111973,3,234
+96,Private,LeidigRec,10,39.280275,-76.691229,35,slope,6,2012,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,44,187.108521,18UC,207709.0935,53.569393,15.136002,0,0
+97,City,LeidigRec,11,39.279979,-76.69125,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,174.62207,18UC,207709.0935,52.383053,5.55146,0,0
+98,Private,LeidigRec,12,39.279961,-76.690863,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,169.063385,18UC,207709.0935,52.123413,9.345024,2.909090909,245
+99,Private,LeidigRec,13,39.280262,-76.690848,33,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2,176.903564,18UC,207709.0935,53.961205,6.469486,0,0
+100,Private,LeidigRec,14,39.280557,-76.690829,33,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,10.198039,182.028549,18UC,207709.0935,55.735645,11.686161,0,0
+101,Private,KenOak,1,39.3589,-76.668662,35,slope,6,,543,Late Precambrian (?) - Early Paleozoic,gabbro,norite,43.863426,336.532043,26UB,413891.687,133.56015,10.388,0.666666667,91
+102,Private,KenOak,2,39.359107,-76.668715,35,slope,6,,531,Late Precambrian (?) - Early Paleozoic,gabbro,norite,38.209946,340.691956,26UB,413891.687,132.300262,13.751999,0.375,90
+103,Private,KenOak,3,39.359316,-76.668771,3,slope,6,,531,Late Precambrian (?) - Early Paleozoic,gabbro,norite,13.416408,341.432495,26UB,413891.687,131.006409,17.48999,1,305
+104,Private,KenOak,4,39.358709,-76.668603,0,flat,1,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,334.694366,26UB,413891.687,134.224289,7.083145,1,330
+105,Private,Stillmeadow,1,39.28144,-76.699006,3,spur,5,1972,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,33.526108,153.572571,18E,161552.9392,67.481697,15.554688,0,0
+106,Private,Stillmeadow,2,39.281723,-76.698997,17,ridge,3,1972,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,72.111023,121.497589,18E,161552.9392,73.558372,19.306664,2.4,100
+107,Institution,Stillmeadow,3,39.282021,-76.699028,3,ridge,3,1972,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,34,88.186073,18E,161552.9392,76.427643,17.047493,0,0
+108,Institution,Stillmeadow,4,39.28203,-76.699367,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,101.129639,39B,3950.951901,80.895905,6.665131,0,0
+109,Institution,Stillmeadow,5,39.281723,-76.699391,33,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,18.439089,172.822922,18E,161552.9392,76.389671,5.086113,3,60
+110,Institution,Stillmeadow,6,39.281707,-76.69977,35,slope,6,2001,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,28.84441,195.137848,18E,161552.9392,71.449181,17.739998,5.5,120
+111,Institution,Stillmeadow,7,39.282038,-76.699781,3,spur,5,2001,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,16.124516,195.841034,39B,3950.951901,77.880356,8.154999,0,0
+112,Institution,Stillmeadow,8,39.282324,-76.699774,1,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,6,152.948532,39B,3950.951901,82.769455,11.45826,0,0
+113,Institution,Stillmeadow,9,39.28232,-76.700135,33,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2,151.346237,26UB,16957.08426,83.896591,11.419998,0,0
+114,Institution,Stillmeadow,10,39.282032,-76.700139,17,spur,5,2001,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,79.195961,116.411949,18E,161552.9392,78.97522,11.075958,1.333333333,40
+115,Institution,Stillmeadow,11,39.281723,-76.700115,35,slope,6,2001,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,43.908997,124.069626,18E,161552.9392,74.433128,23.860001,0,0
+116,Institution,Stillmeadow,12,39.281701,-76.7005,35,spur,5,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,14.142136,141.931992,18E,161552.9392,78.690193,18.974998,2.461538462,70
+117,Institution,Stillmeadow,13,39.282012,-76.700506,33,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,11.313708,110.277321,18UC,163429.5063,84.037186,11.939095,4,50
+118,Institution,Stillmeadow,14,39.282324,-76.700513,33,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,26,129.340912,26UB,16957.08426,85.643951,3.002106,0,0
+119,Private,Stillmeadow,15,39.282314,-76.700883,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,121.455605,26UB,16957.08426,88.224068,7.482895,0,0
+120,Private,Stillmeadow,16,39.282013,-76.700864,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,134.069229,18UC,163429.5063,86.929657,15.190002,3.333333333,150
+121,Institution,Stillmeadow,17,39.281712,-76.700865,35,spur,5,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,45.650848,141.067963,18E,161552.9392,80.635345,17.833336,2.8125,50
+122,Institution,Stillmeadow,18,39.28143,-76.700872,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,133.575409,18E,161552.9392,72.858574,19.046669,5.333333333,170
+123,Institution,Stillmeadow,19,39.281141,-76.701225,3,hollow,7,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,28.635643,141.234924,43U,92948.68424,70.566414,10.480003,3.5,50
+124,Institution,Stillmeadow,20,39.28144,-76.701227,17,slope,6,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,66.272163,127.827942,18E,161552.9392,79.716255,23.909996,5,80
+125,Institution,Stillmeadow,21,39.281701,-76.701245,3,spur,5,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,32.310989,132.710495,18E,161552.9392,83.879326,11.910004,4.428571429,120
+126,Institution,Stillmeadow,22,39.281702,-76.701607,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,118.868896,18UC,163429.5063,88.170715,9.519081,2.933333333,85
+127,Institution,Stillmeadow,23,39.281432,-76.701602,17,slope,6,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,77.794601,130.843994,18E,161552.9392,83.462387,20.995003,4.142857143,140
+128,Institution,Stillmeadow,24,39.281144,-76.701599,3,hollow,7,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,42.941822,150.305405,18E,161552.9392,75.496552,21.879997,3.5,80
+129,Institution,Stillmeadow,25,39.281124,-76.701956,17,slope,6,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,54.918121,164.403763,18E,161552.9392,76.544777,11.805,5.166666667,130
+130,Institution,Stillmeadow,26,39.281407,-76.701953,17,slope,6,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,72,154.299423,18E,161552.9392,86.266548,12.973335,4.833333333,80
+131,Institution,Stillmeadow,27,39.28143,-76.702298,3,slope,6,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,35.777088,166.963272,18E,161552.9392,88.562729,4.845001,4.5,60
+132,Institution,Stillmeadow,28,39.28113,-76.70232,17,slope,6,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,74.672615,173.710556,18E,161552.9392,74.517822,12.490837,4,80
+133,Institution,Stillmeadow,29,39.281127,-76.702693,17,hollow,7,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,83.95237,172.828903,18E,161552.9392,75.9552,23,4.6,0
+134,Institution,Stillmeadow,30,39.281421,-76.702687,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,185.282898,18E,161552.9392,86.937576,18.359993,3.2,80
+135,Institution,Stillmeadow,31,39.28141,-76.703079,17,spur,5,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,48.826221,195.699478,18E,161552.9392,83.225876,10.756668,0,0
+136,Institution,Stillmeadow,32,39.281119,-76.703054,17,valley,9,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,84,175.011719,18E,161552.9392,73.075745,27.18,3,50
+137,Institution,Stillmeadow,33,39.281113,-76.703431,17,valley,9,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,60.827625,150.50087,18E,161552.9392,72.288734,22.42643,3.5,50
+138,Institution,Stillmeadow,34,39.281414,-76.703435,169,slope,6,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2,187.041428,18E,161552.9392,81.836075,10.925018,0,0
+139,Institution,Stillmeadow,35,39.281687,-76.703418,3,slope,6,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,14.422205,192.185669,18UC,163429.5063,87.204201,12.351364,0,0
+140,Institution,Stillmeadow,36,39.281685,-76.703778,3,hollow,7,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,30,184.164551,18UC,163429.5063,85.55722,21.504997,0,0
+141,Institution,Stillmeadow,37,39.281407,-76.703785,17,valley,9,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,62.514,176.905807,18E,161552.9392,79.028442,7.226669,0,0
+142,Institution,Stillmeadow,38,39.281121,-76.703775,17,valley,9,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,64.031242,47.352077,18E,161552.9392,74.177795,15.32,4,70
+143,Institution,Stillmeadow,39,39.281098,-76.704156,3,valley,9,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,47.074409,29.241034,18E,161552.9392,75.14502,21.820007,2.857142857,80
+144,Institution,Stillmeadow,40,39.2814,-76.704147,17,valley,9,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,82.873398,177.525497,18E,161552.9392,77.552658,15.425003,0,0
+145,Institution,Stillmeadow,41,39.281677,-76.70416,3,hollow,7,2005,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,31.622776,176.777496,18E,161552.9392,82.325783,19.845001,0,0
+146,Institution,Stillmeadow,42,39.281403,-76.704517,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,160.325302,18E,161552.9392,78.34597,12.765907,0,0
+147,City,ForestGlen2,1,39.318173,-76.693476,1,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,4,87.292778,18UB,19199.62855,104.170013,17.885002,2.875,70
+148,Private,ForestGlen2,2,39.318175,-76.693087,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,111.818932,12UB,68286.95888,98.691719,7.770515,5,120
+149,Private,ForestGlen2,3,39.318181,-76.692726,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,56.568542,122.862213,12UB,68286.95888,91.995697,28.920006,0,
+150,City,ForestGlen2,4,39.317863,-76.692709,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,59.228371,123.755936,12UB,68286.95888,84.375954,29.185913,0,50
+151,City,ForestGlen2,5,39.317867,-76.693082,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,101.390335,115.504166,12UB,68286.95888,93.73555,15.259995,0,30
+152,City,ForestGlen2,6,39.317871,-76.693489,67,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,24,105.079147,18E,263823.6949,102.530769,22.404999,1.875,150
+153,Private,ForestGlen2,7,39.317546,-76.693473,3,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,6.324555,109.651894,18E,263823.6949,95.425316,28.43,0,55
+154,City,ForestGlen2,8,39.317549,-76.693082,3,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,4,113.796364,18E,263823.6949,86.934128,10.649994,0.8,28
+155,City,ForestGlen2,9,39.317232,-76.693093,35,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,16.124516,119.54348,18E,263823.6949,79.3125,11.739998,1.454545455,130
+156,City,ForestGlen2,10,39.317234,-76.693477,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,104.307236,110.461212,18E,263823.6949,87.78315,30.703339,1.4,120
+157,Private,ForestGlen2,11,39.317233,-76.693875,3,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,14.422205,115.087624,18E,263823.6949,100.623405,5.564995,0,0
+158,Private,ForestGlen2,12,39.317218,-76.694276,3,ridge,3,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,11.313708,139.306503,18E,263823.6949,104.94442,12.48983,0,0
+159,Private,ForestGlen2,13,39.317228,-76.694665,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,173.393234,18E,263823.6949,106.834946,7.552124,0,0
+160,Private,ForestGlen2,14,39.316923,-76.69467,35,ridge,3,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,24.331051,163.480682,18E,263823.6949,100.454277,14.130005,0,0
+161,Private,ForestGlen2,15,39.316912,-76.694279,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,140.701202,18E,263823.6949,97.213768,7.861885,0,170
+162,City,ForestGlen2,16,39.316917,-76.693866,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,100.319489,118.952301,18E,263823.6949,91.489151,7.349998,0,120
+163,City,ForestGlen2,17,39.316912,-76.693497,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,51.419842,117.541428,18E,263823.6949,82.154785,34.074997,4-Jul,120
+164,City,ForestGlen2,18,39.316614,-76.693474,3,hollow,7,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,22.627417,116.463066,18E,263823.6949,73.418968,28.666664,0.625,120
+165,City,ForestGlen2,19,39.316611,-76.693875,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,131.240234,120.088943,18E,263823.6949,81.423248,27.14666,7.5,170
+166,City,ForestGlen2,20,39.316608,-76.694277,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,59.665737,131.541763,18E,263823.6949,92.016853,32.394997,0,80
+167,Private,ForestGlen2,21,39.316592,-76.694666,35,ridge,3,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,18,148.436157,18E,263823.6949,94.748779,10.799995,0,0
+168,Private,ForestGlen2,22,39.31629,-76.695818,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,78.102493,242.685623,18E,263823.6949,72.088615,22.110001,0,0
+169,Private,ForestGlen2,23,39.316284,-76.695444,35,ridge,3,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,42,208.741928,18E,263823.6949,84.984665,17.389999,0,0
+170,Private,ForestGlen2,24,39.316291,-76.695044,17,ridge,3,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,62,167.918427,18E,263823.6949,89.137047,29.809708,0,0
+171,Private,ForestGlen2,25,39.316278,-76.694665,17,ridge,3,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,78.892334,154.109406,18E,263823.6949,86.852142,27.400002,0,0
+172,City,ForestGlen2,26,39.316279,-76.69428,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,82.097504,121.083229,18E,263823.6949,84.2342,34.510002,0,0
+173,City,ForestGlen2,27,39.316285,-76.693869,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,55.172459,101.127922,18E,263823.6949,78.054146,30.5,5,195
+174,City,ForestGlen2,28,39.316291,-76.693487,17,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,51.613953,101.773621,18E,263823.6949,67.054039,9.364998,5.5,160
+175,City,ForestGlen2,29,39.315969,-76.69388,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,56.603886,124.897003,18E,263823.6949,74.380936,29.535004,0,110
+176,City,ForestGlen2,30,39.315973,-76.694288,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,118.928551,136.171982,18E,263823.6949,76.751633,34.82,0,0
+177,City,ForestGlen3,1,39.315965,-76.694668,17,ridge,3,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,87.863533,157.72525,18E,263823.6949,80.572784,10.307503,3,110
+178,Private,ForestGlen3,2,39.31596,-76.695057,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,118.338501,179.080872,18E,263823.6949,78.916138,32.650002,5.5,65
+179,Private,ForestGlen3,3,39.315968,-76.695451,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,92,205.211792,18E,263823.6949,76.683937,10.715004,4,150
+180,Private,ForestGlen3,4,39.315969,-76.695833,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,220.194641,18E,263823.6949,68.064339,16.798393,0,0
+181,Private,ForestGlen3,5,39.315654,-76.696219,65,depression,10,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,12,226.718109,10,87594.87922,61.695282,17.456665,0,0
+182,Private,ForestGlen3,6,39.315652,-76.695834,67,depression,10,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,33.526108,213.365021,18E,263823.6949,63.232761,26.053333,1.428571429,120
+183,Private,ForestGlen3,7,39.315648,-76.695431,3,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,36.055511,203.086334,18E,263823.6949,66.288948,27.145004,2.125,180
+184,City,ForestGlen3,8,39.315639,-76.695055,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,52,189.887634,18E,263823.6949,71.354744,9.685143,5,160
+185,City,ForestGlen3,9,39.315653,-76.69468,105,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,28.284271,159.114761,18E,263823.6949,71.374146,32.156662,0.9,155
+186,City,ForestGlen3,10,39.315651,-76.694275,17,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,84.403793,226.191895,18E,263823.6949,71.928276,25.243332,2.714285714,165
+187,City,ForestGlen3,11,39.317861,-76.692328,35,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,29.529646,132.418839,12UB,68286.95888,80.523476,16.689995,1.5,70
+188,City,ForestGlen3,12,39.317537,-76.692706,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,120.921638,18E,263823.6949,81.037857,4.619255,0,0
+189,City,ForestGlen3,13,39.317544,-76.692303,35,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,36,186.815048,18UC,108976.8809,77.325752,17.173691,2.5,140
+190,City,ForestGlen3,14,39.31755,-76.691931,17,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,51.884487,270.991028,18UC,108976.8809,80.933655,6.25,0.75,120
+191,City,ForestGlen3,15,39.317218,-76.691932,17,hollow,7,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,50.635956,271.371094,18UC,108976.8809,83.00975,24.690002,1.166666667,110
+192,City,ForestGlen3,16,39.317226,-76.692329,35,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,43.863426,259.234344,18UC,108976.8809,76.409424,11.178696,3.666666667,120
+193,City,ForestGlen3,17,39.317212,-76.69271,35,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,19.79899,151.251144,18E,263823.6949,73.623131,15.601982,0.2,170
+194,City,ForestGlen3,18,39.316913,-76.693096,33,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,28.284271,123.029297,18E,263823.6949,71.867516,26.055,4,155
+195,City,ForestGlen3,19,39.316914,-76.692717,17,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,60.827625,254.238297,18E,263823.6949,72.686195,8.922501,1.25,120
+196,City,ForestGlen3,20,39.316912,-76.692316,35,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,41.231056,269.071869,18UC,108976.8809,77.26458,10.108955,0,120
+197,City,ForestGlen3,21,39.316915,-76.69194,35,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,32.062439,270.082153,18UC,108976.8809,83.155327,21.21907,1.6,120
+198,Private,ForestGlen3,22,39.316606,-76.691937,33,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,13.416408,267.651245,18UC,108976.8809,85.100853,21.284996,0,0
+199,City,ForestGlen3,23,39.316601,-76.692323,17,hollow,7,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,57.584721,273.860779,18UC,108976.8809,79.393074,21.896667,0,no
+200,City,ForestGlen3,24,39.316602,-76.692711,35,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,45.343136,257.98761,18E,263823.6949,71.128082,11.642258,0.285714286,170
+201,City,ForestGlen3,25,39.316606,-76.693099,35,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,46.043457,203.551849,18E,263823.6949,68.533859,11.803467,0,100
+202,City,ForestGlen3,26,39.31629,-76.693095,17,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,65.391129,273.628052,18E,263823.6949,67.234993,30.025002,0,140
+203,City,ForestGlen3,27,39.316286,-76.692711,17,hollow,7,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,82.024384,271.018127,18E,263823.6949,72.997787,15.949997,0,110
+204,City,ForestGlen3,28,39.316283,-76.692316,35,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,36.878178,279.698853,18UC,108976.8809,80.643784,18.309998,1.571428571,130
+205,Private,ForestGlen3,29,39.315969,-76.692327,35,spur,5,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,26.832815,263.446411,18UC,108976.8809,82.818031,14.700005,0.8,170
+206,City,ForestGlen3,30,39.315967,-76.692712,17,hollow,7,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,109.416634,263.768799,18E,263823.6949,75.895729,20.259659,0,0
+207,City,ForestGlen3,31,39.315971,-76.69307,105,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,46.043457,261.264069,18E,263823.6949,69.066681,19.231453,0,0
+208,City,ForestGlen3,32,39.315975,-76.693499,17,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,64.404968,100.894363,18E,263823.6949,64.261848,9.772499,0,0
+209,City,ForestGlen3,33,39.315661,-76.693854,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,75.392311,110.364059,18E,263823.6949,69.896423,14.09404,0,0
+210,City,ForestGlen3,34,39.315662,-76.693494,3,hollow,7,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,26.832815,198.369446,18E,263823.6949,61.464024,17.095001,0,0
+211,City,ForestGlen3,35,39.315653,-76.693092,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,48,232.269974,18E,263823.6949,66.776176,28.125,0,0
+212,Private,ForestGlen3,36,39.315652,-76.692706,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,80.224686,235.763641,18E,263823.6949,75.999222,14.559998,0,0
+213,Private,ForestGlen3,37,39.31533,-76.692701,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,92,203.700806,18E,263823.6949,66.212502,11.835068,0,0
+214,City,ForestGlen3,38,39.315333,-76.693084,17,slope,6,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,67.052216,199.584076,18E,263823.6949,62.495804,35.460003,0,0
+215,City,ForestGlen3,39,39.315334,-76.693494,35,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,7.211102,203.61499,18E,263823.6949,59.128918,21.779007,0,0
+216,City,ForestGlen3,40,39.31533,-76.693862,17,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,63.780876,121.464355,18E,263823.6949,59.967552,28.985001,0,0
+217,City,ForestGlen3,41,39.315322,-76.694291,17,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,66,164.170212,18E,263823.6949,65.508255,21.440002,0,120
+218,Private,ForestGlen3,42,39.315341,-76.694675,17,valley,9,1477,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,67.675697,176.002518,18E,263823.6949,64.568459,26.260002,0.142857143,80
+219,State,VillageSq,1,39.354606,-76.646972,0,hollow,7,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,132.466888,18UC,635058.5554,55.983212,12.452499,3.6,110
+220,State,VillageSq,2,39.354572,-76.647395,0,hollow,7,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,189.142883,43U,1243657.941,55.274567,5.41,6.25,130
+221,State,VillageSq,3,39.354919,-76.647057,3,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,4,109.037971,17E,34077.11831,62.521477,22.873329,1.375,130
+222,State,VillageSq,4,39.354905,-76.647448,17,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,53.851646,186.918137,17E,34077.11831,64.762856,25.57,1.2,175
+223,State,VillageSq,5,39.354854,-76.647869,65,valley,9,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,11.661903,208.211746,43U,1243657.941,57.171444,17.204002,0,0
+224,State,VillageSq,6,39.355252,-76.647105,3,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,22.36068,104.358864,18UC,635058.5554,67.835426,17.870003,4.25,170
+225,State,VillageSq,7,39.355224,-76.647518,17,ridge,3,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,98.812958,185.402161,17E,34077.11831,69.653618,21.513329,3.5,110
+226,State,VillageSq,8,39.355177,-76.64792,67,hollow,7,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,10,211.586746,17E,34077.11831,63.549522,18.120003,0,220
+227,State,VillageSq,9,39.3556,-76.647162,0,spur,5,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,98.378387,18UC,635058.5554,70.805054,5.494247,4,180
+228,State,VillageSq,10,39.355557,-76.647599,67,ridge,3,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,21.633308,197.511673,17E,34077.11831,73.85376,24.886963,1.25,135
+229,State,VillageSq,11,39.355544,-76.648017,17,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,68.264191,208.314819,17E,34077.11831,72.115753,25.059998,1,210
+230,State,VillageSq,12,39.355473,-76.648405,0,spur,5,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,209.108948,43U,1243657.941,60.879257,5.569996,3.2,100
+231,State,VillageSq,13,39.355744,-76.648916,0,hollow,7,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,221.804459,43U,1243657.941,57.502689,8.231415,0,100
+232,State,VillageSq,14,39.3558,-76.648491,67,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,36.769554,223.197601,17E,34077.11831,70.078156,17.980003,0,0
+233,State,VillageSq,15,39.355849,-76.648109,0,ridge,3,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,223.467285,17E,34077.11831,74.164978,22.003334,0.454545455,130
+234,Private,VillageSq,16,39.356182,-76.648124,3,ridge,3,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,14,217.695389,18UC,635058.5554,74.692444,25.735001,1.2,170
+235,State,VillageSq,17,39.356142,-76.648547,17,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,68.117546,242.788025,17E,34077.11831,70.893341,25.325485,0,190
+236,State,VillageSq,18,39.356078,-76.648981,0,slope,6,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,229.2901,43U,1243657.941,63.19698,4.005798,5.5,40
+237,State,VillageSq,19,39.356429,-76.649023,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,77.794601,244.043076,17E,34077.11831,66.59729,19.137501,0,55
+238,State,VillageSq,20,39.356469,-76.6486,17,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,71.021126,244.483627,17E,34077.11831,72.374451,28.722504,0,226
+239,Private,VillageSq,21,39.356518,-76.648179,1,ridge,3,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,10,235.036621,18UC,635058.5554,75.122932,16.314072,1.2,105
+240,State,VillageSq,22,39.356748,-76.649096,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,96.540146,244.61998,17E,34077.11831,65.459167,20.660004,0,70
+241,State,VillageSq,23,39.356798,-76.648664,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,116.275536,239.968491,17E,34077.11831,72.723015,19.996002,0,238
+242,State,VillageSq,24,39.356856,-76.64824,3,ridge,3,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,4,216.152542,18UC,635058.5554,75.564224,0.711998,0.166666667,186
+243,State,VillageSq,25,39.357079,-76.64915,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,84.118965,246.660156,17E,34077.11831,67.626823,14.647499,0,0
+244,State,VillageSq,26,39.357139,-76.648715,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,90.509666,231.425461,17E,34077.11831,74.545441,10.68,0,135
+245,State,VillageSq,27,39.357165,-76.648328,3,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,4,211.65831,17E,34077.11831,77.24382,7.43,1.5,155
+246,State,VillageSq,28,39.357413,-76.649215,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,102.839684,246.801575,17E,34077.11831,68.09594,21.614998,0,0
+247,State,VillageSq,29,39.357478,-76.648799,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,104.95713,237.629791,17E,34077.11831,74.881546,24.079994,2.5,90
+248,State,VillageSq,30,39.357521,-76.648365,3,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,30,212.519501,17E,34077.11831,80.275383,17.986671,1.444444444,189
+249,State,VillageSq,31,39.357745,-76.649286,67,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,34.525352,237.285858,17E,34077.11831,70.619865,7.152832,0,0
+250,Private,VillageSq,32,39.357805,-76.648857,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,147.648224,214.03688,17E,34077.11831,77.356033,21.899994,2.6,155
+251,State,VillageSq,33,39.357846,-76.648428,3,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,46.043457,223.259537,17E,34077.11831,84.748932,28.235001,1.2,200
+252,State,VillageSq,34,39.357902,-76.648018,3,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,25.455845,170.380966,18UC,635058.5554,88.010529,19.909996,3.5,210
+253,State,VillageSq,35,39.357936,-76.647593,0,ridge,3,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,145.096756,18UC,635058.5554,87.656967,12.864738,0,0
+254,State,VillageSq,36,39.358081,-76.649356,67,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,35.777088,242.114487,17E,34077.11831,69.932068,8.19577,1,155
+255,State,VillageSq,37,39.358139,-76.648916,17,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,116.619041,235.004684,17E,34077.11831,82.187798,12.695,9,145
+256,State,VillageSq,38,39.358178,-76.648486,67,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,28.071337,224.359619,17E,34077.11831,88.764587,15.388359,3,185
+257,State,VillageSq,39,39.358419,-76.649409,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,52.611786,243.432968,28E,31067.81804,72.994751,11.029999,4,130
+258,State,VillageSq,40,39.358467,-76.648983,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,106.282639,240.430374,17E,34077.11831,82.348,9.422707,4.666666667,175
+259,State,VillageSq,41,39.358521,-76.648547,0,spur,5,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,222.11557,17E,34077.11831,93.387543,4.420242,1.25,162
+260,State,VillageSq,42,39.358739,-76.649473,1,slope,6,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,2,253.816376,28E,31067.81804,73.934143,7.133339,0,0
+261,State,VillageSq,43,39.358802,-76.64904,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,118,250.61171,28E,31067.81804,84.146301,7.317001,10,165
+262,State,VillageSq,44,39.358849,-76.648607,3,spur,5,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,6.324555,245.786316,17E,34077.11831,94.606133,9.930115,3.222222222,210
+263,State,VillageSq,45,39.359089,-76.649525,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,60,255.467911,28E,31067.81804,70.166634,18.406662,0,0
+264,State,VillageSq,46,39.359128,-76.649118,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,103.247276,253.363464,28E,31067.81804,83.902336,7.202499,0,0
+265,State,VillageSq,47,39.359182,-76.6487,0,ridge,3,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,242.878052,28E,31067.81804,94.419724,3.058678,0,0
+266,Private,VillageSq,48,39.359217,-76.648251,9,summit,2,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,2.828427,233.039078,18UC,635058.5554,99.62429,2.395004,0,0
+267,State,VillageSq,49,39.359413,-76.649596,17,slope,6,502,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,50.990196,245.64267,43U,1243657.941,71.561607,23.737366,0,0
+268,State,VillageSq,50,39.359475,-76.649146,105,slope,6,502,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,11.661903,246.953049,28E,31067.81804,85.344574,21.029999,0,0
+269,State,VillageSq,51,39.35952,-76.64873,3,ridge,3,502,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,16.124516,248.5522,28E,31067.81804,95.429428,3.833328,0,0
+270,State,VillageSq,52,39.359754,-76.649651,3,spur,5,502,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,38,249.654709,43U,1243657.941,73.035995,8.691238,0,0
+271,State,VillageSq,53,39.359812,-76.649234,17,spur,5,502,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,50.596443,252.497238,28E,31067.81804,84.577095,15.767532,0,0
+272,Private,VillageSq,54,39.359851,-76.648804,3,ridge,3,502,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,22.090721,283.506989,28E,31067.81804,94.294304,21.556664,0,0
+273,State,VillageSq,55,39.359888,-76.648402,17,ridge,3,502,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,53.66563,313.513794,28E,31067.81804,96.884247,25.285004,0,0
+274,State,VillageSq,56,39.359945,-76.647974,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,346.542114,28E,31067.81804,99.51088,12.196663,0,0
+275,State,VillageSq,57,39.360078,-76.649716,3,spur,5,502,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,10,274.777985,43U,1243657.941,71.65976,3.020004,0,0
+276,State,VillageSq,58,39.360131,-76.649267,17,ridge,3,502,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,82.607506,293.190033,43U,1243657.941,81.589272,15.506668,0,0
+277,Private,VillageSq,59,39.360186,-76.648867,65,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,11.313708,317.845917,28E,31067.81804,88.016945,8.602501,0,0
+278,Private,VillageSq,60,39.360218,-76.648505,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,341.157501,28E,31067.81804,90.334618,18.25,0,0
+279,State,VillageSq,61,39.360447,-76.649329,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,309.774384,43U,1243657.941,73.478317,9.664848,0,0
+280,State,VillageSq,62,39.360492,-76.648913,67,spur,5,502,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,36.878178,320.479492,43U,1243657.941,75.63372,5.550003,0,0
+281,City,ToddAve,1,39.325103,-76.532877,3,valley,9,1261,,Cretaceous,gravel,sand,10.198039,67.661835,10,267877.4746,10.7466,11.5825,1.6,140
+282,City,ToddAve,2,39.324893,-76.532708,33,valley,9,,,Cretaceous,gravel,sand,17.088007,96.298744,10,267877.4746,10.238723,5.223282,5.666666667,12
+283,City,ToddAve,3,39.32467,-76.532529,17,footslope,8,1261,,Cretaceous,gravel,sand,65.145988,258.681702,34UB,239176.9469,10.346728,10.562501,2.5,130
+284,City,ToddAve,4,39.32444,-76.532369,17,footslope,8,1261,,Cretaceous,gravel,sand,80.099937,260.311829,34UB,239176.9469,10.994884,19.808001,4.833333333,175
+285,City,ToddAve,5,39.324224,-76.532205,17,slope,6,1261,,Cretaceous,gravel,sand,50.635956,268.350647,34UB,239176.9469,11.779688,9.8325,0,165
+286,City,ToddAve,6,39.323997,-76.532014,35,slope,6,1261,,Cretaceous,gravel,sand,20,271.50116,34UB,239176.9469,13.715102,12.469999,0,
+287,City,ToddAve,7,39.323771,-76.531851,0,slope,6,,,Cretaceous,gravel,sand,0,281.095459,34UB,239176.9469,17.772581,15.172503,0,
+288,City,ToddAve,8,39.323543,-76.531673,33,slope,6,,,Cretaceous,gravel,sand,4,294.756958,40B,18918.49598,19.371881,12.386667,0,
+289,City,ToddAve,9,39.323321,-76.531508,33,slope,6,,,Cretaceous,gravel,sand,12.806249,314.256195,40B,18918.49598,21.96208,10.92,0,
+290,City,ToddAve,10,39.323094,-76.531336,0,spur,5,,,Cretaceous,gravel,sand,0,22.991072,40B,18918.49598,23.994629,8.434999,0,
+291,Private,ToddAve,11,39.322848,-76.531148,33,spur,5,,,Cretaceous,gravel,sand,10.770329,22.436417,40E,177165.7829,24.651827,10.43,0,
+292,Private,ToddAve,12,39.322623,-76.530988,17,spur,5,1261,,Cretaceous,gravel,sand,54.625999,306.342957,40E,177165.7829,26.905222,10.014359,0,
+293,Private,ToddAve,13,39.322501,-76.531255,17,spur,5,1261,,Cretaceous,gravel,sand,53.366657,240.109818,40E,177165.7829,25.443562,11.199999,0,
+294,Private,ToddAve,14,39.322727,-76.531431,0,spur,5,,,Cretaceous,gravel,sand,0,249.864899,40B,18918.49598,24.9154,2.795,0,
+295,City,ToddAve,15,39.322958,-76.531606,33,spur,5,,,Cretaceous,gravel,sand,6.324555,270.476074,40B,18918.49598,23.884762,4.278658,0,
+296,City,ToddAve,16,39.323184,-76.531774,35,spur,5,1261,,Cretaceous,gravel,sand,22.36068,271.382965,40B,18918.49598,20.580828,8.505001,0,
+297,City,ToddAve,17,39.32342,-76.531943,35,slope,6,1261,,Cretaceous,gravel,sand,30.594116,273.165375,40B,18918.49598,18.415888,15.484999,0,
+298,City,ToddAve,18,39.323647,-76.532132,17,slope,6,1261,,Cretaceous,gravel,sand,50,286.784851,40B,18918.49598,14.504958,17.9716,0,
+299,City,ToddAve,19,39.323868,-76.532296,17,slope,6,1261,,Cretaceous,gravel,sand,59.228371,277.725647,34UB,239176.9469,11.578892,9.057857,0,
+300,City,ToddAve,20,39.324084,-76.532468,0,footslope,8,,,Cretaceous,gravel,sand,0,279.551117,34UB,239176.9469,10.865745,13.184,0,
+301,City,ToddAve,21,39.324306,-76.532633,35,valley,9,1261,,Cretaceous,gravel,sand,46,267.621826,10,267877.4746,10.108263,6.437971,6.666666667,100
+302,City,ToddAve,22,39.324533,-76.53281,35,valley,9,1261,,Cretaceous,gravel,sand,22.803509,95.419662,10,267877.4746,10.265702,18.365999,4.75,150
+303,City,ToddAve,23,39.324762,-76.532987,1,valley,9,,,Cretaceous,gravel,sand,13.416408,90.839485,10,267877.4746,10.922407,19.07,5,
+304,City,ToddAve,24,39.324416,-76.533091,33,valley,9,,,Cretaceous,gravel,sand,30,112.866547,10,267877.4746,10.627393,19.639999,4.5,
+305,City,ToddAve,25,39.324193,-76.532914,33,valley,9,,,Cretaceous,gravel,sand,2,127.533348,10,267877.4746,9.899952,10.44,4.571428571,
+306,City,ToddAve,26,39.323966,-76.532757,33,valley,9,,,Cretaceous,gravel,sand,16,288.171997,10,267877.4746,10.418042,10.417579,0,
+307,City,ToddAve,27,39.323741,-76.532578,35,slope,6,1261,,Cretaceous,gravel,sand,36.496574,292.639587,10,267877.4746,11.216316,20.43,0,
+308,City,ToddAve,28,39.323512,-76.532399,17,slope,6,1261,,Cretaceous,gravel,sand,74,294.362213,35B,33802.95858,12.70915,27.555,0,
+309,City,ToddAve,29,39.323284,-76.532229,105,slope,6,1261,,Cretaceous,gravel,sand,26,282.554535,40B,18918.49598,16.20018,15.893808,0,
+310,City,ToddAve,30,39.323062,-76.532059,35,spur,5,1261,,Cretaceous,gravel,sand,20,263.304688,40B,18918.49598,18.05905,9.108657,0,
+311,City,ToddAve,31,39.322826,-76.531884,0,spur,5,,,Cretaceous,gravel,sand,0,257.424988,40B,18918.49598,20.49217,5.869666,0,
+312,Private,ToddAve,32,39.322605,-76.531702,33,slope,6,,,Cretaceous,gravel,sand,39.395432,247.780426,40B,18918.49598,22.700258,11.031528,0,
+313,Private,ToddAve,33,39.322371,-76.531539,35,slope,6,1261,,Cretaceous,gravel,sand,25.612497,259.395142,40E,177165.7829,23.878538,9.445948,0,
+314,Private,ToddAve,34,39.322147,-76.531356,35,slope,6,1261,,Cretaceous,gravel,sand,10,179.885864,40E,177165.7829,23.623247,4.117645,0,
+315,Private,ToddAve,35,39.322017,-76.531632,3,slope,6,1261,,Cretaceous,gravel,sand,25.612497,222.966507,40E,177165.7829,20.622997,7.552692,0,
+316,Private,ToddAve,36,39.322247,-76.531814,3,slope,6,1261,,Cretaceous,gravel,sand,8.485281,244.871689,40E,177165.7829,20.465851,8.616667,0,
+317,City,ToddAve,37,39.322466,-76.531977,0,slope,6,,,Cretaceous,gravel,sand,0,244.880325,40B,18918.49598,18.874916,4.745001,0,
+318,City,ToddAve,38,39.322715,-76.532164,33,slope,6,,,Cretaceous,gravel,sand,14.142136,257.063263,40B,18918.49598,17.264374,14.105,0,
+319,City,ToddAve,39,39.322934,-76.532341,17,slope,6,1261,,Cretaceous,gravel,sand,73.539108,263.073914,40B,18918.49598,15.707113,6.105,0,
+320,City,ToddAve,40,39.323154,-76.532502,105,slope,6,1261,,Cretaceous,gravel,sand,34.409302,260.015808,35B,33802.95858,13.779112,12.063332,0,
+321,City,ToddAve,41,39.323385,-76.532683,17,slope,6,1261,,Cretaceous,gravel,sand,75.179787,285.398651,35B,33802.95858,11.98886,18.07,0,
+322,City,ToddAve,42,39.323616,-76.532851,0,valley,9,,,Cretaceous,gravel,sand,0,286.98941,10,267877.4746,10.833525,17.264999,0,
+323,City,ToddAve,43,39.32384,-76.533026,35,valley,9,1261,,Cretaceous,gravel,sand,8.485281,280.028503,10,267877.4746,10.109025,14.8,0,
+324,City,ToddAve,44,39.324051,-76.533191,0,valley,9,,,Cretaceous,gravel,sand,0,112.064415,10,267877.4746,9.953223,5.155727,4.285714286,0
+325,City,ToddAve,45,39.323942,-76.533469,33,valley,9,,,Cretaceous,gravel,sand,18.439089,104.285454,10,267877.4746,10.59447,9.871574,4.75,
+326,City,ToddAve,46,39.323713,-76.533306,0,valley,9,,,Cretaceous,gravel,sand,0,241.118347,10,267877.4746,9.699638,7.311532,0,
+327,City,ToddAve,47,39.323486,-76.533132,33,valley,9,,,Cretaceous,gravel,sand,14.422205,275.247986,10,267877.4746,10.232346,13.746667,0,
+328,City,ToddAve,48,39.323264,-76.532964,17,hollow,7,1261,,Cretaceous,gravel,sand,61.351448,270.313416,35B,33802.95858,11.067698,15.325,0,
+329,City,ToddAve,49,39.323033,-76.532784,17,slope,6,1261,,Cretaceous,gravel,sand,86.64872,260.068085,35B,33802.95858,11.779259,19.729528,0,
+330,City,ToddAve,50,39.322817,-76.532616,17,slope,6,1261,,Cretaceous,gravel,sand,82.024384,275.742493,35B,33802.95858,13.366323,26.195,0,
+331,City,ToddAve,51,39.322586,-76.532442,17,slope,6,1261,,Cretaceous,gravel,sand,70.767227,262.950714,35B,33802.95858,15.175797,17.709999,0,
+332,City,ToddAve,52,39.322342,-76.53226,3,slope,6,1261,,Cretaceous,gravel,sand,30.463093,255.952026,40B,18918.49598,16.465084,7.455,0,
+333,Private,ToddAve,53,39.322122,-76.532084,3,slope,6,1261,,Cretaceous,gravel,sand,4.472136,247.480789,40B,18918.49598,17.215258,5.524797,0,
+334,Private,ToddAve,54,39.32189,-76.531905,3,slope,6,1261,,Cretaceous,gravel,sand,39.446167,259.685944,40E,177165.7829,17.992569,11.430002,0,
+335,Private,ToddAve,55,39.321773,-76.532192,3,slope,6,1261,,Cretaceous,gravel,sand,46.173584,271.884827,40E,177165.7829,16.201302,11.311066,0,
+336,Private,ToddAve,56,39.32199,-76.532363,17,slope,6,1261,,Cretaceous,gravel,sand,85.603737,266.743103,40B,18918.49598,15.837278,16.140001,0,
+337,City,ToddAve,57,39.322218,-76.532536,17,slope,6,1261,,Cretaceous,gravel,sand,80.224686,269.983826,35B,33802.95858,14.535186,16.083023,0,
+338,City,ToddAve,58,39.322456,-76.532715,17,slope,6,1261,,Cretaceous,gravel,sand,63.655323,271.997375,35B,33802.95858,12.903228,19.969999,0,
+339,City,ToddAve,59,39.322682,-76.532886,169,slope,6,1261,,Cretaceous,gravel,sand,10,261.34201,35B,33802.95858,12.283154,19.684999,0,
+340,City,ToddAve,60,39.322915,-76.533049,169,slope,6,1261,,Cretaceous,gravel,sand,8.246211,274.81076,35B,33802.95858,11.188978,9.920001,0,
+341,City,ToddAve,61,39.32314,-76.533236,17,valley,9,1261,,Cretaceous,gravel,sand,73.430237,274.227264,10,267877.4746,10.322313,26.410519,0,
+342,City,ToddAve,62,39.323364,-76.53341,35,valley,9,1261,,Cretaceous,gravel,sand,46,272.3862,10,267877.4746,9.769207,13.203341,0,
+343,City,ToddAve,63,39.323588,-76.533577,33,footslope,8,,,Cretaceous,gravel,sand,24.083189,107.038918,10,267877.4746,10.000065,18.559999,0,
+344,City,ToddAve,64,39.323233,-76.533678,35,valley,9,1261,,Cretaceous,gravel,sand,17.088007,119.848289,10,267877.4746,9.50269,5.011701,0,
+345,City,ToddAve,65,39.32301,-76.533511,17,valley,9,1261,,Cretaceous,gravel,sand,92,271.642365,10,267877.4746,9.811932,26.08,0,
+346,City,ToddAve,66,39.322786,-76.53334,17,footslope,8,1261,,Cretaceous,gravel,sand,61.220913,274.831635,35B,33802.95858,10.468526,23.604706,0,
+347,City,ToddAve,67,39.322562,-76.533172,169,slope,6,1261,,Cretaceous,gravel,sand,22.803509,277.338074,35B,33802.95858,10.864995,22.4678,0,
+348,City,ToddAve,68,39.322339,-76.532999,17,slope,6,1261,,Cretaceous,gravel,sand,62.225395,298.914032,35B,33802.95858,11.62794,19.689999,0,
+349,City,ToddAve,69,39.322098,-76.532817,105,slope,6,1261,,Cretaceous,gravel,sand,32.249031,298.125824,35B,33802.95858,13.609509,14.79,0,
+350,Private,ToddAve,70,39.321872,-76.532641,17,slope,6,1261,,Cretaceous,gravel,sand,126.142776,274.339752,35B,33802.95858,14.756334,9.559999,0,
+351,Private,ToddAve,71,39.321643,-76.532463,17,slope,6,1261,,Cretaceous,gravel,sand,67.230942,282.463409,40E,177165.7829,15.848561,12.074999,0,
+352,Private,ToddAve,72,39.321519,-76.532742,17,slope,6,1261,,Cretaceous,gravel,sand,50.159744,274.794098,40E,177165.7829,14.379923,16.830002,0,
+353,City,ToddAve,73,39.321743,-76.532906,17,slope,6,1261,,Cretaceous,gravel,sand,144.94136,269.263062,35B,33802.95858,13.822168,8.223334,0,
+354,City,ToddAve,74,39.321971,-76.533079,17,slope,6,1261,,Cretaceous,gravel,sand,101.212646,253.185928,35B,33802.95858,12.894428,22.286667,0,
+355,City,ToddAve,75,39.32221,-76.533273,17,slope,6,1261,,Cretaceous,gravel,sand,118.016945,306.255829,35B,33802.95858,11.494439,25.639999,0,
+356,City,ToddAve,76,39.322433,-76.533437,17,slope,6,1261,,Cretaceous,gravel,sand,104.651802,295.051422,35B,33802.95858,10.758513,16.5,0,
+357,City,ToddAve,77,39.322668,-76.53362,17,valley,9,1261,,Cretaceous,gravel,sand,110.887329,282.297089,10,267877.4746,10.015409,12.880001,0,
+358,City,ToddAve,78,39.322886,-76.53379,35,valley,9,1261,,Cretaceous,gravel,sand,21.540659,287.614594,10,267877.4746,9.473969,1.633892,0,
+359,City,ToddAve,79,39.323113,-76.533965,35,valley,9,1261,,Cretaceous,gravel,sand,40,124.772881,10,267877.4746,9.85903,11.549627,0,
+360,Private,ToddAve,80,39.323335,-76.534129,33,hollow,7,,,Cretaceous,gravel,sand,2,128.199387,45UB,96200.01972,11.190194,4.48,0,
+361,Private,ToddAve,81,39.323556,-76.534303,0,slope,6,,,Cretaceous,gravel,sand,0,138.515701,45UB,96200.01972,12.447119,8.956982,0,
+362,Private,ToddAve,82,39.323664,-76.534744,3,slope,6,1333,,Cretaceous,gravel,sand,32.55764,132.971191,45UB,96200.01972,13.692253,14.34,0,
+363,Private,ToddAve,83,39.323432,-76.534575,35,slope,6,1333,,Cretaceous,gravel,sand,34.176014,143.858505,45UB,96200.01972,12.301743,20.836575,0,
+364,Private,ToddAve,84,39.323207,-76.534406,33,hollow,7,,,Cretaceous,gravel,sand,14.56022,141.505417,45UB,96200.01972,11.127828,18.01,0,
+365,City,ToddAve,85,39.322988,-76.534226,35,valley,9,1261,,Cretaceous,gravel,sand,32.249031,119.902626,10,267877.4746,10.145929,8.420207,0,
+366,City,ToddAve,86,39.322762,-76.534055,35,valley,9,1261,,Cretaceous,gravel,sand,12.649111,131.959732,10,267877.4746,9.262056,13.009999,0,
+367,City,ToddAve,87,39.322536,-76.533882,17,valley,9,1261,,Cretaceous,gravel,sand,86.278618,274.876343,10,267877.4746,9.625219,10.116956,0,
+368,City,ToddAve,88,39.322311,-76.533707,17,footslope,8,1261,,Cretaceous,gravel,sand,69.339745,281.375763,35B,33802.95858,10.269105,6.512501,0,
+369,City,ToddAve,89,39.32209,-76.533542,17,slope,6,1261,,Cretaceous,gravel,sand,80.894997,271.642914,35B,33802.95858,10.811647,18.215,0,
+370,City,ToddAve,90,39.321843,-76.533361,17,slope,6,1261,,Cretaceous,gravel,sand,133.056381,253.972855,35B,33802.95858,11.788174,22.129999,0,
+371,City,ToddAve,91,39.321619,-76.533187,17,slope,6,1261,,Cretaceous,gravel,sand,124.787819,283.545288,35B,33802.95858,12.810447,13.514999,0,
+372,Private,ToddAve,92,39.321396,-76.533017,17,slope,6,1261,,Cretaceous,gravel,sand,51.923019,274.288086,40E,177165.7829,13.380753,4.793334,0,
+373,Private,ToddAve,93,39.321168,-76.532842,65,slope,6,,,Cretaceous,gravel,sand,6.324555,275.210449,40E,177165.7829,14.60429,6.775951,0,
+374,Private,ToddAve,94,39.321044,-76.533122,67,slope,6,1261,,Cretaceous,gravel,sand,20,267.976685,40E,177165.7829,13.29143,10.508114,0,
+375,Private,ToddAve,95,39.321266,-76.533285,3,slope,6,1261,,Cretaceous,gravel,sand,26.832815,251.49234,35B,33802.95858,12.731602,11.735001,0,
+376,City,ToddAve,96,39.321492,-76.533458,17,slope,6,1261,,Cretaceous,gravel,sand,65.513359,279.183807,35B,33802.95858,11.968302,11.923333,0,
+377,City,ToddAve,97,39.321721,-76.533633,17,slope,6,1261,,Cretaceous,gravel,sand,53.851646,271.274139,35B,33802.95858,11.108344,10.4,0,
+378,City,ToddAve,98,39.321959,-76.533818,17,hollow,7,1261,,Cretaceous,gravel,sand,51.923019,269.209229,35B,33802.95858,10.082559,16.834999,0,
+379,City,ToddAve,99,39.322184,-76.533986,105,valley,9,1261,,Cretaceous,gravel,sand,23.323807,278.172852,10,267877.4746,9.78254,24.32,0,
+380,City,ToddAve,100,39.322411,-76.53416,17,valley,9,1261,,Cretaceous,gravel,sand,73.239334,285.325775,10,267877.4746,9.32902,11.914798,0,
+381,City,ToddAve,101,39.322631,-76.534336,35,valley,9,1261,,Cretaceous,gravel,sand,4,114.050903,10,267877.4746,9.632196,12.835154,0,
+382,Private,ToddAve,102,39.322853,-76.534509,17,hollow,7,1261,,Cretaceous,gravel,sand,83.570328,99.595581,45UB,96200.01972,10.52525,4.233598,0,
+383,Private,ToddAve,103,39.323085,-76.534679,17,hollow,7,1261,,Cretaceous,gravel,sand,54.589375,74.530792,45UB,96200.01972,11.301406,13.605,0,
+384,Private,ToddAve,104,39.323307,-76.534861,0,hollow,7,,,Cretaceous,gravel,sand,0,130.034363,45UB,96200.01972,12.064475,12.753446,0,
+385,Private,ToddAve,105,39.323528,-76.535028,17,slope,6,1333,,Cretaceous,gravel,sand,51.613953,126.052696,45UB,96200.01972,13.731479,19.023331,0,
+386,Private,ToddAve,106,39.323401,-76.535297,35,slope,6,1333,,Cretaceous,gravel,sand,15.231546,113.812561,45UB,96200.01972,14.357302,7.9,0,
+387,Private,ToddAve,107,39.323183,-76.535138,17,slope,6,1333,,Cretaceous,gravel,sand,52.801514,93.014839,45UB,96200.01972,12.932915,16.02,0,
+388,Private,ToddAve,108,39.322955,-76.534964,0,slope,6,,,Cretaceous,gravel,sand,0,78.705177,45UB,96200.01972,12.30414,10.760834,0,
+389,Private,ToddAve,109,39.322732,-76.534779,17,slope,6,1261,,Cretaceous,gravel,sand,59.933296,94.189606,45UB,96200.01972,11.36486,16.812475,0,
+390,City,ToddAve,110,39.322507,-76.534611,33,slope,6,,,Cretaceous,gravel,sand,22.090721,107.233521,10,267877.4746,10.080902,6.334787,0,
+391,City,ToddAve,111,39.322285,-76.534451,35,valley,9,1261,,Cretaceous,gravel,sand,16.124516,103.867157,10,267877.4746,9.21137,4.61031,0,
+392,City,ToddAve,112,39.322058,-76.534268,17,valley,9,1261,,Cretaceous,gravel,sand,88.29496,268.729858,10,267877.4746,9.217114,17.137501,0,
+393,City,ToddAve,113,39.321829,-76.534083,17,footslope,8,1261,,Cretaceous,gravel,sand,70.228203,264.019135,35B,33802.95858,9.781637,18.713333,0,
+394,City,ToddAve,114,39.321589,-76.53391,17,slope,6,1261,,Cretaceous,gravel,sand,51.923019,263.700195,35B,33802.95858,10.385375,21.559999,0,
+395,City,ToddAve,115,39.321365,-76.533742,17,slope,6,1261,,Cretaceous,gravel,sand,58.309521,259.152435,35B,33802.95858,10.6638,21.619999,0,
+396,Private,ToddAve,116,39.321147,-76.533564,17,slope,6,1261,,Cretaceous,gravel,sand,56.568542,258.377716,35B,33802.95858,11.283397,10.963334,0,
+397,Private,ToddAve,117,39.320914,-76.533399,3,slope,6,1261,,Cretaceous,gravel,sand,39.59798,269.17395,40E,177165.7829,12.141326,14.050001,0,
+398,Private,ToddAve,118,39.320786,-76.53368,0,slope,6,,,Cretaceous,gravel,sand,0,259.62738,35B,33802.95858,11.028384,6.379436,0,
+399,City,ToddAve,119,39.32101,-76.533848,35,slope,6,1261,,Cretaceous,gravel,sand,2,260.790314,35B,33802.95858,10.32683,11.844999,0,
+400,City,ToddAve,120,39.321235,-76.534023,35,slope,6,1261,,Cretaceous,gravel,sand,45.254833,254.621048,35B,33802.95858,9.676353,14.068826,0,
+401,City,ToddAve,121,39.32146,-76.534194,17,footslope,8,1261,,Cretaceous,gravel,sand,91.760559,255.565292,35B,33802.95858,9.301562,20.82,0,
+402,City,ToddAve,122,39.321696,-76.534379,105,valley,9,1261,,Cretaceous,gravel,sand,12.806249,256.497833,10,267877.4746,9.007491,7.055001,0,
+403,City,ToddAve,123,39.321925,-76.534554,17,valley,9,1261,,Cretaceous,gravel,sand,67.675697,102.876762,10,267877.4746,8.905981,7.53,0,
+404,City,ToddAve,124,39.322146,-76.534726,33,footslope,8,,,Cretaceous,gravel,sand,14,113.248749,10,267877.4746,9.902274,15.55,0,
+405,Private,ToddAve,125,39.322372,-76.5349,35,slope,6,1261,,Cretaceous,gravel,sand,24.083189,123.565865,10,267877.4746,11.521019,11.93,0,
+406,Private,ToddAve,126,39.322596,-76.535072,17,slope,6,1261,,Cretaceous,gravel,sand,52,97.512886,45UB,96200.01972,12.172555,13.36,0,
+407,Private,ToddAve,127,39.322839,-76.535238,35,slope,6,1333,,Cretaceous,gravel,sand,8.246211,106.14431,45UB,96200.01972,12.955835,13.332655,0,205
+408,Private,ToddAve,128,39.32305,-76.535409,35,slope,6,1333,,Cretaceous,gravel,sand,22,105.904076,45UB,96200.01972,13.789562,4.26,0,
+409,Private,ToddAve,129,39.32328,-76.535583,0,slope,6,,,Cretaceous,gravel,sand,0,121.275719,45UB,96200.01972,14.885009,5.630369,0,
+410,Private,ToddAve,130,39.322925,-76.535685,0,slope,6,,,Cretaceous,gravel,sand,0,141.221283,45UB,96200.01972,13.969059,6.98,0,
+411,Private,ToddAve,131,39.322706,-76.535526,0,slope,6,,,Cretaceous,gravel,sand,0,148.582214,45UB,96200.01972,13.386035,3.841251,0,
+412,Private,ToddAve,132,39.322478,-76.535346,1,slope,6,,,Cretaceous,gravel,sand,6.324555,147.697647,45UB,96200.01972,12.283597,11.3,0,
+413,Private,ToddAve,133,39.322257,-76.535169,35,slope,6,1261,,Cretaceous,gravel,sand,35.608986,142.957565,45UB,96200.01972,11.503439,6.770309,0,
+414,City,ToddAve,134,39.322021,-76.535006,35,hollow,7,1261,,Cretaceous,gravel,sand,42,113.036766,10,267877.4746,10.31786,22.08,0,
+415,City,ToddAve,135,39.321806,-76.534831,35,footslope,8,1261,,Cretaceous,gravel,sand,27.202942,103.852104,10,267877.4746,9.351687,24.98,0,
+416,City,ToddAve,136,39.321567,-76.534649,17,valley,9,1261,,Cretaceous,gravel,sand,51.264023,187.761688,10,267877.4746,8.857853,12.515175,0,
+417,City,ToddAve,137,39.321348,-76.534466,3,valley,9,1261,,Cretaceous,gravel,sand,10.770329,216.608841,10,267877.4746,8.649014,-0.385,0,
+418,City,ToddAve,138,39.321122,-76.534297,35,footslope,8,1261,,Cretaceous,gravel,sand,8.944272,244.972092,35B,33802.95858,8.694837,4.903229,0,
+419,City,ToddAve,139,39.320895,-76.534126,35,slope,6,1261,,Cretaceous,gravel,sand,14.422205,258.827881,35B,33802.95858,9.142486,9.836901,0,
+420,Private,ToddAve,140,39.320683,-76.533946,0,slope,6,,,Cretaceous,gravel,sand,0,262.448761,35B,33802.95858,9.94683,10.045176,0,
+421,City,ToddAve,141,39.320555,-76.534232,3,footslope,8,1261,,Cretaceous,gravel,sand,37.363083,277.950867,35B,33802.95858,9.100034,9.454999,0,
+422,City,ToddAve,142,39.320767,-76.534391,17,footslope,8,1261,,Cretaceous,gravel,sand,56.35601,276.40509,10,267877.4746,8.558539,15.032249,0,
+423,City,ToddAve,143,39.321001,-76.534574,35,valley,9,1261,,Cretaceous,gravel,sand,37.94733,106.704056,10,267877.4746,8.666172,16.849998,0,
+424,City,ToddAve,144,39.321237,-76.534751,17,valley,9,1261,,Cretaceous,gravel,sand,54,77.515717,10,267877.4746,8.937119,14.228298,0,
+425,City,ToddAve,145,39.321454,-76.534926,35,footslope,8,1261,,Cretaceous,gravel,sand,8.246211,79.438454,10,267877.4746,9.23543,6.404812,0,
+426,Private,ToddAve,146,39.32191,-76.535272,0,hollow,7,,,Cretaceous,gravel,sand,0,131.949249,10,267877.4746,10.437891,4.626871,0,
+427,City,ToddAve,147,39.321689,-76.535109,0,footslope,8,,,Cretaceous,gravel,sand,0,104.850922,10,267877.4746,9.68361,12.904999,0,
+428,City,ToddAve,148,39.321558,-76.535374,0,footslope,8,,,Cretaceous,gravel,sand,0,82.021301,10,267877.4746,10.106301,6.643135,0,
+429,City,ToddAve,149,39.321334,-76.535212,35,footslope,8,1261,,Cretaceous,gravel,sand,36.878178,81.519669,10,267877.4746,9.709029,10.52,0,
+430,City,ToddAve,150,39.321103,-76.535027,33,footslope,8,,,Cretaceous,gravel,sand,18.867962,99.034531,10,267877.4746,9.325123,3.76,0,
+431,City,ToddAve,151,39.320867,-76.534848,33,valley,9,,,Cretaceous,gravel,sand,19.697716,110.339935,10,267877.4746,8.821586,8.074351,0,
+432,City,ToddAve,152,39.320648,-76.534683,35,valley,9,1261,,Cretaceous,gravel,sand,20,263.194275,10,267877.4746,8.340726,17.549999,0,
+433,City,ToddAve,153,39.32042,-76.534502,35,footslope,8,1261,,Cretaceous,gravel,sand,34.928497,289.27124,10,267877.4746,8.765102,3.308017,0,
+434,Private,ToddAve,154,39.320194,-76.534339,35,slope,6,1261,,Cretaceous,gravel,sand,16,278.175751,35C,9648.690118,9.323191,10.256929,0,
+435,City,ToddAve,155,39.320071,-76.534611,35,footslope,8,1261,,Cretaceous,gravel,sand,26,273.779175,10,267877.4746,8.934512,10.88577,0,
+436,City,ToddAve,156,39.320289,-76.534789,35,valley,9,1261,,Cretaceous,gravel,sand,22.36068,287.767761,10,267877.4746,8.577658,8.23,0,
+437,City,ToddAve,157,39.320517,-76.534955,3,valley,9,1261,,Cretaceous,gravel,sand,18.439089,140.771744,10,267877.4746,8.215881,15.536666,0,
+438,City,ToddAve,158,39.320751,-76.535127,35,valley,9,,1397,Cretaceous,gravel,sand,17.888544,127.004936,10,267877.4746,9.1099,9.26,0,
+439,City,ToddAve,159,39.320973,-76.535301,0,footslope,8,,,Cretaceous,gravel,sand,0,86.572685,10,267877.4746,9.844275,12.42,0,
+440,City,ToddAve,160,39.320613,-76.535399,0,valley,9,,,Cretaceous,gravel,sand,0,96.888138,10,267877.4746,9.77492,6.218486,0,
+441,City,ToddAve,161,39.320391,-76.535235,33,valley,9,,,Cretaceous,gravel,sand,41.231056,260.296997,10,267877.4746,8.208786,8.469999,0,
+442,City,ToddAve,162,39.320167,-76.535061,35,valley,9,1261,,Cretaceous,gravel,sand,28.635643,262.118713,10,267877.4746,8.357251,17.5,0,
+443,City,ToddAve,163,39.319947,-76.53489,17,valley,9,1261,,Cretaceous,gravel,sand,52,250.69838,10,267877.4746,8.575599,9.93,0,
+444,Private,ToddAve,164,39.319714,-76.534714,17,footslope,8,1261,,Cretaceous,gravel,sand,68.117546,260.988953,35C,9648.690118,8.865167,8.642583,0,
+445,Private,ToddAve,165,39.319372,-76.534793,17,footslope,8,1261,,Cretaceous,gravel,sand,67.230942,264.71582,35C,9648.690118,8.697687,14.408333,0,
+446,City,ToddAve,166,39.319599,-76.534972,17,valley,9,1261,,Cretaceous,gravel,sand,92.086914,253.518692,10,267877.4746,8.255635,13.026155,0,
+447,City,ToddAve,167,39.319817,-76.53515,17,valley,9,1261,,Cretaceous,gravel,sand,102.313248,232.109055,10,267877.4746,7.945254,6.847181,0,
+448,City,ToddAve,168,39.320046,-76.535313,35,valley,9,1261,,Cretaceous,gravel,sand,16.492422,154.743912,10,267877.4746,7.984078,4.715,0,
+449,City,ToddAve,169,39.320276,-76.535488,0,slope,6,,,Cretaceous,gravel,sand,0,105.207573,10,267877.4746,9.212772,5.105,0,
+451,Private,AH,1,39.344412,-76.701652,3,slope,6,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2.828427,226.08786,18B,12949.06106,115.612434,15.105003,1.916666667,295
+452,Institution,AH,10,39.343115,-76.700394,17,footslope,8,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,158.240326,196.720398,10,287392.0772,113.603561,21.282494,0.68,185
+453,Institution,AH,11,39.343118,-76.699974,17,footslope,8,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,108.903625,200.914017,10,287392.0772,113.974869,4.83667,1.625,116
+454,Institution,AH,12,39.342791,-76.700813,3,flat,1,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,26,322.906067,12UB,2167353.871,112.970619,13.773338,1.913043478,350
+455,Institution,AH,13,39.342792,-76.700396,17,flat,1,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,55.605755,275.417908,12UB,2167353.871,113.229858,12.861328,1.88,122
+456,Institution,AH,14,39.342793,-76.699976,17,valley,9,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,60.827625,299.118195,12UB,2167353.871,113.482414,9.770004,1.111111111,301
+457,Institution,AH,15,39.342794,-76.699579,17,footslope,8,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,52.611786,251.336685,10,287392.0772,113.849083,21.601425,1.444444444,0
+458,Institution,AH,16,39.342807,-76.701237,0,flat,1,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,328.577301,18UB,16566.28646,112.834534,21.009995,1.333333333,0
+459,Institution,AH,17,39.343772,-76.699979,17,footslope,8,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,63.245552,163.186035,26B,44101.88748,115.110497,19.718338,1.08,0
+460,Private,AH,2,39.344096,-76.701654,17,slope,6,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,50.596443,211.128235,18B,12949.06106,114.917419,18.846008,0.259259259,0
+461,Private,AH,3,39.343759,-76.701241,3,slope,6,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,38.052597,196.771072,10,287392.0772,114.690605,24.57,0.636363636,0
+462,Institution,AH,4,39.343429,-76.701246,17,slope,6,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,55.461697,198.919479,10,287392.0772,113.531464,29.067993,0.423076923,0
+463,Institution,AH,5,39.343118,-76.70124,3,footslope,8,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,28.425341,198.665405,10,287392.0772,112.952934,25.610001,0.5,0
+464,Institution,AH,6,39.343441,-76.700821,17,slope,6,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,82.969872,187.063324,10,287392.0772,114.019783,25.762497,0.16,0
+465,Institution,AH,7,39.343444,-76.700401,17,slope,6,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,66,188.060425,10,287392.0772,114.302666,27.740005,0.4,0
+466,Institution,AH,8,39.343447,-76.699975,17,footslope,8,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,73.430237,191.655792,10,287392.0772,114.379669,17.890007,0.625,0
+467,Institution,AH,9,39.343118,-76.700817,17,footslope,8,915,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,118.962181,201.754364,10,287392.0772,113.23185,11.872498,0.357142857,0
+468,City,BEL,1,39.363674,-76.607095,35,slope,6,,350,Precambrian,granitic gneiss,amphibolite,42,41.453133,22UC,29466.95279,109.788803,20.32666,0.791666667,280
+469,City,BEL,2,39.363522,-76.60672,35,slope,6,,364,Precambrian,granitic gneiss,amphibolite,29.732138,34.447128,22UC,29466.95279,109.333267,21.070007,1.761904762,230
+470,Private,FF,1,39.347788,-76.543834,3,ridge,3,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,16.124516,231.831482,18B,39223.24335,83.60218,16.510002,0.428571429,160
+471,Private,FF,11,39.34812,-76.543805,17,ridge,3,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,53.851646,253.020996,18B,39223.24335,83.854439,23.896667,1.5,190
+472,Private,FF,12,39.348511,-76.543844,17,spur,5,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,62.032249,269.799316,18B,39223.24335,83.324768,20.676781,0.583333333,110
+473,Private,FF,13,39.348361,-76.543461,0,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,247.400589,18B,39223.24335,85.795517,15.980003,0.5625,130
+474,Private,FF,14,39.348719,-76.543439,3,spur,5,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,42.941822,270.226959,18B,39223.24335,85.36161,23.496666,2.055555556,190
+475,Private,FF,2,39.347922,-76.544202,17,spur,5,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,54.405884,270.625061,18B,39223.24335,81.257286,21.294998,0.95,120
+476,Private,FF,3,39.347319,-76.544595,3,ridge,3,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,35.44009,276.801025,18B,39223.24335,80.665787,15.320007,0.388888889,110
+477,Private,FF,4,39.347522,-76.544194,17,ridge,3,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,72.111023,241.345276,18B,39223.24335,81.791985,24.014999,0.952380952,140
+478,Private,FF,5,39.347184,-76.544201,3,ridge,3,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,26.832815,191.777695,18UC,314232.6569,81.492203,13,1,230
+479,Private,FF,6,39.346951,-76.544556,17,ridge,3,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,85.906929,256.401245,18B,39223.24335,81.134193,23.14666,1.111111111,250
+480,Private,FF,7,39.346729,-76.544966,17,ridge,3,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,74.886581,278.036896,18B,39223.24335,80.496925,22.059998,0.666666667,250
+481,Private,FF,9,39.346353,-76.544938,17,ridge,3,785,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,100.319489,164.990112,18B,39223.24335,79.89801,26.204994,1.055555556,200
+482,Private,FRIENDS,1,39.355497,-76.630081,35,valley,9,,628,Late Precambrian (?) - Early Paleozoic,gabbro,norite,6.324555,240.822495,10,57017.83715,97.403358,3.815384,0.1875,250
+483,Private,FRIENDS,10,39.35753,-76.628756,0,slope,6,,,Late Precambrian (?),mica schist,gneiss,0,202.479355,21E,24554.14784,104.738319,5.244286,1.833333333,260
+484,Private,FRIENDS,11,39.357533,-76.627436,33,slope,6,,,Late Precambrian (?),mica schist,gneiss,12.165525,164.00177,22UC,156629.3431,109.729019,9.803909,2.4,300
+485,Private,FRIENDS,12,39.357545,-76.626988,33,hollow,7,,,Late Precambrian (?),mica schist,gneiss,14.56022,167.549194,22UC,156629.3431,109.906487,19.679993,0.692307692,290
+486,Private,FRIENDS,13,39.357528,-76.626528,33,slope,6,,,Late Precambrian (?),mica schist,gneiss,19.697716,204.476196,22UC,156629.3431,110.4916,8.349144,1.05,290
+487,Private,FRIENDS,14,39.357524,-76.626101,33,slope,6,,,Late Precambrian (?),mica schist,gneiss,16,212.600052,22UC,156629.3431,112.752533,10.290001,1.214285714,300
+488,Private,FRIENDS,15,39.357522,-76.62565,33,slope,6,,,Late Precambrian (?),mica schist,gneiss,16,216.406815,22UC,156629.3431,116.138474,4.048332,0.866666667,300
+489,Private,FRIENDS,16,39.35754,-76.625203,33,slope,6,,,Late Precambrian (?),mica schist,gneiss,26,208.146118,22UC,156629.3431,118.97126,24.069992,0.384615385,270
+490,Private,FRIENDS,17,39.357531,-76.624764,35,spur,5,,573,Late Precambrian (?),mica schist,gneiss,43.68066,187.758972,22UC,156629.3431,120.806664,28.483337,0.931034483,85
+491,City,FRIENDS,2,39.355812,-76.630093,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,88.598289,10,57017.83715,97.482788,7.647141,0.25,75
+492,Private,FRIENDS,3,39.356151,-76.63009,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,75.937195,10,57017.83715,97.149826,4.262001,0.642857143,100
+493,Private,FRIENDS,4,39.3565,-76.630099,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,101.566147,10,57017.83715,97.399773,10.579994,1.933333333,200
+494,Private,FRIENDS,5,39.356489,-76.630528,33,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2,102.167526,22UB,28975.23268,99.546066,5.032944,0.72,220
+495,Private,FRIENDS,6,39.356842,-76.630545,35,valley,9,,578,Late Precambrian (?) - Early Paleozoic,gabbro,norite,40.496914,166.601776,22UB,28975.23268,102.094604,4.753334,1,120
+496,Private,FRIENDS,7,39.356836,-76.630094,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,96.444176,10,57017.83715,98.545914,5.894615,1.388888889,100
+497,Institution,FRIENDS,8,39.357172,-76.630543,33,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,16,78.868195,39B,84864.49067,102.965088,25.206001,0.541666667,240
+498,Institution,FRIENDS,9,39.357183,-76.630108,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,88.886971,10,57017.83715,99.399452,6.400002,1,0
+499,Institution,G,1,39.352636,-76.610726,35,ridge,3,,700,Cretaceous,gravel,sand,22.36068,160.621384,22UB,114376.8153,109.419807,10.010002,2.25,230
+500,Private,G,2,39.352635,-76.610319,35,ridge,3,,698,Cretaceous,gravel,sand,19.697716,172.875412,22UB,114376.8153,109.833603,16.725594,0.466666667,180
+501,Private,G,3,39.352638,-76.609922,3,spur,5,,698,Cretaceous,gravel,sand,10,99.066292,22UB,114376.8153,109.054314,6.529999,0.3,50
+502,Private,GILMAN,1,39.357326,-76.629019,33,hollow,7,,,Late Precambrian (?),mica schist,gneiss,28.071337,210.401321,39B,57714.46067,101.768799,21.087494,1.413793103,300
+503,Institution,GILMAN,10,39.360302,-76.629503,17,valley,9,453,,Late Precambrian (?),mica schist,gneiss,60,239.353378,6B,37072.14187,106.236,21.397499,0.740740741,280
+504,Institution,GILMAN,11,39.359934,-76.630448,0,hollow,7,,,Late Precambrian (?),mica schist,gneiss,0,132.385971,6B,19571.23635,105.913673,8.26313,0.307692308,280
+505,Institution,GILMAN,12,39.359927,-76.629974,3,valley,9,,507,Late Precambrian (?),mica schist,gneiss,8.246211,149.828842,10,57017.83715,103.864449,26.016754,0.666666667,160
+506,Institution,GILMAN,13,39.359926,-76.629497,33,valley,9,,,Late Precambrian (?),mica schist,gneiss,8.944272,242.120453,6B,37072.14187,104.861443,9.369995,3.222222222,195
+507,Institution,GILMAN,14,39.359558,-76.630449,1,valley,9,,,Late Precambrian (?),mica schist,gneiss,8.944272,87.933052,39B,84864.49067,102.813721,6.522522,1.642857143,70
+508,Institution,GILMAN,15,39.359555,-76.629987,33,valley,9,,,Late Precambrian (?),mica schist,gneiss,26.907248,203.025848,10,57017.83715,102.694054,10.75,1.846153846,85
+509,Institution,GILMAN,16,39.359189,-76.630466,33,depression,10,,,Late Precambrian (?),mica schist,gneiss,23.323807,84.091339,10,57017.83715,102.650024,26.709999,0.823529412,220
+510,Institution,GILMAN,17,39.35882,-76.630455,33,valley,9,,,Late Precambrian (?),mica schist,gneiss,4.472136,86.402283,10,57017.83715,102.303085,2.189102,0.538461538,220
+511,Institution,GILMAN,18,39.358443,-76.630463,33,valley,9,,,Late Precambrian (?),mica schist,gneiss,7.211102,82.296547,39B,84864.49067,102.563423,14.353333,2,220
+512,Institution,GILMAN,19,39.358083,-76.630453,0,valley,9,,,Late Precambrian (?),mica schist,gneiss,0,80.976234,39B,84864.49067,102.220612,10.841805,1.666666667,205
+513,Institution,GILMAN,2,39.3577,-76.629011,35,slope,6,,551,Late Precambrian (?),mica schist,gneiss,42.755116,208.545975,21E,24554.14784,103.998352,4.859993,0.933333333,300
+514,Institution,GILMAN,20,39.358067,-76.629989,33,valley,9,,,Late Precambrian (?),mica schist,gneiss,11.661903,227.76944,10,57017.83715,100.354988,11.262001,0.9,290
+515,Institution,GILMAN,21,39.357704,-76.629983,0,valley,9,,,Late Precambrian (?),mica schist,gneiss,0,180.78241,10,57017.83715,99.48819,18.091995,1.75,170
+516,Institution,GILMAN,22,39.35733,-76.629982,33,valley,9,,,Late Precambrian (?),mica schist,gneiss,16.124516,112.609543,10,57017.83715,98.737312,12.642174,1.142857143,280
+517,Institution,GILMAN,23,39.361041,-76.629986,1,valley,9,,,Precambrian,granitic gneiss,amphibolite,8.944272,224.522507,10,57017.83715,106.539505,18.225006,0.25,260
+518,Institution,GILMAN,24,39.361049,-76.630452,35,hollow,7,453,,Precambrian,granitic gneiss,amphibolite,34,100.239189,6B,19571.23635,111.522125,31.32,1,300
+519,Institution,GILMAN,3,39.358075,-76.629014,35,spur,5,,551,Late Precambrian (?),mica schist,gneiss,40,211.380539,21E,24554.14784,110.772812,29.111435,1.15,50
+520,Institution,GILMAN,4,39.358439,-76.629019,33,ridge,3,,,Late Precambrian (?),mica schist,gneiss,15.231546,228.999451,21E,24554.14784,115.895958,20.814995,0.259259259,90
+521,Institution,GILMAN,5,39.358817,-76.629008,3,spur,5,,527,Late Precambrian (?),mica schist,gneiss,14,281.76004,21E,24554.14784,116.514,24.860001,0.227272727,300
+522,Institution,GILMAN,6,39.359183,-76.629025,35,spur,5,,527,Late Precambrian (?),mica schist,gneiss,34,300.722015,21E,24554.14784,113.345512,15.920006,1.035714286,0
+523,Institution,GILMAN,7,39.36067,-76.63046,17,slope,6,453,,Late Precambrian (?),mica schist,gneiss,50.635956,64.043716,6B,19571.23635,110.715439,24.335007,0.266666667,0
+524,Institution,GILMAN,8,39.360671,-76.629973,3,valley,9,453,,Late Precambrian (?),mica schist,gneiss,44.721359,68.257484,10,57017.83715,106.983597,6.821449,0.52173913,0
+525,Institution,GILMAN,9,39.3603,-76.629973,17,valley,9,453,,Late Precambrian (?),mica schist,gneiss,58.137768,81.301079,10,57017.83715,107.288948,29.699997,0.842105263,0
+526,Private,GS,1,39.35881,-76.586104,1,slope,6,,,Cretaceous,gravel,sand,8.485281,8.051764,29UC,336208.4591,104.577309,10.785004,1.125,239
+527,Institution,GS,10,39.356828,-76.584096,35,ridge,3,,581,Cretaceous,gravel,sand,14.56022,22.034546,41E,18853.2156,108.523026,6.604996,2.75,310
+528,Institution,GS,12,39.356536,-76.584146,35,ridge,3,,581,Cretaceous,gravel,sand,22,102.55024,41E,18853.2156,109.313118,6.450584,0.357142857,210
+529,Institution,GS,13,39.356504,-76.583766,33,ridge,3,,,Cretaceous,gravel,sand,15.231546,144.125519,41E,18853.2156,106.182434,5.053337,3.090909091,70
+530,Institution,GS,14,39.356355,-76.585338,1,spur,5,,,Cretaceous,gravel,sand,2,158.824158,13E,47739.08037,106.809433,13.219994,1.307692308,342
+531,Institution,GS,15,39.356319,-76.58495,3,spur,5,602,,Cretaceous,gravel,sand,42.801868,188.289352,13E,47739.08037,105.746529,6.189568,0.3125,120
+532,Institution,GS,16,39.356281,-76.584569,0,ridge,3,,,Cretaceous,gravel,sand,0,176.841522,41E,18853.2156,107.215172,6.689453,0.1875,257
+533,Institution,GS,17,39.356242,-76.584188,17,spur,5,602,,Cretaceous,gravel,sand,59.363289,137.909103,41E,18853.2156,103.47982,5.029999,1.615384615,214
+534,Institution,GS,18,39.356212,-76.583812,35,spur,5,602,,Cretaceous,gravel,sand,46.518814,162.020355,41E,18853.2156,100.423943,6.953873,2.235294118,383
+535,Institution,GS,19,39.356064,-76.585373,17,spur,5,602,,Cretaceous,gravel,sand,82.219215,133.174194,13E,47739.08037,103.242729,18.209999,1.363636364,0
+536,Private,GS,2,39.35878,-76.585715,1,slope,6,,,Cretaceous,gravel,sand,10,13.238709,29UC,336208.4591,103.659523,8.480003,0.631578947,0
+537,Institution,GS,20,39.356019,-76.584992,17,slope,6,602,,Cretaceous,gravel,sand,111.946419,178.140472,13E,47739.08037,101.606079,10.47831,1.133333333,0
+538,Institution,GS,21,39.355978,-76.584615,3,slope,6,602,,Cretaceous,gravel,sand,46.173584,167.456863,41E,18853.2156,101.417061,11.909996,1.470588235,0
+539,Institution,GS,22,39.355764,-76.585423,17,slope,6,602,,Cretaceous,gravel,sand,64,174.975571,13E,47739.08037,97.704147,19.813339,0.19047619,0
+540,Institution,GS,23,39.355731,-76.585042,17,slope,6,602,,Cretaceous,gravel,sand,48,141.123001,13E,47739.08037,97.645653,17.643333,1.04,0
+541,Institution,GS,24,39.357574,-76.582454,0,slope,6,,,Cretaceous,gravel,sand,0,43.630241,45UB,57463.65075,90.944183,6.665604,0,0
+542,Institution,GS,25,39.357265,-76.582492,0,slope,6,,,Cretaceous,gravel,sand,0,42.949799,45UB,57463.65075,92.854889,10.603661,0.428571429,0
+543,Institution,GS,26,39.356974,-76.582539,9,slope,6,,,Cretaceous,gravel,sand,4,40.224373,13B,9904.580412,94.625458,16.103333,0.5625,0
+544,Institution,GS,27,39.356685,-76.582581,9,spur,5,,,Cretaceous,gravel,sand,7.211102,56.579372,13B,9904.580412,95.662071,14.045006,0.157894737,0
+545,Institution,GS,28,39.356605,-76.587994,3,spur,5,,583,Cretaceous,gravel,sand,4.472136,229.969666,29UC,336208.4591,104.294174,5.227768,1.272727273,0
+546,Private,GS,29,39.357617,-76.589369,3,slope,6,,564,Cretaceous,gravel,sand,6,194.866013,29UC,336208.4591,101.823204,10.988945,1.285714286,0
+547,Institution,GS,3,39.35841,-76.585012,1,slope,6,,,Cretaceous,gravel,sand,28.284271,32.579369,29UC,336208.4591,103.560616,3.952583,0.666666667,0
+548,Private,GS,30,39.357588,-76.588993,35,slope,6,,564,Cretaceous,gravel,sand,22,173.843719,13E,47739.08037,102.061295,10.536667,1.611111111,0
+549,Private,GS,31,39.357888,-76.588952,1,slope,6,,,Cretaceous,gravel,sand,14.142136,172.72113,13UB,29744.11792,105.437309,17.260002,0.588235294,0
+550,Institution,GS,4,39.358369,-76.584623,0,slope,6,,,Cretaceous,gravel,sand,0,34.21629,29UC,336208.4591,101.534782,3.968163,2.470588235,0
+551,Institution,GS,5,39.358079,-76.584666,3,spur,5,,549,Cretaceous,gravel,sand,34.928497,34.44574,29UC,336208.4591,104.057335,9.406517,1.055555556,0
+552,Institution,GS,6,39.357749,-76.584338,35,slope,6,,549,Cretaceous,gravel,sand,34.928497,54.18187,29UC,336208.4591,103.224747,7.68,0.363636364,0
+553,Institution,GS,7,39.357455,-76.584381,33,slope,6,,,Cretaceous,gravel,sand,16.970562,77.383789,41E,18853.2156,104.318855,15.059998,1.111111111,0
+554,Institution,GS,8,39.357161,-76.584431,35,slope,6,,581,Cretaceous,gravel,sand,33.286633,40.389065,41E,18853.2156,105.597542,12.830002,1.642857143,0
+555,Institution,GS,9,39.356866,-76.584473,35,ridge,3,,581,Cretaceous,gravel,sand,11.313708,2.574073,41E,18853.2156,110.460709,6.172859,0.47826087,0
+556,City,HEPP,1,39.365652,-76.565341,17,spur,5,258,,Cretaceous,gravel,sand,50.039986,160.162689,25B,32222.26832,92.033821,20.475006,0.166666667,240
+557,City,HEPP,10,39.365004,-76.565473,17,slope,6,258,,Cretaceous,gravel,sand,76.026314,175.417221,25B,32222.26832,88.586525,18.141525,0.37037037,180
+558,City,HEPP,11,39.365048,-76.565891,17,slope,6,258,,Cretaceous,gravel,sand,104,187.052338,25B,32222.26832,88.660255,16.624771,0.157894737,230
+559,City,HEPP,12,39.365136,-76.566317,17,slope,6,258,,Cretaceous,gravel,sand,107.424393,206.344162,25B,32222.26832,88.2211,11.824257,0,210
+560,City,HEPP,13,39.365168,-76.566728,17,slope,6,258,,Cretaceous,gravel,sand,48.373547,220.314789,25B,32222.26832,87.603294,21.073746,0.1,200
+561,City,HEPP,2,39.365706,-76.565738,17,slope,6,258,,Cretaceous,gravel,sand,69.31089,200.241211,25B,32222.26832,91.870422,22.783333,0.125,200
+562,City,HEPP,3,39.365757,-76.56617,17,slope,6,258,,Paleozoic,quartz monzonite, ,68,213.012222,25B,32222.26832,91.021217,19.170006,0,270
+563,City,HEPP,4,39.365814,-76.566589,17,slope,6,258,,Paleozoic,quartz monzonite, ,60.166435,221.27919,25B,32222.26832,89.907784,17.357147,0.555555556,220
+564,City,HEPP,5,39.365276,-76.564987,17,slope,6,258,,Cretaceous,gravel,sand,84.970581,164.411499,25UB,112478.1583,90.140793,8.666534,0.173913043,200
+565,City,HEPP,6,39.365331,-76.565398,17,slope,6,258,,Cretaceous,gravel,sand,162.825058,174.123474,25B,32222.26832,90.481628,20.849998,0.222222222,200
+566,City,HEPP,7,39.365366,-76.565798,17,slope,6,258,,Cretaceous,gravel,sand,185.396866,199.30072,25B,32222.26832,90.42617,23.363266,0.263157895,180
+567,City,HEPP,8,39.365462,-76.566238,17,slope,6,258,,Cretaceous,gravel,sand,174.928558,208.179825,25B,32222.26832,89.760376,23.7575,0,220
+568,City,HEPP,9,39.365492,-76.566669,17,slope,6,258,,Paleozoic,quartz monzonite, ,70.682388,214.545593,25B,32222.26832,89.071434,23.428001,0.130434783,230
+569,Private,HR,1,39.367619,-76.689245,3,slope,6,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,24,177.036743,12UB,55440.44397,132.587357,18.14949,1.12,121
+570,Private,HR,10,39.367855,-76.68809,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,108.240471,178.544312,18UB,184923.457,133.25975,28.413345,1.481481481,113
+571,Private,HR,11,39.368154,-76.68807,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,174,127.592537,18UB,184923.457,133.495239,21.454971,1.260869565,96
+572,Private,HR,12,39.368137,-76.687689,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,66,311.815613,26UB,235547.1809,133.562637,9.088562,1.1,98
+573,Private,HR,13,39.368448,-76.688048,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,128.015625,25.725172,26UB,235547.1809,133.391022,28.233337,1.9,141
+574,Private,HR,14,39.368428,-76.68767,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,99.035347,1.681652,26UB,235547.1809,133.209,26.657501,1.222222222,320
+575,Private,HR,15,39.368695,-76.687266,17,shoulder,4,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,80.919716,6.228297,26UB,235547.1809,132.698608,19.736679,1.333333333,150
+576,Private,HR,16,39.368719,-76.687646,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,162.788208,8.422367,26UB,235547.1809,132.754639,11.077499,1.526315789,329.8
+577,Private,HR,17,39.368738,-76.688025,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,98.081596,45.909771,26UB,235547.1809,132.933243,11.433334,3.176470588,158
+578,City,HR,18,39.369042,-76.688382,3,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2,46.644615,26UB,235547.1809,133.276352,5.227493,1.117647059,150
+579,Private,HR,19,39.369029,-76.688012,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,101.390335,56.410198,26UB,235547.1809,132.723541,9.672729,1.5,145
+580,Private,HR,2,39.367907,-76.689229,3,shoulder,4,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,13.416408,147.760666,12UB,55440.44397,133.199036,28.352493,1.133333333,130
+581,Private,HR,20,39.369017,-76.687624,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,80.919716,31.200581,26UB,235547.1809,132.37146,4.767014,1.25,120
+582,Private,HR,3,39.367893,-76.688847,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,122.016396,176.086288,12UB,55440.44397,133.271317,30.33667,2.928571429,117
+583,Private,HR,4,39.367598,-76.688864,17,slope,6,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,118,176.210022,12UB,55440.44397,132.803848,23.910004,1.434782609,327
+584,City,HR,5,39.367311,-76.688891,3,slope,6,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,14.142136,178.490707,12UB,55440.44397,131.613754,14.547775,0,87
+585,Private,HR,6,39.367286,-76.688514,35,slope,6,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2.828427,186.353882,18UB,184923.457,131.962112,13.371109,0.875,85
+586,Private,HR,7,39.367583,-76.68849,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,110,165.673843,18UB,184923.457,132.640457,28.793991,2.461538462,265
+587,Private,HR,8,39.367874,-76.688468,17,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,175.931808,161.757111,18UB,184923.457,133.230225,33.113327,1.851851852,0
+588,City,HR,9,39.367565,-76.688111,3,flat,1,90,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,26.076809,191.248688,18UB,184923.457,132.761276,27.050003,0.227272727,0
+589,Institution,JH,1,39.302176,-76.656199,33,slope,6,,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,16,196.791092,31UB,468314.7924,60.517593,0.589996,0.148148148,180
+590,Institution,JH,10,39.302827,-76.658194,17,slope,6,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,111.803398,312.035278,17B,22647.58886,57.046799,14.860004,0.346153846,90
+591,Institution,JH,11,39.302464,-76.65815,17,spur,5,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,68.410522,310.241486,29B,43141.62168,59.488873,10.125004,1.055555556,250
+592,Institution,JH,12,39.302083,-76.658113,17,ridge,3,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,70,116.332985,18UC,167016.7996,61.031494,6.619995,0.1875,230
+593,Institution,JH,13,39.302795,-76.65865,17,spur,5,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,154.738495,294.915955,17B,22647.58886,56.276279,13.395,1.9,165
+594,Institution,JH,14,39.302426,-76.658624,17,spur,5,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,192.603226,289.897461,17B,22647.58886,57.97517,12.880001,1.111111111,130
+595,Institution,JH,15,39.30205,-76.658586,17,ridge,3,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,106,276.734283,18UC,167016.7996,60.018295,21.434998,0.791666667,130
+596,Institution,JH,3,39.302154,-76.656671,3,spur,5,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,8.246211,167.135162,31UB,468314.7924,60.188862,3.110001,0.555555556,180
+597,Institution,JH,4,39.30288,-76.657226,17,spur,5,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,99.959991,318.938324,29B,43141.62168,60.33036,9.519997,0.863636364,160
+598,Institution,JH,5,39.302507,-76.657188,17,ridge,3,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,68.468971,223.550064,29B,43141.62168,61.354015,12.439999,0.25,220
+599,Institution,JH,6,39.302136,-76.657145,35,spur,5,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,20.099751,150.15625,31UB,468314.7924,60.39576,6.428333,1.214285714,210
+600,Institution,JH,7,39.302847,-76.657691,17,slope,6,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,85.883644,304.642303,29B,43141.62168,59.100815,11.163662,0.178571429,100
+601,Institution,JH,8,39.302477,-76.657662,105,ridge,3,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,34.98571,317.959351,29B,43141.62168,60.68396,11.060001,0.366666667,240
+602,Institution,JH,9,39.302105,-76.657626,17,ridge,3,1749,,Early Paleozoic - Late Precambrian (?),quartz diorite,granite,84.970581,145.808121,31UB,468314.7924,60.772118,4.609989,0.75,80
+603,Institution,JHU,1,39.32865,-76.62492,0,valley,9,,,Late Precambrian (?),mica schist,gneiss,0,98.701965,21E,202352.4507,41.356865,13.259377,0,135
+604,Institution,JHU,10,39.328311,-76.624805,33,depression,10,,,Late Precambrian (?),mica schist,gneiss,13.416408,48.364429,21E,202352.4507,39.073986,4.799999,0.6,183
+605,Institution,JHU,11,39.328986,-76.625043,0,depression,10,,,Late Precambrian (?),mica schist,gneiss,0,232.978256,21E,202352.4507,41.655231,13.119995,0.153846154,243
+606,Institution,JHU,12,39.327064,-76.623913,35,slope,6,,1250,Quaternary,gravel,sand,39.395432,261.773529,13UC,81139.80888,53.412388,6.32,0.375,175
+607,Institution,JHU,13,39.327384,-76.624021,0,slope,6,,,Quaternary,gravel,sand,0,273.926331,13UC,81139.80888,51.957359,27.445618,0.181818182,266
+608,City,JHU,14,39.327483,-76.623577,3,slope,6,,1228,Quaternary,gravel,sand,12.649111,260.295258,13UC,81139.80888,56.847073,21.700001,1,187
+609,Private,JHU,16,39.327142,-76.623454,33,slope,6,,,Quaternary,gravel,sand,27.784887,261.808014,13UC,81139.80888,60.103348,24.904999,1.058823529,151
+610,Private,JHU,17,39.327232,-76.62303,35,spur,5,,1239,Quaternary,gravel,sand,7.211102,252.982773,13UC,81139.80888,66.112144,18.480003,0.318181818,165
+611,Private,JHU,18,39.327565,-76.623145,33,spur,5,,,Quaternary,gravel,sand,21.540659,253.063675,13UC,81139.80888,66.029716,12.110001,0.75,284
+612,Private,JHU,19,39.328425,-76.622507,17,valley,9,1201,,Quaternary,gravel,sand,100.578331,333.076843,13UC,81139.80888,60.811634,28.656666,0.117647059,278
+613,Institution,JHU,2,39.32643,-76.625061,3,valley,9,1219,,Late Precambrian (?),mica schist,gneiss,44.721359,359.852509,21E,202352.4507,41.226925,22.472,0.285714286,315
+614,Private,JHU,20,39.32877,-76.62263,17,valley,9,1201,,Quaternary,gravel,sand,76.655075,208.892609,13UC,81139.80888,58.144005,29.093334,0.375,101
+615,Private,JHU,21,39.32852,-76.622063,0,valley,9,,,Quaternary,gravel,sand,0,269.383942,13UB,252486.3185,61.850189,8.534813,0.25,184
+616,Private,JHU,22,39.329019,-76.623169,35,slope,6,,1177,Quaternary,gravel,sand,36.055511,180.801193,21E,202352.4507,62.030388,11.5,0.428571429,255
+617,Private,JHU,23,39.32926,-76.623713,3,spur,5,,1177,Precambrian,granitic gneiss,amphibolite,27.202942,206.489029,21E,202352.4507,64.183197,29.034996,0.105263158,184
+618,Institution,JHU,24,39.328579,-76.623482,17,valley,9,1205,,Quaternary,gravel,sand,78.816238,236.166779,13UC,81139.80888,50.103813,26.543335,0.65,182
+619,Institution,JHU,25,39.328733,-76.624484,3,hollow,7,1180,,Precambrian,granitic gneiss,amphibolite,36.715118,213.40686,13UC,81139.80888,46.316341,18.43,0,114
+620,Institution,JHU,26,39.328836,-76.624042,17,hollow,7,1180,,Precambrian,granitic gneiss,amphibolite,49.030602,196.36792,13UC,81139.80888,50.511459,29.570004,0.142857143,165
+621,Institution,JHU,27,39.329082,-76.624596,17,slope,6,1180,,Precambrian,granitic gneiss,amphibolite,58.137768,243.301865,21E,202352.4507,47.562294,25.489998,0,190
+622,Institution,JHU,28,39.329165,-76.62417,17,spur,5,1180,,Precambrian,granitic gneiss,amphibolite,62,222.295227,21E,202352.4507,57.254818,28.450001,0.375,0
+623,Institution,JHU,29,39.329412,-76.624714,67,slope,6,1180,,Precambrian,granitic gneiss,amphibolite,16.124516,229.827316,21E,202352.4507,47.964657,19.669235,0.111111111,0
+624,Institution,JHU,3,39.32688,-76.624764,3,depression,10,1219,,Late Precambrian (?),mica schist,gneiss,21.260292,269.659271,21E,202352.4507,42.416073,11.657501,0.28,0
+625,Institution,JHU,30,39.329501,-76.62428,67,slope,6,1180,,Precambrian,granitic gneiss,amphibolite,45.694637,252.74855,21E,202352.4507,58.326599,30.554996,0.260869565,0
+626,Institution,JHU,32,39.329841,-76.624403,17,slope,6,1180,,Precambrian,granitic gneiss,amphibolite,86.023254,217.928452,21E,202352.4507,53.325272,11.295002,0.074074074,0
+627,Institution,JHU,33,39.329934,-76.623976,67,spur,5,1180,,Precambrian,granitic gneiss,amphibolite,22,242.538467,21E,202352.4507,60.212864,19.519112,0.076923077,0
+628,Private,JHU,35,39.330026,-76.623532,35,spur,5,,1177,Precambrian,granitic gneiss,amphibolite,28.284271,258.965912,21E,202352.4507,66.487411,16.392235,0.192307692,0
+629,Private,JHU,36,39.330444,-76.623212,33,spur,5,,,Quaternary,gravel,sand,21.260292,327.859009,21E,202352.4507,65.633537,21.947502,0.095238095,0
+630,Private,JHU,38,39.330539,-76.622768,35,spur,5,,1171,Quaternary,gravel,sand,20,357.476013,21E,202352.4507,64.902916,10.049171,0.684210526,0
+631,Institution,JHU,39,39.32967,-76.625265,35,depression,10,1128,,Precambrian,granitic gneiss,amphibolite,24.083189,197.825638,39B,15190.21823,40.994663,6.188927,0.666666667,0
+632,Institution,JHU,4,39.326959,-76.62433,0,hollow,7,,,Late Precambrian (?),mica schist,gneiss,0,239.200867,13UC,81139.80888,46.659824,15.91671,1.181818182,0
+633,Institution,JHU,40,39.329997,-76.625381,35,depression,10,1128,,Precambrian,granitic gneiss,amphibolite,13.416408,251.369324,39B,15190.21823,41.694553,12.246407,0.2,0
+634,Institution,JHU,41,39.331014,-76.625742,35,depression,10,1128,,Precambrian,granitic gneiss,amphibolite,28.635643,274.653656,21E,202352.4507,44.928516,11.770367,0.9,0
+635,Private,JHU,42,39.331368,-76.623992,3,ridge,3,,1160,Precambrian,granitic gneiss,amphibolite,40.249222,280.466858,21E,202352.4507,66.660446,21.544235,0,0
+636,Private,JHU,43,39.331123,-76.623447,35,spur,5,,1161,Precambrian,granitic gneiss,amphibolite,14,159.705383,21E,202352.4507,60.381657,4.137505,0.32,0
+637,Private,JHU,44,39.331212,-76.623009,35,hollow,7,,1161,Precambrian,granitic gneiss,amphibolite,42.801868,152.560791,21E,202352.4507,61.799076,33.764999,0.318181818,0
+638,Institution,JHU,45,39.331527,-76.624985,35,valley,9,1128,,Precambrian,granitic gneiss,amphibolite,2,288.482849,21E,202352.4507,46.685966,16.240002,0.105263158,0
+639,Institution,JHU,46,39.331619,-76.624547,17,slope,6,1128,,Precambrian,granitic gneiss,amphibolite,53.851646,301.072052,6B,29852.03556,52.078506,17.440002,0.454545455,0
+640,City,JHU,47,39.332036,-76.624227,3,slope,6,1128,,Precambrian,granitic gneiss,amphibolite,46.518814,293.555145,21E,202352.4507,48.016552,21.870003,0.375,0
+641,Institution,JHU,48,39.332127,-76.623794,3,slope,6,1128,,Quaternary,gravel,sand,20.880613,292.190247,21E,202352.4507,61.943481,9.208054,0.736842105,0
+642,Institution,JHU,5,39.32722,-76.624884,17,depression,10,1219,,Late Precambrian (?),mica schist,gneiss,54.625999,124.831528,21E,202352.4507,41.327045,30.209126,0.5,0
+643,Institution,JHU,50,39.332472,-76.623914,35,hollow,7,1128,,Precambrian,granitic gneiss,amphibolite,18,284.351746,21E,202352.4507,48.407993,2.137501,0.416666667,0
+644,Institution,JHU,51,39.333326,-76.623274,17,hollow,7,1093,,Quaternary,gravel,sand,81.633324,256.719788,13UB,252486.3185,52.853901,16.995998,0,0
+645,Institution,JHU,52,39.333417,-76.622838,17,hollow,7,1093,,Quaternary,gravel,sand,74.96666,263.855408,13UB,252486.3185,61.168682,24.989998,0.222222222,0
+646,Institution,JHU,53,39.333756,-76.622955,17,hollow,7,1093,,Quaternary,gravel,sand,93.05912,273.265747,13UB,252486.3185,56.393669,31.787998,0.260869565,0
+647,Institution,JHU,54,39.334095,-76.623065,17,hollow,7,1093,,Precambrian,granitic gneiss,amphibolite,50.119858,232.556992,13UB,252486.3185,54.675255,25.186665,0.65,0
+648,Institution,JHU,55,39.334184,-76.62263,33,hollow,7,,,Quaternary,gravel,sand,8,268.429626,13UB,252486.3185,64.617699,5.654999,0.916666667,0
+649,Institution,JHU,56,39.334524,-76.622752,17,hollow,7,1093,,Precambrian,granitic gneiss,amphibolite,62.609905,185.182816,13UB,252486.3185,66.806259,25.956665,0.434782609,0
+650,Institution,JHU,57,39.334433,-76.623191,3,hollow,7,1093,,Precambrian,granitic gneiss,amphibolite,24.083189,199.75621,13UB,252486.3185,60.088169,29.064999,0.176470588,0
+651,City,JHU,58,39.334347,-76.623616,17,valley,9,1093,,Precambrian,granitic gneiss,amphibolite,79.246452,191.258011,21E,202352.4507,53.473156,18.698418,0,0
+652,Institution,JHU,59,39.334674,-76.623744,17,hollow,7,1093,,Precambrian,granitic gneiss,amphibolite,71.554176,207.438782,21E,202352.4507,56.898716,30.533333,0.035714286,0
+653,Institution,JHU,6,39.327305,-76.624446,3,hollow,7,1219,,Late Precambrian (?),mica schist,gneiss,46.690472,270.083984,21E,202352.4507,45.030159,28.264999,0.516129032,0
+654,Institution,JHU,60,39.33501,-76.623854,35,hollow,7,1093,,Precambrian,granitic gneiss,amphibolite,27.856777,244.107086,21E,202352.4507,60.087879,18.527496,0.074074074,0
+655,City,JHU,61,39.335352,-76.623969,35,hollow,7,1072,,Precambrian,granitic gneiss,amphibolite,24.331051,252.156662,21E,202352.4507,59.124634,8.832737,0,0
+656,Institution,JHU,62,39.335787,-76.623657,17,slope,6,1072,,Precambrian,granitic gneiss,amphibolite,53.66563,271.207367,21E,202352.4507,66.449272,25.589996,0.575757576,0
+657,Institution,JHU,63,39.336106,-76.623778,3,valley,9,1072,,Precambrian,granitic gneiss,amphibolite,40.496914,269.269684,21E,202352.4507,62.627983,18.403751,0.416666667,0
+658,Institution,JHU,64,39.330324,-76.62554,17,depression,10,1128,,Precambrian,granitic gneiss,amphibolite,50.477718,195.123108,39B,15190.21823,41.432812,11.654667,0.368421053,0
+659,City,JHU,7,39.327562,-76.624998,35,depression,10,1219,,Late Precambrian (?),mica schist,gneiss,27.856777,73.9142,21E,202352.4507,41.201118,6.110001,1.083333333,0
+660,Institution,JHU,8,39.327643,-76.624563,17,depression,10,1219,,Late Precambrian (?),mica schist,gneiss,55.172459,288.260406,21E,202352.4507,42.239456,17.373318,0.823529412,0
+661,Institution,JHU,9,39.327979,-76.624683,17,depression,10,1219,,Late Precambrian (?),mica schist,gneiss,57.68882,284.647186,21E,202352.4507,40.048943,23.789997,0.736842105,0
+662,Private,LOYOLA,10,39.337154,-76.654632,1,valley,9,,,Paleozoic,granitic gneiss,quartz diorite,2,79.772545,17E,34750.14034,89.927307,4.970001,0.958333333,107
+663,Private,LOYOLA,12,39.337467,-76.655065,3,slope,6,972,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,26.076809,76.217216,17E,34750.14034,97.000992,37.734993,0.875,130
+664,Private,LOYOLA,14,39.33749,-76.654232,17,slope,6,972,,Paleozoic,granitic gneiss,quartz diorite,81.043198,272.906342,17C,73653.91837,92.274078,32.830002,0.448275862,108
+665,Private,LOYOLA,16,39.337815,-76.654249,17,valley,9,972,,Paleozoic,granitic gneiss,quartz diorite,138.592926,284.13147,17E,34750.14034,87.996979,32.347969,0.28,101
+666,Private,LOYOLA,18,39.338114,-76.655098,3,slope,6,972,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,6.324555,51.028923,21E,44723.00262,95.061142,23.827888,0.652173913,117
+667,Private,LOYOLA,2,39.336471,-76.655863,100,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,61.626614,17E,34750.14034,98.896317,10.94503,1.814814815,119
+668,Private,LOYOLA,20,39.338129,-76.654249,17,valley,9,972,,Paleozoic,granitic gneiss,quartz diorite,186.986633,348.434052,21E,44723.00262,85.926369,38.101425,1.034482759,200
+669,Private,LOYOLA,22,39.33846,-76.654278,17,valley,9,972,,Paleozoic,granitic gneiss,quartz diorite,127.20063,81.57045,21E,44723.00262,86.037003,31.699554,0.285714286,98
+670,Private,LOYOLA,24,39.338498,-76.653429,17,hollow,7,972,,Paleozoic,granitic gneiss,quartz diorite,98.488579,313.746735,17C,73653.91837,88.306503,17.343338,0,265
+671,Private,LOYOLA,26,39.334898,-76.653686,17,valley,9,1076,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,84.852814,15.069388,17C,73653.91837,91.689781,28.555,0.416666667,170
+672,Private,LOYOLA,30,39.335227,-76.65371,17,valley,9,1076,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,70.710678,117.269402,17C,73653.91837,92.472542,15.93,2.222222222,168
+673,Private,LOYOLA,34,39.335565,-76.653292,3,hollow,7,1076,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,12.806249,156.69574,17C,73653.91837,94.254807,6.829994,1.45,283
+674,Private,LOYOLA,36,39.335576,-76.652868,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,139.762909,17C,73653.91837,91.052116,19.948654,1.6,305
+675,Private,LOYOLA,4,39.33681,-76.655448,17,slope,6,972,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,66.483078,121.760704,17E,34750.14034,99.274048,30.899994,1.058823529,400
+676,Private,LOYOLA,40,39.336613,-76.650421,1,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,16.124516,122.431038,39C,151476.8987,80.8321,15.995712,1.666666667,185
+677,Private,LOYOLA,42,39.336943,-76.650416,0,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,127.828232,39C,151476.8987,92.283234,7.002831,1.5,0
+678,Private,LOYOLA,52,39.339778,-76.653493,3,hollow,7,972,,Paleozoic,granitic gneiss,quartz diorite,16.492422,98.095474,21E,44723.00262,77.499695,34.110001,0.5,0
+679,Private,LOYOLA,54,39.339809,-76.652659,35,valley,9,972,,Paleozoic,granitic gneiss,quartz diorite,10.770329,299.121674,39C,44373.35737,70.147728,3.451576,1.259259259,0
+680,Private,LOYOLA,56,39.33982,-76.652238,3,slope,6,972,,Paleozoic,granitic gneiss,quartz diorite,8.485281,288.602997,39C,44373.35737,75.772469,12.093422,1.235294118,0
+681,Private,LOYOLA,58,39.340163,-76.651414,3,ridge,3,954,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,39.395432,308.25473,26C,17845.55824,91.756088,13.870003,1,0
+682,Private,LOYOLA,6,39.336515,-76.6546,67,hollow,7,972,,Paleozoic,granitic gneiss,quartz diorite,16.124516,312.830719,17C,73653.91837,98.68956,8.034996,1.777777778,0
+683,Private,LOYOLA,60,39.340809,-76.651438,17,spur,5,954,,Paleozoic,granitic gneiss,quartz diorite,127.577431,313.774994,39C,44373.35737,74.353996,11.177162,0.882352941,0
+684,Private,LOYOLA,62,39.341134,-76.651457,3,slope,6,954,,Paleozoic,granitic gneiss,quartz diorite,21.540659,320.555878,39C,44373.35737,63.416084,4.413727,1.7,0
+685,Private,LOYOLA,64,39.341134,-76.652293,3,valley,9,954,,Paleozoic,granitic gneiss,quartz diorite,22.36068,39.320618,39C,44373.35737,62.812138,4.630478,1.285714286,0
+686,Private,LOYOLA,8,39.336818,-76.654602,67,valley,9,972,,Paleozoic,granitic gneiss,quartz diorite,18.439089,315.250641,17E,34750.14034,92.764694,32.419998,1.25,0
+687,Private,MDSB,10,39.365687,-76.535865,3,valley,9,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,38.832977,229.626724,18UB,110188.2605,85.101929,23.970001,1.260869565,134
+688,Private,MDSB,11,39.365909,-76.536254,105,valley,9,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,27.202942,142.884079,18UB,110188.2605,86.061935,28.052971,0.25,95
+689,Private,MDSB,12,39.366209,-76.53597,17,hollow,7,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,54,158.758392,2UB,51338.77646,87.314095,15.843033,0.238095238,67
+690,Private,MDSB,13,39.366425,-76.536368,17,slope,6,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,58.309521,155.508408,2UB,51338.77646,89.068283,28.116669,0,93
+691,Private,MDSB,14,39.366646,-76.536755,17,slope,6,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,188.859741,158.689362,2UB,51338.77646,90.336716,23.017502,0,50
+692,Private,MDSB,15,39.36687,-76.537148,17,hollow,7,175,,Cretaceous,gravel,sand,162.049377,195.269287,35B,15039.18954,91.190025,27.395004,0.125,100
+693,Private,MDSB,16,39.366955,-76.536477,17,slope,6,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,88,127.338493,2UB,51338.77646,91.151817,6.761078,1.333333333,90
+694,Private,MDSB,17,39.366731,-76.536083,3,slope,6,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,4,123.339592,2UB,51338.77646,89.953293,16.432411,0.176470588,65
+695,Private,MDSB,18,39.367256,-76.536187,67,slope,6,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,27.202942,115.918213,35B,15039.18954,91.558311,20.044365,0.461538462,112
+696,Private,MDSB,19,39.367033,-76.535795,17,hollow,7,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,52,126.126427,2UB,51338.77646,90.08651,16.531845,0.846153846,116
+697,Private,MDSB,2,39.366261,-76.537717,17,hollow,7,175,,Cretaceous,gravel,sand,74.96666,36.419849,2UB,51338.77646,90.904274,25.115005,0.772727273,88
+698,Private,MDSB,20,39.366815,-76.535404,65,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,22,152.291656,18UB,110188.2605,89.300301,18.553993,0.916666667,93
+699,Private,MDSB,21,39.366591,-76.535018,17,slope,6,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,52.153618,183.1073,18UB,110188.2605,88.683365,10.601997,0.033333333,129
+700,Private,MDSB,22,39.366509,-76.535689,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,150.528503,2UB,51338.77646,88.720329,20.605003,0.366666667,143
+701,Private,MDSB,23,39.366292,-76.535299,17,slope,6,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,63.812225,175.403732,18UB,110188.2605,87.523895,19.242126,0.086956522,10
+702,Private,MDSB,24,39.366372,-76.53463,33,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,24.083189,197.131836,18UB,110188.2605,88.306992,3.940002,1.047619048,127
+703,Private,MDSB,25,39.366061,-76.534913,35,slope,6,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,24.413111,186.01059,18UB,110188.2605,86.868286,25.522499,0.25,155
+704,Private,MDSB,26,39.365851,-76.534513,17,slope,6,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,80.448738,198.267319,18UB,110188.2605,86.523216,4.787148,0,134
+705,Private,MDSB,27,39.365629,-76.534125,3,slope,6,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,25.612497,207.677979,12B,41516.86129,86.785133,25.754997,0.34375,106
+706,Private,MDSB,28,39.365991,-76.535584,67,hollow,7,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,32.249031,182.665451,18UB,110188.2605,86.256119,22.136665,0.04,83
+707,Private,MDSB,29,39.365772,-76.535193,17,valley,9,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,57.201397,159.250183,18UB,110188.2605,85.303596,27.873917,0.04,63
+708,Private,MDSB,3,39.366566,-76.537432,17,hollow,7,175,,Cretaceous,gravel,sand,143.024475,126.162857,2UB,51338.77646,90.074364,36.837502,0.4375,56
+709,Private,MDSB,30,39.365548,-76.534805,35,valley,9,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,40,207.167709,18UB,110188.2605,85.238174,25.622505,0,95
+710,Private,MDSB,31,39.365469,-76.535482,3,valley,9,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,17.088007,148.528397,18UB,110188.2605,85.037918,14.420319,0.72,114
+711,Private,MDSB,32,39.365249,-76.535093,17,valley,9,217,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,52.153618,187.057358,18UB,110188.2605,84.43335,27.929993,0.36,0
+712,Private,MDSB,33,39.361315,-76.532219,3,hollow,7,419,,Cretaceous,gravel,sand,26.832815,119.185242,15B,15143.32255,78.06076,21.18,1.32,0
+713,Private,MDSB,34,39.36102,-76.532497,67,slope,6,419,,Cretaceous,gravel,sand,31.622776,78.577751,2UC,30792.36874,78.119682,22.260002,0.827586207,0
+714,Private,MDSB,35,39.360803,-76.532102,3,hollow,7,419,,Cretaceous,gravel,sand,40,71.812759,2UC,30792.36874,76.587738,14.305229,1.225806452,0
+715,Private,MDSB,36,39.361102,-76.531824,17,valley,9,419,,Cretaceous,gravel,sand,67.911705,100.585648,15B,15143.32255,75.03997,12.46167,0.227272727,0
+716,Private,MDSB,37,39.360576,-76.531706,35,hollow,7,419,,Cretaceous,gravel,sand,10,49.523319,2UC,30792.36874,75.292343,11.838203,1.083333333,0
+717,Private,MDSB,38,39.360887,-76.531417,35,valley,9,419,,Cretaceous,gravel,sand,27.202942,47.212593,2UC,30792.36874,73.029068,28.841942,0.533333333,0
+718,Private,MDSB,39,39.36119,-76.531138,35,hollow,7,419,,Cretaceous,gravel,sand,17.088007,190.203461,2UC,30792.36874,73.375977,17.473335,0.875,0
+719,Private,MDSB,4,39.366041,-76.537326,17,hollow,7,175,,Cretaceous,gravel,sand,105.546196,63.34108,2UB,51338.77646,89.777809,34.690002,1.045454545,0
+720,Private,MDSB,40,39.36097,-76.530759,17,valley,9,419,,Cretaceous,gravel,sand,70.936592,177.658401,2UC,30792.36874,72.356018,22.594269,0.210526316,0
+721,Private,MDSB,41,39.360665,-76.531036,35,valley,9,419,,Cretaceous,gravel,sand,46,53.376186,2UC,30792.36874,72.299484,31.449997,0.653846154,0
+722,Private,MDSB,42,39.360442,-76.530641,3,valley,9,419,,Cretaceous,gravel,sand,40.496914,82.188423,2UC,30792.36874,70.19944,22.619774,0.636363636,0
+723,Private,MDSB,43,39.360745,-76.530361,105,hollow,7,419,,Cretaceous,gravel,sand,24.738634,202.747559,2UC,30792.36874,72.416466,13.212547,0.722222222,0
+724,Private,MDSB,44,39.361488,-76.530861,105,hollow,7,419,,Cretaceous,gravel,sand,42.520584,176.668106,2UC,30792.36874,75.598625,10.276665,0.75,0
+725,Private,MDSB,45,39.361268,-76.530469,17,hollow,7,419,,Cretaceous,gravel,sand,54.625999,188.906326,2UC,30792.36874,74.773071,18.450005,0.125,0
+726,Private,MDSB,46,39.361044,-76.530078,17,slope,6,419,,Cretaceous,gravel,sand,57.201397,205.615295,2UC,30792.36874,74.669228,18.936775,0,0
+727,Private,MDSB,47,39.36157,-76.530188,17,hollow,7,419,,Cretaceous,gravel,sand,67.082039,207.478409,2UC,30792.36874,77.275734,19.620003,0.257142857,0
+728,Private,MDSB,48,39.361352,-76.529787,17,slope,6,419,,Cretaceous,gravel,sand,51.107731,210.967575, ,0,77.175926,18.279999,0.235294118,0
+729,Private,MDSB,49,39.361649,-76.529518,0,slope,6,,,Cretaceous,gravel,sand,0,200.718201, ,0,80.480507,10.230675,0,0
+730,Private,MDSB,5,39.366347,-76.537042,17,hollow,7,175,,Cretaceous,gravel,sand,237.19191,125.853035,18UB,110188.2605,89.215118,30.038002,0.357142857,0
+731,Private,MDSB,6,39.365824,-76.536933,17,hollow,7,175,,Cretaceous,gravel,sand,96.166519,79.154465,2UB,51338.77646,88.401833,11.531639,0.78125,0
+732,Private,MDSB,7,39.366127,-76.536653,17,hollow,7,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,147.851273,144.426178,18UB,110188.2605,87.671394,18.647995,0.129032258,0
+733,Private,MDSB,8,39.365606,-76.53654,3,valley,9,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,37.94733,66.648109,18UB,110188.2605,85.762482,27.334442,0.428571429,0
+734,Private,MDSB,9,39.365387,-76.536164,3,valley,9,175,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,39.59798,47.84446,18UB,110188.2605,84.777878,26.230003,1.227272727,0
+735,Institution,ND,1,39.349994,-76.622731,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,249.183914,35B,37383.56535,97.161545,21.629997,0,108
+736,Institution,ND,12,39.351386,-76.622549,33,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,20.099751,239.427643,35B,37383.56535,107.519447,19.75,0.25,340
+737,Institution,ND,13,39.351662,-76.623043,1,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,18.439089,248.185608,35B,37383.56535,103.507286,1.18203,0.75,190
+738,Institution,ND,14,39.351723,-76.622616,17,slope,6,,725,Late Precambrian (?) - Early Paleozoic,gabbro,norite,53.851646,255.041382,35B,37383.56535,107.233414,20.564026,0.333333333,235
+739,Institution,ND,18,39.349382,-76.622179,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,266.404938,17B,27127.24636,96.366432,20.677818,0.8125,150
+740,Institution,ND,19,39.349711,-76.622246,33,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,17.088007,190.469269,17B,27127.24636,96.055458,22.371368,0.111111111,275
+741,Institution,ND,22,39.349475,-76.621318,33,ridge,3,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2.828427,279.398682,17B,27127.24636,103.998604,13.047501,0.714285714,350
+742,Institution,ND,23,39.349523,-76.620886,17,ridge,3,,762,Late Precambrian (?) - Early Paleozoic,gabbro,norite,48.041649,196.617554,17B,27127.24636,107.192314,2.627502,0,335
+743,Institution,ND,24,39.349809,-76.62138,35,spur,5,,762,Late Precambrian (?) - Early Paleozoic,gabbro,norite,28.635643,268.020416,17B,27127.24636,102.45414,24.61071,0.333333333,185
+744,Institution,ND,25,39.350088,-76.621873,33,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,6,164.746323,13B,40642.69217,99.083961,5.462738,0.4,114
+745,Institution,ND,28,39.350521,-76.621074,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,251.30246,13B,40642.69217,105.563072,13.730286,0.7,285
+746,Institution,ND,30,39.352854,-76.618424,35,slope,6,,693,Late Precambrian (?),mica schist,gneiss,15.231546,196.347473,13UB,54459.42607,104.030762,23.485008,0.357142857,360
+747,Institution,ND,32,39.353187,-76.618496,35,spur,5,,679,Late Precambrian (?),mica schist,gneiss,26,165.549057,13UB,54459.42607,107.694664,17.869995,0.0625,370
+748,Institution,ND,34,39.353092,-76.619353,35,slope,6,,683,Cretaceous,gravel,sand,2.828427,192.762009,13C,11038.20531,103.690575,12.552002,0,320
+749,Institution,ND,37,39.35342,-76.619417,0,spur,5,,,Cretaceous,gravel,sand,0,191.60994,13C,11038.20531,110.65345,20.09671,0.2,275
+750,Institution,ND,38,39.353377,-76.619853,9,hollow,7,,,Cretaceous,gravel,sand,12.649111,183.595123,13UB,54459.42607,108.748032,19.939995,0.25,300
+751,Institution,ND,4,39.350384,-76.622365,33,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2.828427,194.168411,35B,37383.56535,103.95137,16.880653,0,115
+752,Institution,ND,5,39.350658,-76.622853,33,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,12.649111,237.089951,35B,37383.56535,102.908989,4.190002,0,199
+753,Institution,ND,7,39.350769,-76.621989,33,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,35.608986,186.508102,13B,40642.69217,106.249565,22.099991,0.454545455,280
+754,Institution,ND,9,39.351047,-76.622482,1,spur,5,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2.828427,228.059784,35B,37383.56535,106.406784,12.416687,0,0
+755,City,NMN,1,39.364983,-76.600241,9,ridge,3,,,Precambrian,granitic gneiss,amphibolite,26.832815,72.636124,13UC,171675.886,114.797714,15.7575,2,130
+756,City,NMN,2,39.364699,-76.60001,9,ridge,3,,,Precambrian,granitic gneiss,amphibolite,18.973665,66.008194,13UC,171675.886,111.834381,8.055,2.066666667,200
+757,City,NMN,3,39.364431,-76.599776,9,ridge,3,,,Precambrian,granitic gneiss,amphibolite,8.485281,60.79113,13UC,171675.886,110.89518,11.410004,0.714285714,190
+758,Institution,RPCS,1,39.358563,-76.63919,3,spur,5,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,19.697716,192.558044,5E,182390.2109,106.718079,28.610001,0.733333333,152
+759,Institution,RPCS,10,39.358068,-76.637983,9,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2,260.387634,5E,182390.2109,102.86834,5.195747,0.884615385,140
+760,Institution,RPCS,11,39.35769,-76.639071,17,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,78.102493,307.259613,5E,182390.2109,85.391159,30.494995,0.379310345,130
+761,Institution,RPCS,12,39.357715,-76.638694,17,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,108.295891,249.182312,5E,182390.2109,87.761185,33.816673,0.045454545,147
+762,Institution,RPCS,13,39.357748,-76.638316,17,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,86.023254,236.692612,5E,182390.2109,91.998062,30.184998,0.090909091,94
+763,Institution,RPCS,14,39.357786,-76.637943,35,hollow,7,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,25.455845,219.967194,5E,182390.2109,100.914185,15.559998,0.5,104
+764,Institution,RPCS,15,39.357428,-76.638653,3,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,13.416408,358.86142,5E,182390.2109,87.563263,15.080002,0.666666667,165
+765,Institution,RPCS,16,39.357459,-76.638277,17,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,67.675697,226.814667,5E,182390.2109,89.866219,13.898827,0.272727273,0
+766,Institution,RPCS,17,39.35749,-76.637905,35,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,46.818798,214.468048,5E,182390.2109,96.081245,10.55986,0.055555556,0
+767,Institution,RPCS,18,39.357519,-76.637528,35,slope,6,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,34,211.515625,5E,182390.2109,103.301872,9.659355,0.3125,0
+768,Institution,RPCS,19,39.357198,-76.637861,35,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,12.649111,244.917343,5E,182390.2109,92.872391,21.92569,0.958333333,0
+769,Institution,RPCS,2,39.358266,-76.639153,3,slope,6,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,45.122055,178.998825,5E,182390.2109,98.702911,30.859993,0.727272727,0
+770,Institution,RPCS,20,39.35723,-76.637489,17,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,53.66563,212.105331,5E,182390.2109,96.941566,27.244995,0.269230769,0
+771,Institution,RPCS,21,39.357263,-76.637111,33,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,17.888544,200.435364,5E,182390.2109,103.865906,7.700005,0.444444444,0
+772,Institution,RPCS,22,39.356984,-76.63707,33,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,10.198039,240.102158,5E,182390.2109,98.14283,8.005203,0.272727273,0
+773,Institution,RPCS,23,39.357003,-76.636693,33,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,16.124516,195.251205,5E,182390.2109,101.241058,20.084999,1,0
+774,Institution,RPCS,3,39.358295,-76.638774,67,hollow,7,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,31.240999,154.305283,5E,182390.2109,99.227905,24.864998,0.80952381,0
+775,Institution,RPCS,4,39.35833,-76.638398,3,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,20.591261,172.852158,5E,182390.2109,96.984703,29.648468,0.291666667,0
+776,Institution,RPCS,5,39.358653,-76.638068,0,valley,9,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,145.316208,5E,182390.2109,104.978279,17.529999,0.285714286,0
+777,Institution,RPCS,6,39.358361,-76.638029,17,hollow,7,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,52.153618,277.458374,5E,182390.2109,99.566986,6.755005,0.32,0
+778,Institution,RPCS,7,39.357975,-76.639114,17,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,48.373547,181.391312,5E,182390.2109,88.60965,43.224991,0.56,0
+779,Institution,RPCS,8,39.35801,-76.638737,3,valley,9,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,34,185.876801,5E,182390.2109,90.075218,36.406662,0,0
+780,Institution,RPCS,9,39.358043,-76.638361,17,hollow,7,423,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,98.183502,242.037292,5E,182390.2109,93.65258,17.589996,0,0
+781,City,SETON,1,39.339914,-76.710711,17,valley,9,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,132,89.334259,10,287392.0772,108.066895,22.666672,0.25,282
+782,City,SETON,10,39.338839,-76.709621,17,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,130.23056,240.299057,18UB,105645.9816,108.677643,26.049995,0,225
+783,City,SETON,11,39.338863,-76.709137,3,shoulder,4,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,21.260292,225.580322,18UB,105645.9816,109.804054,15.82,0.441176471,276
+784,City,SETON,12,39.338462,-76.709581,17,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,209.990479,223.815704,18C,8052.098793,107.699196,22.722214,0.4,297
+785,City,SETON,13,39.338493,-76.709098,17,spur,5,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,97.590981,202.784409,18UB,105645.9816,109.127518,27.719994,0,305
+786,City,SETON,14,39.338086,-76.709564,17,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,218.220078,213.169312,18C,8052.098793,106.77507,20.057503,0.136363636,289
+787,City,SETON,15,39.338119,-76.709059,17,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,86.348129,190.485626,10,287392.0772,107.682671,27.825005,0.083333333,279
+788,City,SETON,16,39.340673,-76.710782,17,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,64.404968,181.295624,18C,42273.75805,110.126869,28.473335,0.212121212,170
+789,City,SETON,17,39.341057,-76.710802,17,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,68.410522,201.214539,18C,42273.75805,113.329521,24.629997,0.090909091,213
+790,City,SETON,18,39.341434,-76.710845,17,spur,5,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,60.299255,238.382767,18C,42273.75805,115.037888,3.793335,0.346153846,260
+791,City,SETON,19,39.341809,-76.710891,17,spur,5,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,80.024994,257.004913,18C,42273.75805,114.735634,20.26001,0,0
+792,City,SETON,2,39.33954,-76.710676,17,footslope,8,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,171.172424,73.408623,10,287392.0772,108.015488,2.962006,0.185185185,0
+793,City,SETON,20,39.342194,-76.710909,17,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,108,266.076294,18C,42273.75805,114.267502,27.485008,0.5,0
+794,City,SETON,21,39.342229,-76.710435,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,274.55481,18C,42273.75805,118.734573,12.570221,0.388888889,0
+795,Institution,SETON,22,39.342594,-76.710466,3,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,2.828427,271.184906,18C,42273.75805,117.444092,9.961685,2.833333333,0
+796,City,SETON,23,39.342979,-76.710491,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,260.313324,18C,42273.75805,116.675308,9.074997,2.428571429,0
+797,City,SETON,24,39.344088,-76.711087,17,valley,9,,894,Late Precambrian (?) - Early Paleozoic,gabbro,norite,71.021126,226.235062,12B,16444.46638,115.1847,23.330002,0.708333333,0
+798,Private,SETON,25,39.344885,-76.703283,35,hollow,7,,904,Late Precambrian (?) - Early Paleozoic,gabbro,norite,24.083189,185.240128,10,287392.0772,114.742439,10.151207,0.653846154,0
+799,State,SETON,26,39.345606,-76.703854,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,204.382309,27UB,130280.4313,118.197388,6.750168,0.5,0
+800,State,SETON,27,39.345971,-76.704362,35,valley,9,832,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,22.803509,214.218857,10,287392.0772,118.434258,4.279999,3.75,0
+801,Private,SETON,28,39.345942,-76.704867,35,valley,9,832,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,38.832977,73.078926,10,287392.0772,119.275543,26.25,1.583333333,0
+802,Private,SETON,29,39.346324,-76.70489,3,valley,9,832,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,21.260292,84.756218,10,287392.0772,119.110718,19.927505,1.833333333,0
+803,State,SETON,3,39.339151,-76.710647,17,hollow,7,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,224,95.30407,10,287392.0772,107.950096,11.592224,0.555555556,0
+804,State,SETON,30,39.346701,-76.704921,35,valley,9,832,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,40,102.712929,10,287392.0772,119.910652,15.200005,1.296296296,0
+805,Private,SETON,31,39.347094,-76.704969,17,hollow,7,832,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,68.264191,92.486282,10,287392.0772,121.165756,6.42984,1.857142857,0
+806,Private,SETON,4,39.339136,-76.711115,17,spur,5,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,92,117.473251,12B,10481.43704,109.152832,28.209999,0,0
+807,Private,SETON,5,39.338768,-76.711085,17,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,102,129.092926,10,287392.0772,108.166473,15.207703,0,0
+808,Private,SETON,6,39.338799,-76.710602,17,footslope,8,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,238,110.669312,10,287392.0772,107.121521,22.834282,0.5,0
+809,Private,SETON,7,39.338404,-76.710564,17,footslope,8,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,250,131.988831,10,287392.0772,106.601326,25.875,0.142857143,0
+810,Private,SETON,8,39.339609,-76.709694,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,256.7948,18UB,105645.9816,108.989967,9.848137,0.4,0
+811,City,SETON,9,39.339218,-76.709648,3,slope,6,938,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,47.707443,245.779617,18UB,105645.9816,109.068245,19.552856,0.75,0
+812,City,SGDW,1,39.349041,-76.65858,65,shoulder,4,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,12,1.848188,17B,32359.63462,124.63311,18.526672,0.958333333,212.5
+813,Institution,SGDW,10,39.347762,-76.659002,67,hollow,7,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,10,193.92215,17B,32359.63462,117.138252,13.096802,0.842105263,180
+814,Institution,SGDW,11,39.347676,-76.65859,17,slope,6,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,120,210.554657,17B,32359.63462,118.712677,15.359993,0.947368421,284
+815,Institution,SGDW,12,39.347597,-76.658181,3,slope,6,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,7.211102,239.107422,18UB,144152.8814,120.201569,11.490005,0.80952381,230
+816,City,SGDW,2,39.348961,-76.658175,67,shoulder,4,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,22,151.325287,18UB,144152.8814,124.511131,25.986664,0.482758621,180
+817,City,SGDW,3,39.348802,-76.659105,3,spur,5,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,8.485281,148.205658,17B,32359.63462,124.832031,15.633339,0.076923077,215
+818,City,SGDW,4,39.34873,-76.658689,17,spur,5,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,73.78347,180.350708,17B,32359.63462,124.338554,7.423325,0.76,150
+819,City,SGDW,5,39.348638,-76.658275,67,shoulder,4,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,28.635643,188.75415,17B,32359.63462,123.970444,16.675003,0.535714286,185
+820,Institution,SGDW,6,39.348399,-76.658798,17,slope,6,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,88.362885,203.33168,17B,32359.63462,122.16906,18.440063,0.090909091,195
+821,Institution,SGDW,7,39.348324,-76.658382,17,hollow,7,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,76.655075,201.845016,17B,32359.63462,122.918381,32.640007,0.789473684,190
+822,Institution,SGDW,8,39.348079,-76.658908,67,hollow,7,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,15.6205,194.034012,17B,32359.63462,120.473808,8.030006,0.238095238,215
+823,Institution,SGDW,9,39.348005,-76.658485,17,hollow,7,794,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,92.347168,199.246033,17B,32359.63462,121.368263,12.756676,0.518518519,165
+824,Institution,SINAI,1,39.354114,-76.659661,67,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,30.594116,5.537057,28E,274657.002,126.307419,15.957497,0.153846154,125
+825,Institution,SINAI,10,39.355737,-76.658113,3,slope,6,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,43.863426,349.112457,28E,274657.002,106.78241,13.940002,0.066666667,261
+826,Institution,SINAI,11,39.35528,-76.657774,17,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,93.295227,342.542633,28E,274657.002,115.471367,7.726662,0.818181818,232
+827,Institution,SINAI,12,39.355646,-76.657649,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,129.69194,353.691162,28E,274657.002,110.495239,8.379547,0.333333333,188
+828,Institution,SINAI,13,39.356005,-76.657537,3,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,34,343.397583,28E,274657.002,102.622597,8.793472,1.444444444,152
+829,Institution,SINAI,14,39.355552,-76.657187,17,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,224.508347,354.34906,28E,274657.002,110.999046,30.326675,0,171
+830,Institution,SINAI,15,39.355912,-76.657065,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,123.434196,344.726257,28E,274657.002,105.218185,26.189995,0,230
+831,Institution,SINAI,16,39.356274,-76.65695,3,slope,6,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,21.540659,336.454681,28E,274657.002,98.89489,29.220001,0,195
+832,Institution,SINAI,17,39.356193,-76.656478,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,114.280357,326.154388,28E,274657.002,101.590073,23.489998,0.083333333,183
+833,Institution,SINAI,18,39.35582,-76.656597,17,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,215.564377,337.428375,28E,274657.002,107.344856,0.186668,0,166
+834,Institution,SINAI,19,39.355463,-76.656709,17,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,261.021057,349.173645,28B,19001.12821,111.849983,21.414375,0,177
+835,Institution,SINAI,2,39.354474,-76.659533,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,115.602768,343.367798,28E,274657.002,123.488747,18.688576,0.482758621,0
+836,Institution,SINAI,20,39.355096,-76.656834,17,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,132.136292,109.704353,28B,19001.12821,113.364166,21.525436,0,0
+837,Institution,SINAI,21,39.356453,-76.655885,17,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,112.871605,358.649109,28E,274657.002,98.358871,29.220001,0,0
+838,Institution,SINAI,22,39.356093,-76.656008,17,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,211.092392,8.995689,28E,274657.002,103.888977,22.02858,0,0
+839,Institution,SINAI,23,39.355725,-76.656124,17,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,252.103149,42.271267,28B,19001.12821,108.159393,23.339485,0,0
+840,Institution,SINAI,24,39.355368,-76.656245,17,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,218.549759,106.533745,28B,19001.12821,108.453812,27.07,0.72,0
+841,Institution,SINAI,25,39.355006,-76.656367,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,131.939377,110.182953,28E,274657.002,105.920547,25.436668,0.44,0
+842,Institution,SINAI,26,39.354647,-76.656482,0,slope,6,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,112.983162,28E,274657.002,102.605011,6.356766,0.1875,0
+843,Institution,SINAI,27,39.355634,-76.655665,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,122.539787,89.854439,28E,274657.002,100.820061,19.243134,0.666666667,0
+844,Institution,SINAI,28,39.355269,-76.655776,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,85.883644,98.758545,28E,274657.002,98.491547,31.809998,0.08,0
+845,Institution,SINAI,29,39.354282,-76.656612,0,hollow,7,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,110.346992,38C,24252.14147,99.998856,5.908974,0.777777778,0
+846,Institution,SINAI,3,39.354941,-76.659875,0,slope,6,,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,0,330.656311,28E,274657.002,116.869858,7.510353,1.333333333,0
+847,Institution,SINAI,30,39.353922,-76.656733,35,valley,9,,659,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,4,94.53479,38C,24252.14147,98.444969,15.230003,1.055555556,0
+848,Institution,SINAI,31,39.35328,-76.657429,0,hollow,7,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,82.413574,38C,24252.14147,104.240952,8.369606,1.166666667,0
+849,Institution,SINAI,32,39.352933,-76.657553,33,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,5.656854,88.59964,38C,24252.14147,107.761322,20.57,1,0
+850,Institution,SINAI,33,39.352658,-76.658145,0,slope,6,,,Late Precambrian (?) - Early Paleozoic,gabbro,norite,0,111.970795,38C,24252.14147,114.871147,5.944939,0.277777778,0
+851,Institution,SINAI,34,39.352026,-76.658838,3,slope,6,,717,Late Precambrian (?) - Early Paleozoic,gabbro,norite,19.79899,121.542686,38C,24252.14147,116.242355,15.885002,1.416666667,0
+852,Institution,SINAI,4,39.354834,-76.65941,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,119.331474,333.076202,28E,274657.002,120.118423,15.586624,0,0
+853,Institution,SINAI,5,39.35474,-76.658945,67,ridge,3,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,43.863426,323.414368,28E,274657.002,122.714508,19.240311,0,0
+854,Institution,SINAI,6,39.355201,-76.659292,3,slope,6,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,17.204651,329.852539,28E,274657.002,115.264168,25.195,0.12,0
+855,Institution,SINAI,7,39.355105,-76.65883,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,89.308456,338.991241,28E,274657.002,118.894768,21.895004,0,0
+856,Institution,SINAI,8,39.355468,-76.658707,17,slope,6,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,52.839378,332.866272,28E,274657.002,111.460846,20.479996,0.571428571,0
+857,Institution,SINAI,9,39.355375,-76.658238,17,spur,5,592,,Early Paleozoic - Late Precambrian (?),serpentinite,dunite,84.403793,349.999939,28E,274657.002,114.266144,28.175003,0,0
+858,Private,SW,10,39.341963,-76.601245,17,slope,6,949,,Late Precambrian (?),metasedimentary rock,schist,70.88018,210.076538,29UB,90876.51179,73.206291,23.366669,0.321428571,220
+859,Private,SW,11,39.342641,-76.602277,3,slope,6,949,,Late Precambrian (?),metasedimentary rock,schist,34.928497,233.563049,29UC,75505.0648,70.061005,7.453171,0.333333333,300
+860,Private,SW,12,39.342363,-76.602053,17,slope,6,949,,Late Precambrian (?),metasedimentary rock,schist,58.309521,228.861801,29UC,75505.0648,70.392326,14.809998,1.666666667,150
+861,Private,SW,13,39.342074,-76.601823,0,slope,6,,,Late Precambrian (?),metasedimentary rock,schist,0,220.516327,29UC,75505.0648,70.332092,7.75,2.111111111,55
+862,Private,SW,14,39.341791,-76.601608,0,slope,6,,,Late Precambrian (?),metasedimentary rock,schist,0,216.537384,29UB,90876.51179,68.786591,8.313431,1.315789474,60
+863,Private,SW,4,39.3427,-76.60133,67,slope,6,949,,Late Precambrian (?),metasedimentary rock,schist,36.055511,232.656342,29UC,75505.0648,75.61235,21.792854,0.5,10
+864,Private,SW,5,39.342416,-76.601102,17,slope,6,949,,Late Precambrian (?),metasedimentary rock,schist,66.483078,217.300125,29UB,90876.51179,75.309479,19.827522,1.823529412,120
+865,Private,SW,6,39.342127,-76.600883,17,slope,6,949,,Late Precambrian (?),metasedimentary rock,schist,73.430237,170.008972,29UB,90876.51179,74.534019,19.246666,0.9,110
+866,Private,SW,8,39.342522,-76.601686,35,slope,6,949,,Late Precambrian (?),metasedimentary rock,schist,27.784887,233.646011,29UC,75505.0648,73.470108,3.472504,0.769230769,40
+867,Private,SW,9,39.342241,-76.601473,0,slope,6,,,Late Precambrian (?),metasedimentary rock,schist,0,218.732956,29UB,90876.51179,73.526711,5.856003,0,0
+868,Private,W,1,39.344998,-76.60026,65,slope,6,,,Late Precambrian (?),mica schist,gneiss,7.211102,173.075256,25UB,281748.9535,86.549347,7.610001,1.25,0
+869,Private,W,2,39.344734,-76.600725,67,slope,6,,893,Late Precambrian (?),mica schist,gneiss,32.55764,194.938095,25UB,281748.9535,85.082603,20.182495,0.6,0
+870,Private,W,3,39.345047,-76.60065,65,slope,6,,,Late Precambrian (?),mica schist,gneiss,7.211102,173.661591,25UB,281748.9535,86.672836,19.110001,0.6,0
+871,Private,W,4,39.344683,-76.600331,67,slope,6,,893,Late Precambrian (?),mica schist,gneiss,17.204651,179.625885,25UB,281748.9535,85.308891,11.099998,1.047619048,0
+872,Private,WG,2,39.350597,-76.603875,35,shoulder,4,,749,Late Precambrian (?),mica schist,gneiss,26.076809,237.236435,25UB,38916.182,98.646683,10.203758,1.352941176,160
+873,Private,WG,3,39.350314,-76.604351,3,slope,6,,749,Late Precambrian (?),mica schist,gneiss,10.198039,253.823547,25UB,38916.182,97.332108,14.415001,0.5,180
+874,Private,WG,4,39.350268,-76.603945,0,slope,6,,,Late Precambrian (?),mica schist,gneiss,0,245.742172,25UB,38916.182,98.402756,10.240005,3,210
+875,Private,WG,5,39.350212,-76.603517,35,shoulder,4,,760,Late Precambrian (?),mica schist,gneiss,31.240999,245.961716,25UB,38916.182,99.039131,9.120003,0,270
+876,Private,Hockley,1,39.206419,-76.565001,0,slope,6,,,Cretaceous,gravel,sand,0,163.644272,39C,511068.4175,23.217382,3.204,7.5,70
+877,Private,Hockley,2,39.206419,-76.565001,0,slope,6,,,Cretaceous,gravel,sand,0,163.644272,39C,511068.4175,23.217382,3.204,3,120
+878,Private,Hockley,3,39.206419,-76.565001,0,slope,6,,,Cretaceous,gravel,sand,0,163.644272,39C,511068.4175,23.217382,3.204,3.5,140
+879,Private,Hockley,4,39.206419,-76.565001,0,slope,6,,,Cretaceous,gravel,sand,0,163.644272,39C,511068.4175,23.217382,3.204,2.2,130
+880,Private,Hockley,5,39.206419,-76.565001,0,slope,6,,,Cretaceous,gravel,sand,0,163.644272,39C,511068.4175,23.217382,3.204,4.25,70
+881,Private,Hockley,6,39.206463,-76.565217,0,slope,6,,,Cretaceous,gravel,sand,0,161.907196,39C,511068.4175,25.654909,4.122774,4.5,38
+882,Private,Hockley,7,39.206517,-76.563819,0,slope,6,,,Cretaceous,gravel,sand,0,170.018906,39C,511068.4175,29.234192,3.052097,3.857142857,84
+883,Private,Hockley,8,39.206692,-76.563617,0,slope,6,,,Cretaceous,gravel,sand,0,173.343552,39C,511068.4175,33.771915,1.96241,0,90
+884,Private,Hockley,9,39.206692,-76.563617,0,slope,6,,,Cretaceous,gravel,sand,0,173.343552,39C,511068.4175,33.771915,1.96241,4.8,90
+885,Private,Hockley,10,39.206692,-76.563617,0,slope,6,,,Cretaceous,gravel,sand,0,173.343552,39C,511068.4175,33.771915,1.96241,2.714285714,110
+886,Private,Hockley,11,39.206692,-76.563617,0,slope,6,,,Cretaceous,gravel,sand,0,173.343552,39C,511068.4175,33.771915,1.96241,5,50
+887,Private,Hockley,12,39.206732,-76.565058,0,slope,6,,,Cretaceous,gravel,sand,0,166.236084,39C,511068.4175,34.017239,4.183041,1.714285714,110
+888,Private,Hockley,13,39.206732,-76.565058,0,slope,6,,,Cretaceous,gravel,sand,0,166.236084,39C,511068.4175,34.017239,4.183041,0,0
+889,Private,Hockley,14,39.206923,-76.56495,0,slope,6,,,Cretaceous,gravel,sand,0,169.794571,39C,511068.4175,41.559792,2.90638,0,0
+890,Private,Hockley,15,39.206923,-76.56495,0,slope,6,,,Cretaceous,gravel,sand,0,169.794571,39C,511068.4175,41.559792,2.90638,0,0
+891,Private,Hockley,16,39.206134,-76.56487,0,slope,6,,,Cretaceous,gravel,sand,0,175.806046,39C,511068.4175,16.972458,4.32102,0,0
+892,Private,Hockley,17,39.206134,-76.56487,0,slope,6,,,Cretaceous,gravel,sand,0,175.806046,39C,511068.4175,16.972458,4.32102,0,0
+893,Private,Hockley,18,39.206134,-76.56487,0,slope,6,,,Cretaceous,gravel,sand,0,175.806046,39C,511068.4175,16.972458,4.32102,0,0
+894,Private,Hockley,19,39.206134,-76.56487,0,slope,6,,,Cretaceous,gravel,sand,0,175.806046,39C,511068.4175,16.972458,4.32102,0,0
+895,Private,Hockley,20,39.206134,-76.56487,0,slope,6,,,Cretaceous,gravel,sand,0,175.806046,39C,511068.4175,16.972458,4.32102,0,0
+896,Private,Hockley,21,39.206134,-76.56485,0,slope,6,,,Cretaceous,gravel,sand,0,175.806046,39C,511068.4175,16.611883,4.586433,0,0

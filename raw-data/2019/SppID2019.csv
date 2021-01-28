@@ -1,0 +1,284 @@
+Species Code,Scientific Name,Common Name,Vegetation Type,Soil Preference,Additional Notes,Native
+Dead,9999999,9999999,9999999,9999999,9999999,9999999
+ACVI,Acalypha virginica,Virginia Threeseed Mercury/Virginia Copperleaf,Herb,,,1
+ACNE2,Acer negundo,Box Elder,Tree,Moist,"Pioneer Species on disturbed sites. Native to river bottoms, but can be found on dry sites. Most common maple species",1
+ACPA2,Acer palmatum,Japanese Maple,Tree,,,0
+ACPL,Acer platanoides,Norway Maple,Tree,Moist,Commonly planted street tree that may escape into forests.  Shade tolerant seedlings,0
+ACRU,Acer rubrum,Red Maple,Tree,Wide,"Shade tolerant, prolific sprouter. Wide range of soil and temperature tolerances.",1
+ACSA2,Acer saccharinum,Silver Maple,Tree,Moist,Common along river edges and bottomlands.,1
+ACSA3,Acer saccharum,Sugar Maple,Tree,Moderate,,1
+ADIAP,Adiantum pedatum,Maidenhair fern,Herb,,,
+AEPO,Aegopodium podagraria,Bishop's goutweed,Herb,,,0
+AESCU,Aesculus,Buckeye sp,Tree,,,9999999
+AGALA,Ageratina altissima,White Snakeroot,Herb,,,1
+AIAL,Ailanthus altissima,Ailanthus,Tree,,,0
+ALJU,Albizia julibrissin,Silk Tree/Mimosa,Tree,,,0
+ALPE4,Alliaria petiolata,Garlic Mustard,Herb,,,0
+ALLIU,Allium sp.,Onion,Herb,,,99999999
+ALLIU2,Allium ursinum,Wild Garlic,Herb,,,
+AMAHY,Amaranthus hybridus,Smooth Pigweed (Green Amaranth),Herb,,,
+AMAR2,Ambrosia artemisiifolia,Common Ragweed,Herb,,,9999999
+AMBRO,Ambrosia sp.,Ragweed sp.,Herb,,,9999999
+AMAR3,Amelanchier aborea,Common Serviceberry,Tree,,,1
+AMARA5,Amelanchier arborea var. austromontana,Downy Serviceberry,Tree,,,1
+AMCA4,Amelanchier canadensis,Canadian Serviceberry,Tree,,,1
+AMBR7,Ampelopsis brevipendunculata,Porcelainberry vine/Amur peppervine,Vine,,,0
+AMBR2,Amphicarpaea bracteata,(American) Hogpeanut,Herb,,,1
+ANVI2,Andropogon virginicus,Broomsedge Bluestem,Herb,,,1
+APCA,Apocynum cannabinum,Hemp Dogbane/Indianhemp,Herb,,,1
+APOCY,Apocynum sp.,Dogbane sp.,Herb,,,1
+ARCTI,Arctium,Burdock,Herb,,,0
+ARISA,Arisaema sp.,Jack in the Pulpit sp.,Herb,,,1
+ARTR,Arisaema triphyllum,Jack in the Pulpit,Herb,,,1
+ARVU,Artemisia vulgaris,Common Wormwood/Mugwort,Herb,,,0
+ARUND,Arundinaria gigante,Switch Cane,Herb,,,
+ARDON,Arundo Donax,Giant Reed,Herb,,,
+ASCA,Asarum canadense,Canadian Wildginger,Herb,,,1
+ASARU,Asarum sp.,Wildginger,Herb,,,1
+ASCLE,Asclepias,Milkweed,Herb,,,9999999
+ASTR,Asimina triloba,Pawpaw,Tree,,,1
+ASTER,Aster sp.,Aster sp.,Herb,,,9999999
+AVENA,Avena fatua,Wild Oat,Herb,,,
+BAMBU,Bambusa sp.,Bamboo sp.,Tree,,,0
+BETH,Berberis thunbergii,Japanese Barberry,Shrub,,,0
+BENI,Betula nigra,River Birch,Tree,,,1
+BOCY,Boehmeria cylindrica,(Smallspike) False nettle,Herb,,,1
+BOEHM,Boehmeria sp.,False Nettle sp.,Herb,,,9999999
+BRPA4,Broussonetia papyrifera,Paper Mulberry,Tree,,,0
+BUDDL2,Buddleja,Butterfly Bush,Shrub,,,9999999
+BUXUS,Buxus microphylla japonica,Boxwood,Shrub,,,
+CASE13,Calystegia sepium,Hedge False Bindweed,Herb,,,9999999
+CARA2,Campsis radicans,Trumpet Creeper,Vine,,,1
+CARD,Cardamine hirsuta,Hairy Bittercress,Herb,,,
+CALU5,Carex lurida,Shallow Sedge,Herb,,,1
+CAREX,Carex sp.,Carex/ Sedge sp.,Herb,,,9999999
+CACA18,Carpinus caroliniana,American Hornbeam,Tree,,,1
+CARPI,Carpinus sp.,Hornbeam sp.,Tree,,,9999999
+CACO15,Carya cordiformis,Bitternut Hickory,Tree,,,1
+CAGL8,Carya glabra,Pignut Hickory,Tree,,,1
+CAOV2,Carya ovata,Shagbark Hickory,Tree,,,1
+CARYA,Carya sp.,Hickory sp.,Tree,,,1
+CATO6,Carya tomentosa,Mockernut Hickory,Tree,,,1
+CATAL,Catalpa Scop.,Catalpa SP,Tree,,,9999999
+CASP8,Catalpa speciosa,Northern Catalpa,Tree,,,1
+CEOR7,Celastrus orbiculatus,Oriental Bittersweet,Vine,,,0
+CEOC,Celtis occidentalis,Common Hackberry,Tree,,,1
+CELTI,Celtis sp.,Hackberry sp.,Tree,,,9999999
+CESTM,Centaurea stoebe,Spotted Knapweed,Herb,,,0
+CECA4,Cercis canadensis,Eastern Redbud,Tree,,,1
+CHAEN6,Chaenomeles,Flowering Quince,Herb,,,0
+CHTH2,Chamaecyparis thyoides,Atlantic White Cedar,Tree,,,1
+CHAL7,Chenopodium album,Lambsquarters,Herb,,,9999999
+CIIN,Cichorium intybus,Chicory,Herb,,,0
+CILU,Circaea lutetiana,(Broadleaf) Enchanter's Nightshade,Herb,,,1
+CIAR4,Cirsium arvense,Canada Thistle,Herb,,,0
+CLEMA,Clematis,Clematis,Vine,,,9999999
+CLTE4,Clematis terniflora,Sweet Autumn Virginsbower,Vine,,,0
+COCO2,Commelina caroliniana,Carolina Dayflower,Herb,,,
+COCO3,Commelina communis,Asiatic dayflower,Herb,,,0
+COAR4,Convolvulus arvensis,Field Bindweed,Vine,,,0
+COREO,Coreopsis,Tickseed,Herb,,,
+COAM2,Cornus amomum,Silky Dogwood,Herb,,,1
+COFL2,Cornus florida,Flowering Dogwood,Tree,,,1
+COKO2,Cornus kousa,Kousa Dogwood,Tree,,,0
+CORNU,Cornus sp.,Dogwood sp.,Tree,,,9999999
+CRATA,Crataegus,Hawthorn sp,Tree,,,9999999
+CRMO2,Crataegus mollis,Downy Hawthorn,Tree,,,1
+CUNLA,Cunninghamia lanceolata,China Tree,Tree,,,
+CYLO11,Cynanchum louiseae,Louise's Swallow-Wort/Black Swallow-Wort,Herb,,,0
+CYDA,Cynodon dactylon,Bermudagrass,Herb,,,0
+CYPRO,Cyperus rotundus,nut sedge,Herb,,,
+DACA6,Daucus carota,Queen Anne's Lace,Herb,,,0
+DAUCU,Daucus sp.,Wild Carrot Sp.,Herb,,,9999999
+DEPU2,Dennstaedtia punctilobula,(Eastern) Hayscented Fern,Herb,,,1
+DESMO,Desmodium sp.,Ticktrefoil,Herb,,,99999999
+DIGIT,Digitaria sanguinalis,Crabgrass,Herb,,,
+DIVI5,Diospyros virginiana,Persimmon (common),Tree,,,1
+DUIN2,Duchesnea indica,False Strawberry,Herb,,,0
+ELRE4,Elymus repens,Quackgrass,Herb,,,0
+ERHI12,Erechtites hieraciifolius,Burnweed (american),Herb,,,1
+ERAN,Erigeron annuus,Eastern Daisy Fleabane,Herb,,,1
+ERCAN,Erigeron canadensis,horseweed (marestail),Herb,,,
+EUAL13,Euonymus alatus,Euonymus (winged)/Burning Bush,Shrub,,,0
+EUAM9,Euonymus americanus,Euonymus americanus/Bursting-heart,Shrub,,,1
+EUFO5,Euonymus fortunei,Winter Creeper/Creeping Euonymus,Shrub,,,0
+EUFOR2,Euonymus fortunei var. radicans,Winter Creeper,Shrub,,,0
+EUONY2,Euonymus sp.,Euonymus / Spindletree sp.,Shrub,,,9999999
+EUPE3,Eupatorium perfoliatum,Common Boneset,Herb,,,1
+EUSE2,Eupatorium serotinum,Boneset,Herb,,,1
+FAGR,Fagus grandifolia,American Beech,Tree,,,1
+FESU3,Festuca subverticillata,Nodding Fescue,Herb,,,1
+FORSY,Forsythia vahl,Forsythia,Shrub,,,0
+FRAGA,Fragaria,Strawberry,Herb,,,9999999
+FRAM2,Fraxinus americana,White Ash,Tree,,,1
+FRPE,Fraxinus pennsylvanica,Green Ash,Tree,,,1
+FRAXI,Fraxinus species,Unknown Ash,Tree,,Either green or white ash.  Leaves and branches too high to distinguish,99999999
+GECA7,Geum canadense,White Avens,Herb,,,1
+GINKG,Ginkgo,Ginkgo Tree,Tree,,,0
+GLHE2,Glechoma hederacea,Ground Ivy,Herb,,,0
+GLTR,Gleditsia triacanthos,Honey Locust,Tree,,,1
+GYDI,Gymnocladus dioicus,Kentucky Coffeetree,Tree,,,1
+HAVI2,Hackelia virginiana,Virginia Stickseed,Herb,,,1
+HAVI4,Hamamelis virginiana,American Witch Hazel,Shrub,,,1
+HEHE,Hedera helix,English Ivy,Vine,,,0
+HETU,Helianthus tuberosus,Jerusalem Artichoke,Herb,,,1
+HEFU,Hemerocallis fulva,Orange Daylily,Herb,,,0
+HEMER,Hemerocallis sp.,Daylily,Herb,,,0
+HISY,Hibiscus syriacus,Rose of Sharon,Shrub,,,0
+ILOP,Ilex opaca,American Holly,Tree,,,1
+ILVER,Ilex verticillata,Winterberry,Shrub,,,
+IMCA,Impatiens capensis,Jewelweed,Herb,,,1
+IPCA,Ipomoea cairica,Mile a minute vine,Vine,,,0
+IPER,Ipomoea eriocarpa,Morningglory,Vine,,,9999999
+IPPU2,Ipomoea purpurea,Common morning-glory,Vine,,,0
+IRIS,Iris Versicolor,Northwern Blue Flag Iris (wild iris),Herb,,,
+JUCI,Juglans cinerea,Butternut,Tree,,,1
+JUNI,Juglans nigra,Black Walnut,Tree,,,1
+JUNCU,Juncus sp.,Rush,Herb,,,99999999
+JUNIP,Juniperus,Juniper L.,Tree,,,9999999
+JUVIV,Juniperus virginiana var. virginiana,Eastern Redcedar,Tree,,,1
+KUST,Kummerowia stipulacea,Korean Lespedeza/Korean Clover,Herb,,,0
+KUST2,Kummerowia striata,Lespedeza (common)/Japanese Clover,Herb,,,0
+LASE,Lactuca serriola,Prickly Lettuce,Herb,,,0
+LACE,Lappula cenchrusoides,Stickseed,Herb,,,1
+LECU,Lespedeza cuneata,Chinese Lespedeza,Herb,,,0
+LIGUS2,Ligustrum,Privet,Shrub,,,0
+LIOB,Ligustrum obtusifolium,Privet (border),Shrub,,,0
+LIBE3,Lindera benzoin,Spice Bush,Shrub,,,1
+LINDE2,Lindera sp.,Spicebush sp.,Shrub,,,1
+LIST2,Liquidambar styraciflua,Sweetgum,Tree,,,1
+LITU,Liriodendron tulipifera,Tulip Tree,Tree,,,1
+LOJA,Lonicera japonica,Japanese Honeysuckle,Vine,,,0
+LOMA6,Lonicera maackii,Amur Honeysuckle,Shrub,,,0
+LONIC,Lonicera sp.,Honeysuckle sp.,Shrub,,,9999999
+LOTA,Lonicera tatarica,Tatarian Honeysuckle,Shrub,,,0
+MAPO,Maclura pomifera,Osage Orange,Tree,,,1
+MAAC,Magnolia acuminata,Cucumber (Magnolia) Tree,Tree,,,1
+MAGNO,Magnolia grandiflora,Magnolia,Tree,,,
+MABE2,Mahonia bealei,Beale's Barberry/Leatherleaf Mohonia,Shub,,,0
+MAAN3,Malus angustifolia,Crab Apple (southern),Tree,,,1
+MELIL,Melilotus sp.,Sweetclover sp.,Herb,,,0
+MENTH,Mentha canadensis,Wild Mint,Herb,,,
+MIVI,Microstegium vimineum,Japanese Stiltgrass/Nepalese Browntop,Herb,,,0
+MOUN3,Monotropa uniflora,Indian Pipe,Herb,,,1
+MORUS,Morus,Mullberry SP,Tree,,,9999999
+MOAL,Morus alba,White Mulberry,Tree,,,0
+MORU2,Morus rubra,Red Mulberry,Tree,,,1
+NYSY,Nyssa sylvatica,Black Gum,Tree,,,1
+OPLIS,Oplismenus undulatifolius,Wavy leafed basketgrass,Herb,,,
+OXALI,Oxalis,Woodsorrel,Herb,,,9999999
+OXST,Oxalis stricta,Common Yellow Oxalis,Herb,,,1
+PATE11,Pachysandra terminalis,Japanese pachysandra,Vine,,,0
+PANIC,Panicum virgatum,switchgrass,Herb,,,
+PAQU2,Parthenocissus quinquefolia,Virginia Creeper,Vine,,,1
+PATO2,Paulownia tomentosa,Paulownia/Princess Tree,Tree,,,0
+PHALCA,Phalaris canariensis,Canary Grass,Herb,,,
+PHILA,Philadelphus,Mock Orange,Shrub,,,9999999
+PHPR3,Phleum pratense,Timothy Grass,Herb,,,0
+PHAM4,Phytolacca americana,(American) Pokeweed,Herb,,,1
+PIAB,Picea abies,Norway Spruce,Tree,,,0
+PIGL,Picea glauca,White Spruce,Tree,,,1
+PINU,Pilea nummulariifolia,Creeping Charlie,Herb,,,1
+PIRI,Pinus rigida,Pitch Pine,Tree,,,1
+PIST,Pinus strobus,Eastern White Pine,Tree,,,1
+PIVI2,Pinus virginiana,Virginia Pine,Tree,,,1
+PLMA2,Plantago major,Plantain (common),Herb,,,0
+PLOC,Platanus occidentalis,American Sycamore,Tree,,,1
+PLATA,Platanus sp.,Sycamore sp.,Tree,,,9999999
+POA,Poa sp.,Bluegrass sp.,Herb,,,9999999
+POPE,Podophyllum peltatum,Mayapple,Herb,,,1
+POBI2,Polygonatum biflorum,(Smooth) Solomon's seal,Herb,,,1
+POLYG2,Polygontanum sp.,Solomon's Seal,Herb,,,9999999
+POLYCO,Polygonum convolvulus,wild buckwheat,Herb,,,
+POCU6,Polygonum cuspidatum,Japanese Knotweed,Herb,,,0
+POPE2,Polygonum pensylvanicum,Pennsylvania smartweed,Herb,,,1
+POPE10,Polygonum perfoliatum,Asiatic Tearthumb,Herb,,,0
+POVI2,Polygonum virginianum,Jumpseed,Herb,,,1
+PODE3,Populus deltoides,Eastern Cottonwood,Tree,,,1
+POTEN,Potentilla,Cinquefoil,Herb,,,9999999
+PRAV,Prunus avium,Sweet Cherry,Tree,,,0
+PRSE2,Prunus serotina,Black Cherry,Tree,,,1
+PRSE3,Prunus serrulata,Japanese Flowering Cherry,Tree,,,0
+PRPI,Prunus virginiana,Chokecherry,Tree,,,
+PTEAQ,Pteridium aquilinum,Bracken fern,Herb,,,
+PYCA80,Pyrus calleryana,Callery (Bradford) Pear,Tree,,,0
+PYCO,Pyrus communis,Common Pear,Tree,,,0
+QUAL,Quercus alba,White Oak,Tree,,,1
+QUCO2,Quercus coccinea,Scarlet Oak,Tree,,,1
+QUFA,Quercus falcata,Southern Red Oak,Tree,,,1
+QUMA,Quercus marilandica,Blackjack Oak,Tree,,,
+QUMI,Quercus michauxii,Swamp chestnut Oak,Tree,,,1
+QUMO4,Quercus montana,Chestnut Oak,Tree,,,1
+QUPR2,Quercus montana,Chestnut Oak,Tree,,,1
+QUPA2,Quercus palustris,Pin Oak,Tree,,,1
+QUPH,Quercus phellos,Willow Oak,Tree,,,1
+QURU,Quercus rubra,Northern Red Oak,Tree,,,1
+QUERC,Quercus sp.,Oak sp.,Tree,,,9999999
+QUST,Quercus stellata,Post Oak,Tree,,,1
+QUVE,Quercus velutina,Black Oak,Tree,,,1
+RHODO,Rhododendron sp.,Rhododendron sp.,Shrub,,,9999999
+RHTY,Rhus typhina,Staghorn Sumac,Shrub,,,1
+ROPS,Robinia pseudoacacia,Black Locust,Tree,,,1
+ROMU,Rosa multiflora,Multiflora Rose,Shrub,,,0
+ROSA5,Rosa sp.,Rose sp.,Herb,,,9999999
+RUBUS,Rubus,Blackberry Sp.,Shrub,,,9999999
+RUAL,Rubus allegheniensis,Allegheny Blackberry,Vine,,,1
+RUALA,Rubus allegheniensis var. allegheniensis,Allegheny Blackberry,Vine,,,1
+RUPE3,Rubus pensilvanicus,Pennsylvania Blackberry,Shrub,,,1
+RUPH,Rubus phoenicolasius,Wine Raspberry,Shrub,,,0
+RUTH,Rubus tholiformis,Domeshape Dewberry,Vine,,,1
+RUDB,Rudbekia,Coneflower (sunflower),Herb,,,
+RUMEX,Rumex crispus,Curcly Dock,Herb,,,
+SALMA,Salix Matsudana,Curly Willow,Tree,,,
+SANI,Salix nigra,Black Willow,Tree,,,1
+SAMA2,Sanicula marilandica,Black snakeroot,Herb,,,1
+SAAL5,Sassafras albidum,Sassafras,Tree,,,1
+SASSA,Sassafras sp.,Sassafras sp.,Tree,,,1
+SEVA4,Securigera varia,Crownvetch,Herb,,,0
+SETVI,Setaria viridis,Green foxtail grass,Herb,,,
+SMILA2,Smilax rotundifolia,Green Brier Sp.,Vine,,,1
+SOLAN,Solanum carolinense,Carolina horsenettle,Herb,,,
+SODU,Solanum dulcamara,Climbing Nightshade,Herb,,,0
+SOLID,Solidago,Golden Rod,Herb,,,1
+SOAL6,Solidago altissima,Canada Goldenrod,Herb,,,1
+SOCA6,Solidago canadensis,Canada Goldenrod,Herb,,,1
+SOOL,Sonchus oleraceus,Common Sowthistle,Herb,,,0
+SYFO,Symplocarpus foetidus,Skunk Cabbage,Herb,,,1
+TAOF,Taraxacum officinale,Dandelion (common),Herb,,,9999999
+TARAX,Taraxacum sp.,Dandelion sp.,Herb,,,9999999
+TADI2,Taxodium distichum,Bald Cypress,Tree,,,1
+TAXUS,Taxus sp.,Yew,Tree,,,99999999
+THOR,Thuja occidentalis,Northern White Cedar,Tree,,,1
+TIAM,Tilia americana,American Basswood,Tree,,,1
+TICO2,Tilia cordata,Little Leaf Linden,Tree,,,0
+TORA2,Toxicodendron radicans,Poison Ivy,Vine,,,1
+TRRE3,Trifolium repens,White Clover,Herb,,,0
+TSCA,Tsuga canadensis,Eastern Hemlock,Tree,,,1
+TYPHA,Typha,Cattail (Reed),Herb,,,9999999
+ULAM,Ulmus americana,American Elm,Tree,,,1
+ULPU,Ulmus pumila,Siberian Elm,Tree,,,0
+ULRU,Ulmus rubra,Slippery Elm,Tree,,,1
+ULMUS,Ulmus sp.,Elm sp.,Tree,,,9999999
+Unidentified,Unidentified,Unidentified,9999999,9999999,9999999,9999999
+Unidentified Herb,Unidentified Herb,Unidentified Herb,9999999,9999999,9999999,9999999
+Unidentified Shrub,Unidentified Shrub,Unidentified Shrub,9999999,9999999,9999999,9999999
+Unidentified Vine,Unidentified Vine,Unidentified Vine,9999999,9999999,9999999,9999999
+UNKNOWN1,Unknown 1,Unknown 1,9999999,9999999,9999999,9999999
+UNKNOWN3,Unknown 3,Unknown 3,9999999,9999999,9999999,9999999
+URDI,Urtica dioica,Stinging Nettle,Herb,,,9999999
+VAAN,Vaccinium augustifolium,Lowbush Blueberry,Shrub,,,1
+VACO,Vaccinium corymbosum,Highbush Blueberry,Shrub,,,1
+VIAC,Viburnum acerifolium,Mapleleaf Viburnum,Shrub,,,1
+VIDE,Viburnum dentatum,Arrowwood Viburnum (Southern Arrowwood),Shrub,,,1
+VIDI80,Viburnum dilatatum,Linden Arrowwood,Shrub,,,0
+VIPR,Viburnum prunifolium,Blackhaw Viburnum,Tree,,,1
+VIBUR,Viburnum sp.,Viburnum sp.,Shrub,,,9999999
+VIMI2,Vinca minor,Common Periwinkle,Herb,,,0
+VISO,Viola sororia,Violet (common blue),Herb,,,1
+VIOLA,Viola sp.,Violet sp.,Herb,,,9999999
+VIRI,Vitis riparia,Riverbank Grape,Vine,,,1
+VITIS,Vitis sp.,Grape sp.,Vine,,,9999999
+WIFL,Wisteria floribunda,Japanese Wisteria,Vine,,,0
+WISI,Wisteria sinensis,Chinese Wisteria,Vine,,,0
+WISTE,Wisteria sp.,Wisteria sp.,Vine,,,9999999
+ZESE80,Zelkova serrata,Japanese Zelkova,Tree,,,0

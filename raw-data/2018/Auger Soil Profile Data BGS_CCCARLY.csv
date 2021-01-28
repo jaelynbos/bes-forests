@@ -1,0 +1,46 @@
+ID,Auger Number,Layer Number,Hue,Texture,Additional Notes/Anomalies,Start Depth (mm),End Depth (mm),Chroma,Value
+5,1,1,10 YR,Silty Clay Loam,,0,140,2,3
+6,1,2,7.5 YR,Silty Clay,,140,265,4,4
+7,1,3,7.5 YR,Clay,,265,545,6,4
+8,4,1,10 YR,Silty Clay Loam,,0,90,2,3
+9,4,2,10 YR,Clay Loam,,90,290,4,4
+10,4,3,10 YR,Clay Loam,,290,520,3,6
+11,4,4,10 YR,Clay,,520,670,8,6
+12,5,1,9999999,O Layer,,0,50,9999999,9999999
+13,5,2,10 YR,Clay Loam,,50,350,4,5
+14,5,3,10 YR,Clay,Both A layers are very pebbly,350,650,8,5
+15,6,1,10 YR,Silty Clay,,0,140,2,4
+16,6,2,10 YR,Clay Loam,,140,310,3,4
+17,6,3,10 YR,Clay,,310,440,6,5
+18,6,4,10 YR,Clay,,440,590,6,6
+19,6,5,10 YR,Clay,,590,700,8,5
+20,7,1,10 YR,Sandy Clay Loam,Soil was very pebbly,0,270,4,3
+21,7,2,5 YR,Sandy Clay,,270,450,6,4
+22,8,1,9999999,O Layer,,0,20,9999999,9999999
+23,8,2,10 YR,Silty Loam,,20,170,3,3
+24,8,3,10 YR,Silty Clay Loam,,170,300,3,4
+25,8,4,10 YR,Silty Clay,Small weathered stones.,300,440,4,5
+26,8,5,10 YR,Sandy Clay,Clay accumulation noticed. Small weathered stones.,440,600,8,6
+27,9,1,10 YR,Silty Clay Loam,,0,100,1,3
+28,9,2,10 YR,Silty Clay,Very pebbly; rounded rocks,100,230,1,4
+29,9,3,10 YR,Not enough soil,Very pebbly; rounded rocks,230,320,2,4
+30,9,4,10 YR,Sandy Clay,Very pebbly; rounded rocks,320,480,3,4
+31,10,1,9999999,O Layer,,0,70,9999999,9999999
+32,10,2,10 YR,Silty Clay Loam,,70,250,4,5
+33,10,3,7.5 YR,Clay,,250,500,4,4
+34,11,1,10 YR,Sandy Clay Loam,gritty,0,200,2,3
+35,11,2,10 YR,Sandy Clay,,200,450,4,4
+36,12,1,10 YR,Loamy Sand,,0,670,2,2
+37,12,2,10 YR,Sandy Clay,,670,950,4,5
+38,1,3,10YR,Sandy clay loam,,0,330,3,4
+39,1,1,10YR,Loamy sand,Bottom of very steep slope,0,430,3,2
+40,1,2,10YR,Sandy clay loam,,0,350,2,2
+41,1,1,10YR,Loamy sand,Point was on a very steep slope next to a busy road.,0,330,2,2
+42,1,2,7.5YR,Silty clay,This plot was in someone's well- kept yard,0,350,4,4
+43,1,2,10YR,Sandy clay loam,This plot was on a dump's property. It was not a landfill but on he boundary of a dump,0,420,3,1
+44,1,1,10YR,Silty clay,At a church that is at the beginning stages of establishing a nature center in the forest,0,420,3,2
+45,1,2,7.5YR,Silty clay,At a church that is at the beginning stages of establishing a nature center in the forest,0,320,3,2
+46,1,2,10YR,Silty clay,,0,250,2,1
+47,1,2,10YR,Silty clay,Point is mid-slope; at the bottom of slope is a floodplain with a river ,0,220,3,2
+48,1,1,7.5YR,Silty clay,"Right by hotel, at top of steep slope",0,230,"2,5",2
+49,1,2,10YR,Sandy loam,At top of steep slope,0,270,3,3
